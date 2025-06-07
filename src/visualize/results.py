@@ -13,5 +13,4 @@ def visualize_results(file_path: str):
     plt.xlabel("Employment Change % (2023 - 2033)")
     plt.title("Demand for Jobs You Picked")
     plt.grid(True, linestyle="--", alpha=1)
-    plt.savefig("results/results.png")
     plt.show()
