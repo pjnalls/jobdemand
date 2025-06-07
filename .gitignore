@@ -1,0 +1,9 @@
+# Environments
+.venv/
+
+# Python
+__pycache__/
+*.py[co]
+
+# IDEs
+.vscode/

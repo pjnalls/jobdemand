@@ -1,0 +1,841 @@
+2023 National Employment Matrix title,2023 National Employment Matrix code,"Employment, 2023","Employment, 2033","Employment change, numeric, 2023–33","Employment change, percent, 2023–33","Median annual wage, dollars, 2024[1]",Typical education needed for entry,Adaptability,Computers and information technology,Creativity and innovation,Critical and analytical thinking,Customer service,Detail oriented,Fine motor,Interpersonal,Leadership,Mathematics,Mechanical,Physical strength and stamina,Problem solving and decision making,Project management,Science,Speaking and listening,Writing and reading
+"Total, all occupations",00-0000,"167,849.8","174,589.0","6,739.2",4.0,"49,500",—,3.8,3.0,2.7,3.1,3.3,3.6,2.5,3.5,3.2,2.6,1.9,2.2,3.5,2.7,1.7,3.2,3.3
+  Home health and personal care aides,31-1120,"3,961.9","4,782.4",820.5,20.7,"34,900",High school diploma or equivalent,3.9,2.6,2.8,2.8,3.2,3.7,2.1,4.2,3.2,2.1,1.8,2.8,3.3,2.7,1.8,3.0,3.2
+  Software developers[2],15-1252,"1,692.1","1,995.7",303.7,17.9,"133,080",Bachelor's degree,4.1,4.4,3.5,4.1,2.8,3.8,2.0,3.1,3.5,3.3,1.6,1.2,4.0,3.0,1.9,3.5,4.0
+"  Cooks, restaurant",35-2014,"1,434.2","1,678.6",244.5,17.0,"36,830",No formal educational credential,3.7,2.0,2.8,2.7,3.2,3.6,3.2,3.2,3.3,2.6,1.9,2.7,2.9,2.8,1.7,2.7,2.6
+  Fast food and counter workers,35-3023,"3,734.1","3,946.5",212.5,5.7,"30,480",No formal educational credential,3.4,2.0,2.3,2.3,3.5,3.3,2.5,3.3,3.1,2.5,1.5,2.3,2.9,2.3,1.5,2.9,2.2
+  General and operations managers,11-1021,"3,630.1","3,840.5",210.4,5.8,"102,950",Bachelor's degree,4.1,3.5,3.1,3.6,3.6,3.6,1.7,3.7,4.0,3.0,1.7,1.7,4.1,3.6,1.7,3.5,3.8
+  Registered nurses,29-1141,"3,300.1","3,497.3",197.2,6.0,"93,600",Bachelor's degree,4.2,3.6,2.8,3.6,3.8,4.0,2.7,4.3,3.8,3.1,1.7,2.8,3.9,2.7,2.5,3.5,3.9
+  Stockers and order fillers,53-7065,"2,864.7","3,033.3",168.6,5.9,"37,090",High school diploma or equivalent,3.2,2.7,2.3,2.5,3.2,3.4,2.5,3.1,2.8,2.2,1.8,3.0,3.0,2.3,1.4,2.9,2.7
+  Medical and health services managers,11-9111,562.7,723.3,160.6,28.5,"117,960",Bachelor's degree,4.4,3.9,3.0,4.0,3.6,3.5,1.7,4.0,4.3,3.0,1.4,1.4,3.9,3.8,2.1,3.7,4.0
+  Financial managers,11-3031,837.1,975.3,138.3,16.5,"161,700",Bachelor's degree,3.9,3.6,2.7,3.5,3.3,3.8,1.9,3.7,4.0,3.6,1.3,1.2,3.9,3.2,1.1,3.7,3.8
+  Nurse practitioners,29-1171,292.5,427.9,135.5,46.3,"129,210",Master's degree,4.4,3.7,2.8,3.9,3.7,4.2,2.5,4.2,3.6,3.1,1.5,2.3,4.2,2.7,3.3,3.7,4.1
+"  Laborers and freight, stock, and material movers, hand",53-7062,"3,004.8","3,130.6",125.7,4.2,"38,940",No formal educational credential,3.2,2.1,1.9,2.4,2.7,3.4,3.1,2.7,2.4,2.1,2.5,3.2,3.1,1.9,1.2,2.5,2.7
+  Medical assistants,31-9092,783.9,901.9,118.0,15.0,"44,200",Postsecondary nondegree award,4.2,3.6,2.9,3.1,3.6,4.0,2.4,4.0,3.2,2.7,2.1,2.3,3.3,3.0,2.2,3.5,3.7
+  Construction laborers,47-2061,"1,401.2","1,516.6",115.4,8.2,"46,730",No formal educational credential,3.2,1.9,2.3,2.6,2.8,3.7,3.2,2.9,3.1,2.0,3.0,3.1,3.2,2.7,1.5,2.7,2.7
+  Management analysts,13-1111,"1,018.3","1,126.2",107.9,10.6,"101,190",Bachelor's degree,4.2,3.7,3.2,4.0,3.4,3.6,1.5,3.7,3.7,3.1,1.3,1.3,4.1,3.1,1.5,3.7,4.1
+  Computer and information systems managers,11-3021,613.5,720.4,106.9,17.4,"171,200",Bachelor's degree,3.9,4.2,3.0,3.9,3.0,3.8,2.3,3.4,3.9,3.1,1.7,1.3,4.1,3.5,1.4,3.4,3.8
+  Heavy and tractor-trailer truck drivers,53-3032,"2,211.3","2,313.4",102.0,4.6,"57,440",Postsecondary nondegree award,3.5,2.6,2.1,2.6,2.9,3.9,3.5,2.8,2.3,2.2,2.9,2.7,3.4,2.2,1.5,2.7,2.7
+  Light truck drivers,53-3033,"1,092.6","1,188.9",96.3,8.8,"44,140",High school diploma or equivalent,3.5,2.5,2.3,2.7,3.1,3.6,3.0,3.0,2.7,2.2,2.5,3.1,3.2,2.4,1.6,2.8,2.9
+  Accountants and auditors,13-2011,"1,562.0","1,653.4",91.4,5.8,"81,680",Bachelor's degree,3.8,3.7,2.6,3.7,2.9,3.9,1.6,3.2,3.5,3.9,1.1,1.2,3.8,3.1,1.3,3.3,3.8
+"  Substance abuse, behavioral disorder, and mental health counselors",21-1018,449.8,534.3,84.5,18.8,"59,190",Master's degree,4.2,3.5,3.1,3.6,3.5,3.4,1.5,4.5,3.3,2.2,1.3,1.7,3.5,2.7,1.8,3.9,3.9
+  Electricians,47-2111,779.8,864.1,84.3,10.8,"62,350",High school diploma or equivalent,3.9,2.5,2.9,3.5,3.2,3.9,3.6,3.2,3.7,3.1,3.4,3.4,3.8,3.3,1.8,2.9,3.2
+"  Maintenance and repair workers, general",49-9071,"1,616.5","1,698.3",81.8,5.1,"48,620",High school diploma or equivalent,3.8,3.0,2.8,3.1,3.0,3.6,3.3,3.0,3.1,2.6,3.7,3.1,3.6,2.9,1.7,2.8,3.0
+  First-line supervisors of food preparation and serving workers,35-1012,"1,211.4","1,288.2",76.8,6.3,"42,010",High school diploma or equivalent,3.8,2.8,2.5,3.1,4.1,3.7,2.9,3.6,3.9,3.1,1.8,2.7,3.8,3.2,1.5,3.4,3.0
+"  Janitors and cleaners, except maids and housekeeping cleaners",37-2011,"2,431.6","2,507.3",75.8,3.1,"35,930",No formal educational credential,3.3,2.4,2.3,2.4,2.4,3.1,2.8,2.9,3.0,1.5,2.1,3.0,2.9,2.6,1.4,2.6,2.5
+  Market research analysts and marketing specialists,13-1161,903.4,978.3,74.9,8.3,"76,950",Bachelor's degree,3.8,3.8,3.2,4.0,3.2,3.6,1.4,3.0,3.1,3.4,1.1,1.1,3.8,2.9,1.4,3.6,4.1
+  Human resources specialists,13-1071,933.7,"1,007.9",74.2,7.9,"72,910",Bachelor's degree,4.1,3.6,2.7,3.2,3.3,3.7,2.0,3.8,3.4,2.2,1.1,1.3,3.6,2.9,1.1,3.7,3.8
+  Industrial machinery mechanics,49-9041,429.5,503.3,73.8,17.2,"63,760",High school diploma or equivalent,3.7,2.9,2.8,3.1,2.0,3.4,3.8,2.9,3.0,2.5,3.7,3.0,3.3,2.4,2.0,2.6,3.0
+"  Managers, all other[2]",11-9199,"1,282.5","1,356.2",73.7,5.7,"136,550",Bachelor's degree,4.0,3.4,3.0,3.6,3.5,3.6,2.0,3.6,3.9,3.1,1.8,1.9,3.9,3.6,2.1,3.6,3.7
+  Data scientists[2],15-2051,202.9,276.0,73.1,36.0,"112,590",Bachelor's degree,3.7,3.9,2.9,3.9,2.0,3.5,1.7,2.7,2.8,4.6,1.1,1.1,3.5,2.3,2.3,3.4,4.0
+  Project management specialists[2],13-1082,973.6,"1,043.4",69.9,7.2,"100,750",Bachelor's degree,4.3,4.0,3.0,3.8,3.5,3.5,1.5,3.7,4.2,3.0,1.4,1.2,3.8,3.9,1.7,3.7,4.1
+  Bartenders,35-3011,734.3,798.9,64.5,8.8,"33,530",No formal educational credential,3.7,2.3,2.8,2.6,3.8,3.1,2.8,3.7,3.1,2.5,1.6,2.8,3.2,2.9,1.3,3.1,2.8
+"  Business operations specialists, all other[2]",13-1199,"1,181.5","1,245.3",63.8,5.4,"81,270",Bachelor's degree,4.1,3.7,3.0,3.7,3.4,3.6,1.7,3.5,3.5,3.0,1.3,1.3,3.8,3.2,1.5,3.6,3.9
+  Nursing assistants,31-1131,"1,419.4","1,481.8",62.4,4.4,"39,530",Postsecondary nondegree award,4.0,2.6,2.7,2.7,3.3,3.8,2.3,4.2,3.2,2.2,1.7,3.1,3.1,2.3,1.8,3.1,3.1
+  Animal caretakers,39-2021,364.6,425.2,60.6,16.6,"33,470",High school diploma or equivalent,3.8,2.7,2.5,2.6,3.3,3.5,2.4,3.3,2.7,2.1,1.7,2.8,3.3,2.5,1.9,2.8,2.9
+  Landscaping and groundskeeping workers,37-3011,"1,188.2","1,248.3",60.1,5.1,"38,090",No formal educational credential,3.4,1.5,2.4,2.4,2.7,3.3,2.9,3.2,2.7,1.9,2.5,3.2,2.6,2.2,2.2,2.5,1.9
+  Information security analysts,15-1212,180.7,239.8,59.1,32.7,"124,910",Bachelor's degree,3.9,4.1,2.8,3.8,2.7,3.8,2.2,3.0,2.9,2.5,1.7,1.3,3.6,2.5,1.4,3.3,3.8
+  Computer systems analysts,15-1211,527.2,583.7,56.5,10.7,"103,790",Bachelor's degree,3.6,4.3,2.8,3.9,2.4,3.6,2.4,3.1,2.9,3.1,2.2,1.4,3.8,2.7,1.5,3.4,3.7
+  Personal financial advisors,13-2052,321.0,375.9,55.0,17.1,"102,140",Bachelor's degree,3.9,3.5,2.6,3.7,3.4,3.6,1.5,3.8,3.1,3.6,1.1,1.1,4.0,3.1,1.2,3.6,4.0
+"  Health specialties teachers, postsecondary",25-1071,284.2,337.5,53.3,18.8,"105,620",Doctoral or professional degree,4.2,3.7,3.2,3.6,3.0,3.5,1.9,3.7,3.6,3.0,1.8,1.8,3.9,2.7,3.2,3.9,4.1
+"  Computer occupations, all other[2]",15-1299,470.9,522.0,51.1,10.8,"108,970",Bachelor's degree,4.0,4.3,3.1,3.9,2.6,3.7,2.3,3.1,3.2,3.0,2.0,1.3,3.8,2.8,1.6,3.4,3.8
+  First-line supervisors of construction trades and extraction workers,47-1011,853.2,903.4,50.3,5.9,"78,690",High school diploma or equivalent,4.0,2.8,2.8,3.3,3.3,3.9,2.8,3.4,3.7,3.0,2.8,2.5,3.9,3.0,2.0,3.3,3.2
+  Training and development specialists,13-1151,420.1,468.6,48.5,11.5,"65,850",Bachelor's degree,4.2,3.4,3.2,3.6,3.2,3.0,1.5,3.8,3.7,2.4,1.3,1.3,3.6,3.0,1.4,3.9,4.0
+  Construction managers,11-9021,520.9,568.5,47.6,9.1,"106,980",Bachelor's degree,4.0,3.6,2.7,3.6,3.3,3.8,1.7,3.3,4.0,3.3,1.7,1.9,4.0,4.0,2.1,3.5,3.6
+  Exercise trainers and group fitness instructors,39-9031,350.1,397.7,47.5,13.6,"46,180",High school diploma or equivalent,3.7,2.7,3.1,2.8,3.4,3.1,2.0,4.0,3.1,1.8,1.6,3.5,3.0,2.5,1.9,3.2,2.9
+  Driver/sales workers,53-3031,503.2,549.3,46.1,9.2,"37,130",High school diploma or equivalent,3.5,2.3,2.3,2.5,3.6,3.5,3.2,3.0,2.2,2.7,2.0,3.0,3.1,2.4,1.1,3.2,2.8
+  Logisticians,13-1081,237.1,282.9,45.8,19.3,"80,880",Bachelor's degree,3.9,3.7,2.9,3.8,3.3,3.5,1.6,3.4,3.7,3.2,1.4,1.3,3.8,3.5,1.6,3.6,3.7
+  Lawyers,23-1011,859.0,903.3,44.2,5.2,"151,160",Doctoral or professional degree,4.3,3.5,3.0,3.9,3.8,4.2,2.0,3.5,3.1,2.4,1.3,1.3,4.3,2.8,1.3,4.0,4.3
+"  Sales representatives of services, except advertising, insurance, financial services, and travel[2]",41-3091,"1,170.3","1,214.5",44.2,3.8,"66,260",High school diploma or equivalent,4.1,3.5,2.5,3.0,4.0,3.6,2.4,3.5,3.1,2.7,1.4,1.5,3.3,2.5,1.2,3.5,3.4
+  Physician assistants,29-1071,153.4,197.1,43.7,28.5,"133,260",Master's degree,4.5,3.9,2.6,3.9,3.7,4.3,2.4,4.4,3.4,3.1,1.4,2.3,4.3,2.8,3.6,3.7,4.1
+  Medical secretaries and administrative assistants,43-6013,768.9,810.1,41.3,5.4,"44,640",High school diploma or equivalent,3.7,3.6,2.3,2.9,3.8,3.5,2.4,3.9,2.9,2.3,1.4,1.3,3.3,2.8,1.4,3.5,3.4
+  Industrial engineers,17-2112,336.6,377.5,40.9,12.2,"101,140",Bachelor's degree,3.9,3.7,3.1,3.7,2.9,3.9,2.0,3.0,3.1,3.3,2.1,1.6,3.8,2.8,2.3,3.5,3.8
+  Dining room and cafeteria attendants and bartender helpers,35-9011,493.8,534.7,40.9,8.3,"32,670",No formal educational credential,3.5,2.1,2.1,2.3,3.6,3.1,2.8,3.5,2.8,1.9,1.6,3.1,2.8,2.5,1.2,2.8,2.2
+"  Hairdressers, hairstylists, and cosmetologists",39-5012,571.1,611.4,40.3,7.1,"35,250",Postsecondary nondegree award,3.9,2.4,3.2,2.9,3.8,3.5,3.4,3.8,3.0,2.3,1.8,2.6,3.5,2.5,1.8,3.2,3.0
+"  Heating, air conditioning, and refrigeration mechanics and installers",49-9021,441.2,481.3,40.1,9.1,"59,810",Postsecondary nondegree award,3.7,3.0,2.9,3.3,3.1,3.8,3.4,3.3,3.3,2.6,3.5,3.0,3.8,2.7,2.3,2.9,3.1
+  Carpenters,47-2031,923.1,961.6,38.6,4.2,"59,310",High school diploma or equivalent,3.7,2.5,2.7,3.1,2.9,4.0,3.4,3.2,3.4,3.1,2.8,3.1,3.5,2.9,2.0,2.9,3.0
+  Buyers and purchasing agents,13-1020,524.1,561.4,37.2,7.1,"75,650",Bachelor's degree,4.0,3.5,2.8,3.5,3.3,3.8,1.5,3.3,3.3,3.3,1.3,1.4,3.9,3.5,1.4,3.5,3.6
+  Computer user support specialists,15-1232,725.3,762.5,37.2,5.1,"60,340","Some college, no degree",4.1,4.2,2.9,3.4,2.6,3.8,2.9,3.3,3.1,2.3,2.6,1.8,3.7,2.5,1.5,3.6,3.8
+  Physical therapists,29-1123,259.2,296.0,36.8,14.2,"101,020",Doctoral or professional degree,4.2,3.4,3.0,3.6,3.9,3.7,2.9,4.4,3.6,2.5,1.8,2.9,4.1,2.7,3.0,3.5,3.9
+  Social and human service assistants,21-1093,433.0,467.4,34.4,7.9,"45,120",High school diploma or equivalent,4.0,3.6,2.9,3.2,3.8,3.5,1.7,4.1,3.2,2.0,1.3,2.0,3.5,2.7,1.4,3.6,3.7
+  Sales managers,11-2022,584.8,619.1,34.3,5.9,"138,060",Bachelor's degree,4.2,3.5,3.4,3.7,3.9,3.0,1.6,3.7,4.1,3.1,1.4,1.3,3.8,3.5,1.5,3.7,3.8
+"  Securities, commodities, and financial services sales agents",41-3031,513.8,547.9,34.1,6.6,"78,140",Bachelor's degree,4.0,3.7,2.7,3.4,3.6,3.8,1.6,3.3,2.9,3.3,1.2,1.2,3.9,2.9,1.2,3.4,3.6
+  Insurance sales agents,41-3021,547.6,581.0,33.4,6.1,"60,370",High school diploma or equivalent,3.8,3.3,2.5,3.1,3.9,3.7,1.7,3.4,2.3,3.2,1.3,1.3,3.6,2.3,1.1,3.6,3.7
+  Speech-language pathologists,29-1127,180.8,214.1,33.3,18.4,"95,410",Master's degree,4.4,3.6,3.1,3.9,3.2,3.7,2.0,4.3,3.1,2.4,1.3,1.5,4.0,2.3,2.1,3.8,4.1
+  Pharmacy technicians,29-2052,463.9,497.2,33.3,7.2,"43,460",High school diploma or equivalent,3.9,3.6,2.3,3.0,3.7,4.2,2.7,3.6,3.2,3.2,1.7,2.4,3.3,2.7,2.1,3.4,3.5
+  Financial and investment analysts[2],13-2051,347.4,380.5,33.1,9.5,"101,350",Bachelor's degree,3.9,3.5,2.6,3.7,3.4,3.6,1.5,3.8,3.1,3.6,1.1,1.1,4.0,3.1,1.2,3.6,4.0
+  Mechanical engineers,17-2141,291.9,323.9,32.1,11.0,"102,320",Bachelor's degree,3.9,3.8,3.2,3.9,2.7,3.8,2.2,3.1,3.1,4.0,2.3,1.4,4.0,2.8,3.2,3.2,3.4
+  Marketing managers,11-2021,389.1,420.8,31.7,8.2,"161,030",Bachelor's degree,4.0,3.6,3.4,3.7,3.5,3.4,1.7,3.5,3.8,3.1,1.1,1.3,4.0,3.3,1.3,3.8,3.7
+  Dental assistants,31-9091,376.5,408.0,31.5,8.4,"47,300",Postsecondary nondegree award,4.1,3.4,2.6,2.9,3.8,3.7,3.1,3.8,3.3,2.2,2.1,2.6,3.2,2.9,1.9,3.4,3.2
+"  First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors[2]",53-1047,594.1,625.6,31.5,5.3,"61,890",High school diploma or equivalent,3.9,3.4,2.8,3.4,3.3,3.8,2.6,3.4,4.1,2.9,2.5,2.4,3.9,3.1,1.8,3.5,3.4
+  Operations research analysts,15-2031,123.3,151.6,28.3,23.0,"91,290",Bachelor's degree,3.8,3.9,3.4,4.3,2.2,3.6,1.5,2.7,2.9,4.6,1.1,1.1,4.2,2.5,2.1,3.4,4.1
+  Physical therapist assistants,31-2021,108.5,136.0,27.5,25.4,"65,510",Associate's degree,4.1,3.4,2.8,3.0,3.6,3.7,2.8,4.2,3.1,2.2,2.0,3.0,3.8,2.5,2.5,3.5,3.4
+  Coaches and scouts,27-2022,307.1,334.0,26.9,8.8,"45,920",Bachelor's degree,4.1,3.2,3.2,3.7,3.2,3.4,1.9,4.0,3.9,2.3,1.5,2.6,3.9,3.2,1.8,4.0,3.7
+  Security guards,33-9032,"1,229.6","1,256.3",26.6,2.2,"38,370",High school diploma or equivalent,4.1,3.6,3.1,3.0,4.0,3.9,2.1,3.9,3.6,2.1,1.9,2.5,3.4,2.8,2.0,3.2,3.0
+  Police and sheriff's patrol officers,33-3051,674.2,700.6,26.4,3.9,"76,290",High school diploma or equivalent,4.3,3.5,2.7,3.3,4.3,4.1,2.7,4.1,3.6,2.3,2.0,3.0,3.9,2.7,1.8,3.7,3.6
+"  Plumbers, pipefitters, and steamfitters",47-2152,473.4,499.7,26.3,5.6,"62,970",High school diploma or equivalent,3.6,2.4,2.7,3.1,2.8,3.7,3.5,3.0,3.2,2.8,3.2,3.2,3.8,2.7,2.2,2.6,2.8
+  Massage therapists,31-9011,147.1,173.2,26.0,17.7,"57,950",Postsecondary nondegree award,3.8,2.5,2.7,2.8,3.3,3.3,2.7,4.0,2.3,1.9,1.2,3.1,3.5,2.5,2.1,3.0,3.1
+  Manicurists and pedicurists,39-5092,212.7,237.8,25.1,11.8,"34,660",Postsecondary nondegree award,3.3,1.7,2.5,2.2,2.5,3.0,2.9,3.1,2.2,1.8,1.5,1.6,2.4,2.0,1.7,2.6,2.3
+  Packaging and filling machine operators and tenders,51-9111,367.9,392.5,24.6,6.7,"40,900",High school diploma or equivalent,3.3,2.3,2.5,2.6,2.5,3.8,3.3,2.9,3.0,2.4,2.7,2.9,3.3,2.1,1.7,2.7,2.8
+  Veterinary technologists and technicians,29-2056,125.7,150.0,24.3,19.3,"45,980",Associate's degree,4.1,3.2,2.5,3.3,3.5,4.0,3.0,3.7,3.2,3.0,2.3,2.9,3.5,2.8,3.1,3.2,3.5
+  Software quality assurance analysts and testers,15-1253,205.0,229.2,24.2,11.8,"102,610",Bachelor's degree,3.9,4.4,2.9,3.8,2.3,3.8,2.1,3.0,3.1,2.8,1.6,1.2,3.5,2.5,1.6,3.3,3.8
+  Computer network architects,15-1241,177.8,201.7,23.9,13.4,"130,390",Bachelor's degree,3.7,4.4,2.9,3.9,2.4,3.7,2.2,2.7,3.1,3.2,2.1,1.4,3.9,2.8,1.8,3.4,3.9
+"  Preschool teachers, except special education",25-2011,528.5,551.8,23.3,4.4,"37,120",Associate's degree,4.0,2.1,3.4,2.9,2.9,3.4,2.0,4.1,3.2,2.2,1.3,2.5,3.3,2.5,1.4,3.5,3.2
+  Veterinary assistants and laboratory animal caretakers,31-9096,118.2,141.1,22.9,19.4,"37,320",High school diploma or equivalent,3.8,3.3,2.3,2.8,3.7,4.0,2.8,3.7,3.1,2.8,2.1,2.9,3.4,2.8,2.6,3.0,3.2
+  Waiters and waitresses,35-3031,"2,277.9","2,300.8",22.9,1.0,"33,760",No formal educational credential,3.6,2.0,2.3,2.5,3.7,3.3,2.4,3.7,2.9,2.2,1.5,3.0,3.0,2.2,1.3,3.3,2.5
+  Taxi drivers[2],53-3054,171.1,193.8,22.7,13.3,"36,220",No formal educational credential,3.7,2.3,2.2,2.6,3.5,3.8,3.3,3.5,2.6,2.1,2.4,2.3,3.3,2.1,1.3,2.9,2.8
+  Civil engineers,17-2051,341.8,363.9,22.1,6.5,"99,590",Bachelor's degree,3.7,3.6,2.8,3.9,3.0,3.8,1.8,2.9,3.5,4.0,1.5,1.3,3.8,3.4,2.8,3.4,3.7
+  Compliance officers,13-1041,403.9,425.8,21.9,5.4,"78,420",Bachelor's degree,3.8,3.5,2.6,3.4,3.8,3.8,2.3,3.4,2.8,2.5,1.7,2.2,3.5,2.6,1.4,3.5,3.7
+"  First-line supervisors of mechanics, installers, and repairers",49-1011,604.3,626.2,21.9,3.6,"78,300",High school diploma or equivalent,3.9,3.4,2.8,3.5,3.0,3.6,3.0,3.3,3.9,3.0,3.2,2.5,3.8,3.4,1.9,3.4,3.5
+  Psychiatric technicians,29-2053,124.6,145.8,21.3,17.1,"42,590",Postsecondary nondegree award,4.1,3.2,2.8,3.1,3.2,3.5,2.1,4.3,3.3,2.0,1.4,2.4,3.1,2.4,1.9,3.4,3.5
+  Automotive service technicians and mechanics,49-3023,794.6,815.9,21.2,2.7,"49,670",Postsecondary nondegree award,3.5,2.9,2.5,3.2,3.1,3.9,3.8,2.8,2.7,2.3,3.7,2.9,3.8,2.4,1.9,2.7,3.0
+  Industrial truck and tractor operators,53-7051,770.8,791.9,21.2,2.7,"46,390",No formal educational credential,3.4,2.4,2.2,2.7,2.5,4.1,3.5,2.9,3.1,2.3,2.9,3.0,3.4,2.8,1.3,2.6,2.7
+  Dental hygienists,29-1292,214.1,233.7,19.6,9.2,"94,260",Associate's degree,4.1,2.9,2.5,2.9,3.5,3.8,3.5,4.1,2.9,2.1,2.1,2.5,3.5,2.6,2.1,3.0,3.2
+  Operating engineers and other construction equipment operators,47-2073,468.0,487.6,19.6,4.2,"58,710",High school diploma or equivalent,3.8,1.9,2.5,2.8,3.0,4.0,3.4,3.1,3.3,2.2,3.3,2.7,3.7,2.8,1.6,2.7,2.7
+"  Production, planning, and expediting clerks",43-5061,399.2,418.7,19.5,4.9,"57,770",High school diploma or equivalent,3.8,3.5,2.6,3.1,2.7,3.9,2.2,3.1,2.8,2.7,1.5,1.7,3.6,2.9,1.1,3.1,3.4
+"  Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",51-2028,271.1,290.6,19.5,7.2,"44,040",High school diploma or equivalent,3.2,2.4,2.2,2.7,2.2,3.6,3.3,2.7,2.9,2.1,2.6,2.4,3.1,2.3,1.6,2.6,2.9
+  Public relations specialists,27-3031,308.0,327.2,19.2,6.2,"69,780",Bachelor's degree,4.0,3.4,3.3,3.5,3.7,3.7,1.4,3.6,3.5,2.1,1.1,1.2,3.8,3.0,1.2,4.1,4.0
+"  Transportation, storage, and distribution managers",11-3071,211.8,230.8,19.1,9.0,"102,010",High school diploma or equivalent,4.0,3.4,2.9,3.6,3.4,3.6,2.0,3.4,3.9,3.2,1.7,1.6,3.9,3.5,1.6,3.5,3.7
+  Shuttle drivers and chauffeurs[2],53-3053,222.3,241.3,19.0,8.5,"36,670",No formal educational credential,3.7,2.3,2.2,2.6,3.5,3.8,3.3,3.5,2.6,2.1,2.4,2.3,3.3,2.1,1.3,2.9,2.8
+"  Hotel, motel, and resort desk clerks",43-4081,271.3,290.2,18.9,7.0,"34,270",High school diploma or equivalent,3.9,3.6,2.6,2.7,4.1,3.5,2.3,3.8,3.3,2.8,1.4,1.8,3.6,2.3,1.4,3.3,2.9
+  Occupational health and safety specialists,19-5011,125.9,144.7,18.8,14.9,"83,910",Bachelor's degree,4.0,3.7,2.9,3.9,3.2,3.8,2.1,3.7,3.5,3.4,2.0,1.8,4.0,2.8,3.6,3.6,4.0
+  Couriers and messengers,43-5021,225.5,244.3,18.8,8.3,"38,340",High school diploma or equivalent,3.0,2.6,1.9,2.5,2.9,3.6,2.9,2.9,1.8,2.1,1.9,2.7,3.1,2.1,1.3,2.9,2.9
+  Healthcare social workers,21-1022,193.2,211.9,18.7,9.7,"68,090",Master's degree,4.3,3.5,2.8,3.5,3.7,3.2,1.6,4.5,3.3,2.0,1.3,1.8,3.8,2.7,1.9,3.7,3.9
+  Pharmacists,29-1051,337.7,355.9,18.3,5.4,"137,480",Doctoral or professional degree,4.2,3.6,2.4,3.6,3.6,4.4,2.5,3.8,3.5,3.6,1.5,2.0,4.1,3.0,3.3,3.5,4.0
+  Clinical laboratory technologists and technicians,29-2010,344.2,362.5,18.2,5.3,"61,890",Bachelor's degree,4.0,3.6,2.5,3.4,3.0,4.2,3.2,3.4,3.2,3.1,2.7,2.2,3.7,2.6,3.2,3.1,3.4
+"  Child, family, and school social workers",21-1021,365.9,383.8,17.9,4.9,"58,570",Bachelor's degree,4.0,3.6,3.0,3.4,4.3,3.7,1.8,4.3,3.4,2.1,1.4,1.8,4.0,2.6,1.7,3.9,4.0
+  Cleaners of vehicles and equipment,53-7061,402.7,420.6,17.8,4.4,"35,270",No formal educational credential,3.2,2.3,2.2,2.5,2.7,3.3,3.1,3.0,3.1,1.9,2.6,3.0,2.9,2.5,1.8,2.5,2.2
+  Respiratory therapists,29-1126,133.9,151.4,17.5,13.1,"80,450",Associate's degree,4.4,3.5,2.6,3.6,3.5,4.3,3.1,4.1,3.3,2.9,2.5,2.7,3.8,2.7,3.1,3.3,3.5
+  Chief executives,11-1011,313.9,331.1,17.2,5.5,"206,420",Bachelor's degree,4.2,3.7,3.5,4.1,3.9,3.7,1.7,4.0,4.5,3.3,1.5,1.3,4.6,4.1,1.8,4.0,4.2
+  Electrical engineers,17-2071,189.1,206.3,17.2,9.1,"111,910",Bachelor's degree,4.0,4.2,3.1,3.9,2.6,3.8,2.2,3.0,3.3,3.5,2.1,1.5,4.0,3.4,2.5,3.4,4.0
+  Amusement and recreation attendants,39-3091,381.5,398.6,17.1,4.5,"30,490",No formal educational credential,3.3,2.5,2.4,2.3,3.8,2.9,2.4,3.4,2.7,2.2,1.7,2.4,2.9,2.1,1.1,3.4,2.6
+  Counter and rental clerks,41-2021,403.7,420.8,17.1,4.2,"38,540",No formal educational credential,3.5,3.2,2.4,2.6,4.1,3.4,2.5,3.4,3.0,2.7,2.0,2.1,3.2,2.5,1.3,3.3,3.1
+  Licensed practical and licensed vocational nurses,29-2061,657.8,674.7,16.9,2.6,"62,340",Postsecondary nondegree award,4.2,3.2,2.6,3.4,3.3,3.9,2.8,4.1,3.6,2.9,1.7,2.9,3.8,2.7,2.2,3.4,3.6
+"  Medical scientists, except epidemiologists",19-1042,146.6,163.4,16.8,11.5,"100,590",Doctoral or professional degree,4.1,3.6,3.3,3.9,2.1,3.9,2.5,3.3,3.2,3.3,1.7,1.3,3.9,2.7,3.6,3.6,4.0
+  Occupational therapists,29-1122,150.5,167.3,16.8,11.1,"98,340",Master's degree,4.3,3.4,3.3,3.7,3.3,3.5,2.5,4.4,3.3,2.2,1.5,2.5,4.0,2.9,2.5,3.6,4.0
+  Veterinarians,29-1131,88.2,105.0,16.8,19.1,"125,510",Doctoral or professional degree,4.3,3.2,2.7,3.7,4.0,4.1,3.1,3.8,3.3,3.2,1.6,2.4,4.2,2.3,3.6,3.5,3.9
+  Medical records specialists[2],29-2072,191.5,208.2,16.7,8.7,"50,250",Postsecondary nondegree award,3.5,3.8,1.9,2.7,2.6,3.8,2.8,3.0,2.3,1.9,1.2,1.4,3.1,2.3,1.4,3.1,3.8
+  Recreation workers,39-9032,300.0,316.5,16.5,5.5,"35,380",High school diploma or equivalent,4.1,3.2,3.5,3.1,3.5,3.5,1.9,4.1,3.6,2.4,1.8,2.6,3.5,3.4,1.4,3.6,3.3
+  Social and community service managers,11-9151,199.5,215.9,16.4,8.2,"78,240",Bachelor's degree,4.4,3.6,3.3,3.6,3.7,3.6,2.1,4.1,3.9,2.9,1.4,1.5,4.1,3.1,1.7,3.7,3.8
+"  Educational, guidance, and career counselors and advisors",21-1012,360.8,377.0,16.2,4.5,"65,140",Master's degree,4.4,3.5,3.0,3.4,3.7,3.4,1.6,4.5,3.5,2.2,1.1,1.7,3.9,2.7,1.2,3.8,4.0
+"  Mobile heavy equipment mechanics, except engines",49-3042,191.1,207.3,16.2,8.5,"63,980",High school diploma or equivalent,3.5,3.2,2.8,3.1,2.8,3.9,3.9,3.1,2.9,2.9,4.0,3.3,3.7,2.7,2.0,2.7,3.1
+"  Nursing instructors and teachers, postsecondary",25-1072,89.9,105.9,16.1,17.9,"79,940",Doctoral or professional degree,4.4,3.9,3.1,3.7,3.6,4.0,2.4,4.1,4.0,3.2,1.5,2.2,3.9,3.0,2.8,3.9,4.1
+  Administrative services managers,11-3012,256.8,272.8,16.0,6.2,"108,390",Bachelor's degree,4.0,3.6,2.9,3.5,3.4,3.6,2.0,3.6,3.7,2.7,1.8,1.8,3.6,3.6,1.4,3.5,3.8
+"  Substitute teachers, short-term[2]",25-3031,473.3,489.2,15.9,3.4,"38,470",Bachelor's degree,4.1,3.3,3.1,3.1,3.2,3.1,1.6,4.1,3.2,3.0,1.2,1.2,3.3,2.3,2.4,3.6,4.0
+  First-line supervisors of personal service workers,39-1022,155.9,171.7,15.8,10.1,"47,080",High school diploma or equivalent,3.9,2.9,3.0,3.2,3.8,3.5,2.0,4.0,3.7,2.3,1.6,2.3,3.9,3.1,1.6,3.6,3.4
+  Chefs and head cooks,35-1011,187.1,202.6,15.5,8.3,"60,990",High school diploma or equivalent,4.1,3.4,3.5,3.5,3.9,3.8,3.0,3.6,4.2,3.3,2.4,2.8,3.8,3.8,2.4,3.7,3.2
+  Food batchmakers,51-3092,171.3,186.8,15.5,9.1,"40,790",High school diploma or equivalent,3.6,2.7,2.3,2.8,2.0,3.8,3.0,3.1,2.9,2.6,2.4,2.6,3.1,2.1,2.3,2.8,3.0
+"  Property, real estate, and community association managers",11-9141,467.1,482.2,15.1,3.2,"66,700",High school diploma or equivalent,4.0,3.5,2.6,3.2,3.7,3.5,1.5,3.5,3.8,3.2,1.5,1.4,3.6,3.4,1.5,3.5,3.7
+"  Cooks, institution and cafeteria",35-2012,456.3,471.1,14.9,3.3,"36,450",No formal educational credential,3.8,2.2,2.5,2.8,3.0,3.7,3.1,3.5,3.2,2.9,1.8,2.7,3.3,2.9,1.6,2.8,2.9
+  Mental health and substance abuse social workers,21-1023,123.7,138.1,14.4,11.6,"60,060",Master's degree,4.2,3.6,3.1,3.6,3.5,3.5,1.4,4.4,3.3,2.1,1.3,1.6,3.7,2.9,1.7,3.8,4.0
+  Financial examiners,13-2061,65.5,79.2,13.8,21.0,"90,400",Bachelor's degree,3.9,3.5,2.3,4.0,2.4,3.5,1.3,3.2,3.5,3.3,1.1,1.1,3.8,2.5,1.1,3.5,4.0
+  Firefighters,33-2011,326.8,340.5,13.7,4.2,"59,530",Postsecondary nondegree award,4.3,3.1,2.7,3.2,3.7,4.0,3.2,4.0,3.6,2.8,3.1,3.4,3.8,2.7,2.7,3.4,3.1
+"  Food servers, nonrestaurant",35-3041,278.6,292.2,13.7,4.9,"34,460",No formal educational credential,3.6,2.4,2.4,2.7,3.4,3.5,2.6,3.5,3.1,2.2,1.7,2.9,3.1,2.5,1.6,2.9,2.5
+"  Painters, construction and maintenance",47-2141,338.9,352.4,13.6,4.0,"48,660",No formal educational credential,3.5,2.1,2.7,2.7,2.7,3.5,3.2,3.2,3.4,2.3,2.2,3.2,3.0,2.7,2.0,2.7,2.7
+  Human resources managers,11-3121,208.9,222.5,13.5,6.5,"140,030",Bachelor's degree,4.3,3.5,3.0,3.7,3.4,3.7,1.9,3.9,4.2,2.9,1.2,1.3,4.2,3.3,1.3,3.8,4.1
+  Producers and directors,27-2012,167.9,181.5,13.5,8.0,"83,480",Bachelor's degree,4.0,3.7,3.8,3.5,3.2,3.7,2.3,3.6,3.6,2.4,1.6,1.6,4.0,3.3,1.1,4.0,3.7
+"  Physicians, all other[2]",29-1229,337.0,350.1,13.1,3.9,">=239,200",Doctoral or professional degree,4.4,3.6,2.6,3.9,3.5,4.3,2.6,4.3,3.2,2.9,1.4,1.7,4.3,2.5,3.4,3.7,4.2
+  Radiologic technologists and technicians,29-2034,227.8,241.0,13.1,5.8,"77,660",Associate's degree,4.0,3.7,2.4,3.0,3.6,3.9,3.2,4.0,3.1,2.3,2.4,2.7,3.5,2.3,2.6,3.3,3.3
+  Flight attendants,53-2031,130.3,143.2,12.9,9.9,"67,130",High school diploma or equivalent,4.1,2.9,2.6,2.9,4.3,4.0,2.3,4.1,2.9,2.0,1.5,3.1,3.7,2.5,1.5,3.9,2.9
+  Diagnostic medical sonographers,29-2032,84.9,97.7,12.8,15.1,"89,340",Associate's degree,4.2,3.2,2.7,3.2,3.6,4.0,3.3,4.0,3.1,2.3,2.5,2.7,3.5,2.5,3.0,3.3,3.7
+  Self-enrichment teachers,25-3021,370.1,382.8,12.7,3.4,"45,590",High school diploma or equivalent,4.0,2.9,3.3,2.9,2.8,3.1,2.1,3.7,3.4,2.1,1.4,1.8,3.4,2.2,1.5,3.4,3.3
+  Bakers,51-3011,243.4,256.1,12.7,5.2,"36,650",No formal educational credential,3.4,2.2,2.6,2.6,2.7,3.6,3.0,3.0,2.8,2.5,1.7,2.4,3.1,2.3,1.7,2.8,2.6
+"  Health technologists and technicians, all other[2]",29-2099,177.9,190.4,12.5,7.0,"48,790",Postsecondary nondegree award,4.0,3.4,2.5,3.2,3.4,4.0,2.9,3.8,3.2,2.8,2.0,2.5,3.5,2.6,2.4,3.3,3.5
+  Marriage and family therapists,21-1013,76.0,88.2,12.3,16.2,"63,780",Master's degree,4.3,3.6,3.1,3.6,3.5,3.2,1.3,4.5,2.8,1.9,1.1,1.3,4.1,2.2,1.6,3.7,3.9
+  Medical equipment repairers,49-9062,67.0,79.3,12.3,18.4,"62,630",Associate's degree,3.8,3.7,2.4,3.1,2.7,4.0,3.2,3.1,2.4,2.9,3.6,2.5,3.6,2.6,2.1,2.7,3.0
+  Computer network support specialists,15-1231,166.7,178.8,12.1,7.3,"73,340",Associate's degree,4.1,4.1,2.7,3.5,2.6,3.8,2.4,3.2,2.8,2.3,2.5,1.6,3.6,2.6,1.3,3.3,3.3
+  Solar photovoltaic installers,47-2231,25.0,37.0,12.0,48.0,"51,860",High school diploma or equivalent,3.5,2.2,2.7,2.9,2.8,3.7,3.2,3.0,3.2,2.5,3.1,3.1,3.5,2.7,1.8,2.7,2.7
+  Architectural and engineering managers,11-9041,210.2,221.8,11.6,5.5,"167,740",Bachelor's degree,4.1,3.7,3.4,3.7,3.2,3.5,2.0,3.3,4.0,3.8,1.7,1.3,4.0,3.2,2.4,3.7,4.0
+"  Personal care and service workers, all other[2]",39-9099,93.1,104.4,11.3,12.1,"37,900",High school diploma or equivalent,3.9,2.5,3.1,2.8,3.3,3.3,1.9,3.9,3.2,2.1,1.4,2.7,3.3,2.5,1.5,3.2,3.0
+"  First-line supervisors of entertainment and recreation workers, except gambling services[2]",39-1014,123.3,134.6,11.2,9.1,"46,900",High school diploma or equivalent,3.9,2.9,3.0,3.2,3.8,3.5,2.0,4.0,3.7,2.3,1.6,2.3,3.9,3.1,1.6,3.6,3.4
+  Phlebotomists,31-9097,141.2,152.2,11.0,7.8,"43,660",Postsecondary nondegree award,4.1,3.5,2.6,2.9,3.8,4.3,2.8,4.1,3.5,2.2,2.0,2.5,3.4,2.9,2.5,3.2,3.3
+  Maids and housekeeping cleaners,37-2012,"1,335.5","1,346.2",10.8,0.8,"34,660",No formal educational credential,3.4,1.8,2.1,2.3,2.9,3.1,2.6,3.3,2.5,1.9,1.6,3.2,2.5,2.4,1.6,2.6,2.4
+  Laundry and dry-cleaning workers,51-6011,195.4,206.2,10.8,5.5,"33,800",No formal educational credential,3.1,1.7,2.1,2.4,2.5,3.1,2.8,3.1,2.9,1.9,2.2,2.7,2.8,2.5,1.6,2.7,2.3
+  Occupational therapy assistants,31-2011,47.5,58.1,10.6,22.3,"68,340",Associate's degree,4.2,3.3,3.3,3.1,3.5,3.7,2.6,4.4,3.4,2.1,1.7,2.9,3.8,2.7,1.9,3.3,3.7
+  Ophthalmic medical technicians,29-2057,74.8,85.3,10.5,14.1,"44,080",Postsecondary nondegree award,4.1,3.4,2.1,2.7,3.6,3.9,2.9,3.8,3.1,2.7,2.0,2.0,3.3,2.1,1.9,3.1,3.2
+  Emergency medical technicians[2],29-2042,169.7,180.0,10.3,6.1,"41,340",Postsecondary nondegree award,3.8,2.9,2.5,2.8,3.5,3.9,2.8,3.8,2.8,2.2,2.6,2.9,3.4,2.5,1.8,3.2,3.1
+  Cargo and freight agents,43-5011,106.7,117.0,10.3,9.7,"49,900",High school diploma or equivalent,3.6,3.0,2.4,2.9,3.1,3.6,2.2,2.9,2.5,2.5,2.2,1.8,3.3,2.2,1.3,3.3,3.2
+  Web and digital interface designers[2],15-1255,128.6,138.8,10.2,7.9,"98,090",Bachelor's degree,3.8,4.3,3.4,3.7,2.5,3.7,2.5,2.7,2.8,3.0,1.5,1.2,3.6,2.7,1.3,3.2,3.4
+  Clinical and counseling psychologists,19-3033,76.8,87.0,10.2,13.3,"95,830",Doctoral or professional degree,4.2,3.4,3.0,3.5,3.5,3.5,1.4,4.5,3.0,2.3,1.1,1.2,3.8,2.3,1.8,3.9,4.2
+"  Bus drivers, transit and intercity",53-3052,194.1,204.1,10.1,5.2,"57,440",High school diploma or equivalent,3.7,2.3,2.2,2.6,3.5,3.8,3.3,3.5,2.6,2.1,2.4,2.3,3.3,2.1,1.3,2.9,2.8
+"  Sales representatives, wholesale and manufacturing, technical and scientific products",41-4011,325.3,335.3,10.0,3.1,"100,070",Bachelor's degree,3.7,3.1,2.6,3.0,3.5,3.4,1.9,3.5,2.5,3.0,1.4,1.4,3.5,2.6,1.6,3.7,3.5
+"  Sales representatives, wholesale and manufacturing, except technical and scientific products",41-4012,"1,356.1","1,366.1",10.0,0.7,"66,780",High school diploma or equivalent,4.0,3.5,3.2,3.0,4.2,3.1,2.0,3.6,2.7,2.7,1.5,1.9,3.8,2.7,1.0,3.5,3.3
+"  Meeting, convention, and event planners",13-1121,149.0,158.9,9.9,6.6,"59,440",Bachelor's degree,4.3,3.5,3.5,3.5,3.9,3.5,2.2,3.9,3.8,2.8,1.9,2.2,4.0,3.7,1.5,3.7,3.9
+"  Architects, except landscape and naval",17-1011,127.3,137.2,9.9,7.8,"96,690",Bachelor's degree,4.0,4.0,3.9,4.0,3.2,3.8,2.1,3.4,3.7,3.4,1.6,1.4,3.7,3.4,2.4,3.5,3.9
+  First-line supervisors of housekeeping and janitorial workers,37-1011,241.6,251.4,9.8,4.0,"47,520",High school diploma or equivalent,3.9,3.0,2.7,2.9,3.4,3.5,2.5,3.8,4.2,2.3,2.2,2.7,3.4,3.4,1.6,3.2,3.1
+  Roofers,47-2181,168.1,177.9,9.8,5.8,"50,970",No formal educational credential,3.5,1.9,2.6,2.7,3.1,3.8,3.1,3.0,3.4,2.4,2.6,3.5,3.2,2.7,1.8,2.7,2.5
+"  Counselors, all other[2]",21-1019,65.9,75.4,9.5,14.4,"49,830",Master's degree,4.2,3.5,3.0,3.5,3.6,3.3,1.5,4.5,3.3,2.2,1.2,1.6,3.8,2.7,1.5,3.8,4.0
+  Computer and information research scientists,15-1221,36.6,46.0,9.4,25.6,"140,910",Master's degree,3.7,4.5,3.3,4.0,2.5,3.4,2.3,3.0,3.0,3.5,1.8,1.2,3.8,2.9,2.4,3.4,3.8
+  Electrical power-line installers and repairers,49-9051,123.4,132.8,9.4,7.6,"92,560",High school diploma or equivalent,3.7,2.3,2.5,3.0,3.0,4.0,3.4,3.1,3.3,2.2,3.3,3.2,3.9,2.2,1.8,2.8,2.8
+"  Welders, cutters, solderers, and brazers",51-4121,454.5,463.8,9.3,2.0,"51,000",High school diploma or equivalent,3.1,1.8,2.3,2.6,2.0,3.7,3.2,2.7,2.4,2.3,2.3,2.6,2.9,2.0,1.7,2.4,2.1
+"  Electronics engineers, except computer",17-2072,98.7,107.6,8.9,9.1,"127,590",Bachelor's degree,3.6,4.1,3.1,4.0,2.0,3.6,2.5,2.8,2.8,3.6,2.8,1.5,3.7,2.8,2.5,3.3,3.8
+"  Lifeguards, ski patrol, and other recreational protective service workers",33-9092,129.1,137.9,8.8,6.8,"33,720",No formal educational credential,3.8,2.7,2.2,2.6,3.4,3.7,1.9,3.7,3.2,1.7,1.8,2.8,3.4,2.2,2.0,3.0,2.7
+  Web developers,15-1254,94.1,102.5,8.5,9.0,"90,930",Bachelor's degree,3.8,4.3,3.4,3.7,2.5,3.7,2.5,2.7,2.8,3.0,1.5,1.2,3.6,2.7,1.3,3.2,3.4
+  Bus and truck mechanics and diesel engine specialists,49-3031,300.2,308.7,8.5,2.8,"60,640",High school diploma or equivalent,3.6,3.1,2.6,3.2,2.5,3.8,3.7,2.9,2.8,2.3,3.8,3.2,3.7,2.4,2.4,2.8,2.8
+  Merchandise displayers and window trimmers,27-1026,176.4,184.7,8.4,4.8,"37,350",High school diploma or equivalent,3.6,2.7,3.4,3.0,3.4,3.1,2.8,3.2,3.1,2.1,1.5,3.2,3.3,2.6,1.2,3.2,3.0
+  Skincare specialists,39-5094,81.8,90.2,8.4,10.3,"41,560",Postsecondary nondegree award,4.0,1.6,2.9,2.7,3.7,3.6,2.9,3.9,2.5,1.6,1.5,2.2,3.2,1.9,1.9,3.2,2.9
+  Community health workers,21-1094,63.4,71.7,8.3,13.1,"51,030",High school diploma or equivalent,4.2,3.6,3.2,3.3,3.8,3.4,2.6,4.3,3.6,2.3,1.6,2.2,3.6,3.2,1.7,3.8,4.0
+"  Financial specialists, all other[2]",13-2099,129.8,137.9,8.1,6.2,"80,190",Bachelor's degree,3.9,3.6,2.6,3.6,3.1,3.8,1.7,3.3,3.2,3.7,1.1,1.2,3.8,2.9,1.2,3.4,3.8
+"  Engineers, all other[2]",17-2199,161.1,169.2,8.0,5.0,"117,750",Bachelor's degree,3.8,3.8,3.1,3.9,2.7,3.8,2.0,3.0,3.2,3.7,2.0,1.4,3.8,3.0,2.8,3.4,3.8
+  Real estate sales agents,41-9022,430.7,438.7,7.9,1.8,"56,320",High school diploma or equivalent,4.0,3.6,2.8,3.0,4.0,3.6,1.7,3.8,3.3,3.1,1.7,1.7,3.8,3.0,1.3,3.7,3.6
+"  First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,222.4,230.2,7.8,3.5,"56,170",High school diploma or equivalent,3.9,3.1,2.8,3.1,3.6,3.7,3.0,3.3,4.1,2.9,2.8,2.8,3.8,3.5,2.5,3.3,3.2
+  Writers and authors,27-3043,150.7,158.4,7.7,5.1,"72,270",Bachelor's degree,3.9,3.2,3.3,2.7,3.3,3.3,1.6,3.2,3.2,1.7,1.1,1.3,3.5,2.1,1.0,3.7,4.1
+  Natural sciences managers,11-9121,100.1,107.6,7.5,7.5,"161,180",Bachelor's degree,4.2,3.8,3.0,3.9,2.7,3.8,1.9,3.3,4.0,3.2,1.8,1.7,3.8,3.6,3.5,3.6,4.0
+  Facilities managers[2],11-3013,140.5,147.9,7.4,5.3,"104,690",Bachelor's degree,4.1,3.5,3.1,3.6,3.6,3.6,1.7,3.7,4.0,3.0,1.7,1.7,4.1,3.6,1.7,3.5,3.8
+  Fundraisers,13-1131,125.9,133.3,7.4,5.9,"66,490",Bachelor's degree,3.9,3.6,3.2,3.5,3.7,3.3,1.6,3.9,3.5,3.0,1.3,1.2,3.7,3.2,1.1,3.9,3.9
+"  Teaching assistants, postsecondary",25-9044,184.6,192.1,7.4,4.0,"44,930",Bachelor's degree,3.8,3.6,3.1,2.9,2.4,3.4,1.7,3.5,3.1,2.5,1.3,1.3,3.1,2.3,2.1,3.6,3.7
+  Security and fire alarm systems installers,49-2098,86.0,93.4,7.4,8.6,"59,300",High school diploma or equivalent,4.0,3.4,2.7,3.1,3.2,3.8,3.0,3.1,2.9,2.3,3.1,2.7,3.8,2.4,1.6,3.1,3.0
+  Aircraft mechanics and service technicians,49-3011,141.4,148.7,7.3,5.2,"78,680",Postsecondary nondegree award,3.8,3.1,2.7,3.4,2.7,4.2,3.5,3.2,3.2,2.6,3.9,2.7,3.9,2.6,2.4,2.9,3.5
+"  Compensation, benefits, and job analysis specialists",13-1141,103.7,111.0,7.2,7.0,"77,020",Bachelor's degree,4.0,3.6,2.9,3.7,2.7,3.8,1.7,3.3,3.0,3.2,1.2,1.2,3.7,2.7,1.7,3.4,3.7
+"  Installation, maintenance, and repair workers, all other[2]",49-9099,201.5,208.7,7.2,3.6,"48,640",High school diploma or equivalent,3.7,3.0,2.8,3.1,2.9,3.7,3.4,3.1,3.1,2.5,3.6,3.1,3.6,2.7,1.9,2.8,3.0
+"  Motor vehicle operators, all other[2]",53-3099,86.5,93.6,7.1,8.3,"36,260",No formal educational credential,3.6,2.5,2.2,2.6,3.1,3.8,3.3,3.0,2.5,2.2,2.6,2.7,3.3,2.3,1.4,2.8,2.8
+"  Business teachers, postsecondary",25-1011,104.9,111.9,7.0,6.7,"97,270",Doctoral or professional degree,4.2,3.5,3.0,3.6,2.9,3.1,1.5,3.4,3.3,3.3,1.2,1.2,3.6,2.5,1.5,4.0,4.1
+  Miscellaneous assemblers and fabricators[2],51-2090,"1,520.8","1,527.9",7.0,0.5,"42,210",High school diploma or equivalent,3.4,2.7,2.4,2.8,2.2,3.6,3.2,3.0,3.1,2.3,2.4,2.6,3.2,2.4,1.7,2.8,2.9
+  Dishwashers,35-9021,475.0,481.9,6.9,1.4,"33,670",No formal educational credential,3.3,1.8,2.2,2.2,2.6,3.0,3.0,3.2,2.9,2.1,2.3,2.8,3.1,2.5,1.5,2.5,2.1
+  Pest control workers,37-2021,98.2,105.1,6.9,7.0,"44,730",High school diploma or equivalent,3.7,2.2,2.6,3.1,3.4,3.6,3.0,3.3,2.7,2.7,2.5,3.0,3.7,2.8,2.5,3.2,3.3
+"  Food preparation and serving related workers, all other[2]",35-9099,88.6,95.3,6.8,7.6,"34,830",No formal educational credential,3.4,2.0,2.1,2.3,3.3,3.0,2.6,3.4,2.8,2.1,1.7,2.8,2.9,2.4,1.4,2.9,2.2
+  Wind turbine service technicians,49-9081,11.4,18.2,6.8,60.1,"62,580",Postsecondary nondegree award,3.8,3.7,2.5,3.3,2.5,4.1,3.5,3.2,3.5,2.4,3.9,3.4,3.8,2.8,2.1,3.0,3.1
+"  Dentists, general",29-1021,141.0,147.7,6.7,4.8,"172,790",Doctoral or professional degree,4.2,3.2,2.9,3.6,4.0,4.4,4.0,4.1,3.8,2.8,2.3,2.4,4.3,3.6,3.2,3.5,3.6
+  Database administrators,15-1242,80.5,87.1,6.6,8.2,"104,620",Bachelor's degree,3.7,4.3,2.8,3.7,2.3,3.8,1.9,3.2,2.8,3.2,1.6,1.3,3.8,2.7,1.5,3.1,3.5
+  Database architects,15-1243,61.4,68.0,6.6,10.8,"135,980",Bachelor's degree,3.6,4.3,2.9,3.9,2.3,3.8,2.1,2.9,3.1,3.2,1.4,1.2,3.8,2.6,1.4,3.2,3.5
+  Actuaries,15-2011,30.2,36.8,6.6,21.8,"125,770",Bachelor's degree,3.6,3.8,2.7,4.1,2.1,3.7,1.4,2.7,3.1,4.5,1.1,1.1,3.9,2.6,1.3,3.4,4.0
+  Chemists,19-2031,87.2,93.8,6.6,7.6,"84,150",Bachelor's degree,3.9,3.7,2.8,3.8,2.4,3.9,2.5,2.9,3.3,3.7,2.4,1.9,3.7,2.9,3.7,3.2,3.9
+  Art directors,27-1011,126.6,133.2,6.6,5.2,"111,040",Bachelor's degree,4.0,3.6,4.4,3.5,2.6,3.3,2.4,3.4,3.2,2.3,1.3,1.2,3.7,2.8,1.2,3.7,3.6
+  Graphic designers,27-1024,267.2,273.8,6.6,2.5,"61,300",Bachelor's degree,4.0,3.8,4.4,3.1,2.9,3.5,2.4,3.3,3.1,2.1,1.4,1.2,3.4,2.8,1.3,3.5,3.4
+"  Meat, poultry, and fish cutters and trimmers",51-3022,141.1,147.7,6.6,4.7,"37,700",No formal educational credential,3.3,2.1,2.5,2.5,3.0,3.9,3.3,3.2,3.3,2.5,2.4,2.8,3.1,2.6,2.1,2.7,2.5
+  Industrial production managers,11-3051,230.1,236.7,6.5,2.8,"121,440",Bachelor's degree,4.0,3.5,2.9,3.7,2.9,3.8,2.4,3.4,3.9,3.3,2.5,2.1,4.1,3.5,1.8,3.5,3.6
+  Clergy,21-2011,260.1,266.7,6.5,2.5,"60,820",Bachelor's degree,4.1,3.1,3.6,3.3,3.4,3.5,1.4,4.3,3.8,2.0,1.3,1.3,3.8,3.0,1.3,4.3,3.8
+"  Postsecondary teachers, all other[2]",25-1199,202.5,209.0,6.5,3.2,"78,490",Doctoral or professional degree,4.2,3.6,3.3,3.6,2.9,3.4,1.8,3.6,3.5,2.8,1.5,1.5,3.7,2.7,2.4,4.0,4.1
+  Surgical technologists,29-2055,112.8,119.3,6.5,5.8,"62,830",Postsecondary nondegree award,4.1,2.6,2.6,2.9,3.1,4.3,3.2,3.8,3.4,2.7,2.5,2.7,3.7,2.9,2.3,3.0,3.1
+  Health information technologists and medical registrars[2],29-9021,39.1,45.5,6.4,16.3,"67,310",Associate's degree,3.7,4.3,2.6,3.7,2.6,3.6,1.8,3.1,3.3,3.3,1.4,1.2,3.4,2.8,2.0,3.5,3.8
+  Parking attendants,53-6021,120.9,127.3,6.4,5.3,"34,600",No formal educational credential,3.2,2.0,1.9,2.4,3.3,3.5,2.9,3.2,2.4,2.6,1.9,2.8,2.9,2.0,1.3,3.1,2.7
+"  Court, municipal, and license clerks",43-4031,165.1,171.4,6.3,3.8,"47,700",High school diploma or equivalent,3.9,3.7,2.3,3.0,3.6,3.6,2.4,3.5,2.9,2.6,1.4,1.4,3.2,2.4,1.1,3.3,3.3
+"  Education administrators, postsecondary",11-9033,216.4,222.7,6.2,2.9,"103,960",Master's degree,4.2,3.4,3.4,3.6,3.3,3.6,1.3,3.8,3.9,2.9,1.1,1.3,4.2,3.4,1.4,3.8,4.1
+  Computer hardware engineers,17-2061,84.1,90.2,6.1,7.2,"155,020",Bachelor's degree,3.8,4.2,3.3,4.0,2.2,3.6,2.2,2.7,3.1,3.4,2.2,1.2,3.7,2.7,2.4,3.4,3.9
+"  Environmental scientists and specialists, including health",19-2041,84.6,90.7,6.1,7.3,"80,060",Bachelor's degree,3.9,3.7,2.5,3.8,3.1,3.4,1.6,3.1,3.1,3.1,1.6,1.7,3.5,2.8,3.4,3.6,4.0
+"  Community and social service specialists, all other[2]",21-1099,103.6,109.8,6.1,5.9,"54,940",Bachelor's degree,4.2,3.6,3.0,3.4,3.8,3.4,1.6,4.3,3.3,2.1,1.3,1.8,3.8,2.7,1.6,3.8,3.9
+  Chiropractors,29-1011,61.2,67.3,6.1,9.9,"79,000",Doctoral or professional degree,4.1,3.5,2.8,3.5,3.5,4.0,3.0,4.1,3.5,2.4,1.6,2.8,4.1,3.0,2.9,3.4,3.9
+"  Healthcare support workers, all other[2]",31-9099,108.5,114.6,6.1,5.6,"46,050",High school diploma or equivalent,4.1,3.4,2.7,3.0,3.6,3.9,2.7,3.9,3.1,2.5,2.0,2.5,3.3,2.9,2.1,3.3,3.4
+  Highway maintenance workers,47-4051,160.4,166.5,6.1,3.8,"49,070",High school diploma or equivalent,3.2,2.4,2.5,2.6,3.6,3.8,3.4,3.4,3.3,2.3,2.7,3.2,3.3,2.6,1.8,2.8,2.6
+  Dietitians and nutritionists,29-1031,81.3,87.3,6.0,7.4,"73,850",Bachelor's degree,3.9,3.7,2.8,3.7,3.3,3.4,1.4,4.1,3.2,3.2,1.2,1.3,3.7,3.0,3.1,3.6,4.0
+  Food service managers,11-9051,393.6,399.5,5.9,1.5,"65,310",High school diploma or equivalent,3.9,3.1,2.5,3.2,3.9,3.5,2.7,3.7,3.7,3.1,1.9,2.5,3.6,3.2,1.7,3.4,3.3
+  Paramedics[2],29-2043,100.6,106.5,5.9,5.9,"58,410",Postsecondary nondegree award,4.2,3.6,2.8,3.6,3.8,4.0,2.7,4.3,3.8,3.1,1.7,2.8,3.9,2.7,2.5,3.5,3.9
+  Photographers,27-4021,151.1,156.9,5.8,3.9,"42,520",High school diploma or equivalent,4.0,3.7,3.9,3.0,3.8,3.4,2.9,3.6,3.2,2.1,2.1,2.2,3.4,3.0,1.6,3.4,3.0
+  Tile and stone setters,47-2044,55.6,61.4,5.8,10.4,"52,240",No formal educational credential,3.5,1.6,2.7,2.8,2.3,3.8,3.3,2.7,2.9,2.9,2.3,3.2,3.1,2.5,1.5,2.6,2.6
+  Family medicine physicians,29-1215,120.3,126.1,5.7,4.8,"238,380",Doctoral or professional degree,4.5,3.6,2.4,3.9,3.7,4.5,2.6,4.4,2.9,2.9,1.1,1.3,4.3,2.1,3.3,3.8,4.2
+  Tire repairers and changers,49-3093,107.6,113.3,5.7,5.3,"37,120",High school diploma or equivalent,3.4,2.2,2.5,2.7,3.5,3.9,3.3,3.0,2.9,2.2,2.9,3.3,3.3,2.4,1.4,2.7,2.5
+  Biological technicians,19-4021,83.1,88.6,5.5,6.6,"52,000",Bachelor's degree,3.9,3.7,2.7,3.5,1.8,3.8,2.8,2.8,2.5,3.1,2.1,2.1,3.2,2.7,3.3,3.2,3.6
+  First-line supervisors of police and detectives,33-1012,144.5,150.0,5.5,3.8,"105,980",High school diploma or equivalent,4.3,3.7,2.9,3.6,4.2,4.1,2.6,4.0,4.2,2.6,1.9,2.5,4.1,3.4,1.7,3.8,3.9
+  Farm equipment mechanics and service technicians,49-3041,48.0,53.5,5.5,11.4,"52,080",High school diploma or equivalent,3.6,2.8,2.6,3.2,2.9,3.9,3.9,3.1,2.6,2.7,3.7,3.3,3.6,2.4,2.2,2.8,2.9
+  Public relations managers[2],11-2032,78.4,83.8,5.4,6.9,"138,520",Bachelor's degree,4.0,3.4,3.3,3.5,3.7,3.7,1.4,3.6,3.5,2.1,1.1,1.2,3.8,3.0,1.2,4.1,4.0
+"  Biological science teachers, postsecondary",25-1042,64.9,70.3,5.4,8.4,"83,460",Doctoral or professional degree,4.2,3.8,3.3,3.7,2.7,3.5,1.7,3.3,3.6,3.2,1.5,1.3,4.0,2.9,4.0,4.1,4.1
+  Lodging managers,11-9081,53.3,58.6,5.3,9.9,"68,130",High school diploma or equivalent,4.3,3.7,3.2,3.4,4.0,3.6,2.1,4.1,4.1,3.3,1.9,2.1,4.1,3.4,1.5,3.9,3.8
+  Tour and travel guides,39-7010,56.3,61.7,5.3,9.5,"36,660",High school diploma or equivalent,3.6,2.3,2.8,2.5,3.3,3.2,1.6,3.6,2.6,2.0,1.3,1.9,3.0,1.9,1.4,3.7,2.9
+"  Sales and related workers, all other[2]",41-9099,137.2,142.6,5.3,3.9,"46,370",High school diploma or equivalent,3.9,3.4,2.8,3.0,3.9,3.5,1.8,3.7,3.1,2.8,1.6,1.6,3.6,2.7,1.3,3.7,3.5
+  Agricultural equipment operators,45-2091,62.7,68.0,5.3,8.4,"42,580",No formal educational credential,3.2,2.2,2.4,2.4,2.1,3.3,3.1,3.2,3.2,2.0,3.2,2.8,2.6,2.1,2.2,2.7,2.2
+  Nurse anesthetists,29-1151,49.9,55.1,5.2,10.4,"223,210",Master's degree,4.6,3.5,2.8,3.9,3.8,4.5,3.1,4.3,3.7,3.4,2.5,2.4,4.2,3.0,4.2,3.6,3.9
+"  Therapists, all other[2]",29-1129,43.2,48.3,5.1,11.8,"65,010",Bachelor's degree,4.3,3.4,3.0,3.7,3.5,3.8,2.6,4.3,3.4,2.5,1.7,2.4,4.0,2.7,2.7,3.6,3.9
+  Barbers,39-5011,78.4,83.3,5.0,6.4,"38,960",Postsecondary nondegree award,3.5,1.6,2.8,2.6,3.3,3.6,3.4,3.6,2.4,2.1,2.0,2.4,3.2,2.3,1.6,3.0,2.4
+  Residential advisors,39-9041,95.7,100.7,5.0,5.2,"39,180",High school diploma or equivalent,4.0,3.3,2.9,3.1,3.6,3.6,1.6,4.3,3.6,2.1,1.5,2.1,3.4,3.1,1.5,3.6,3.1
+"  Eligibility interviewers, government programs",43-4061,160.0,164.9,5.0,3.1,"51,500",High school diploma or equivalent,4.1,3.7,2.5,3.1,3.4,3.7,2.1,3.7,2.7,2.6,1.1,1.2,3.5,2.3,1.1,3.6,3.8
+  Machinists,51-4041,298.0,303.0,5.0,1.7,"56,150",High school diploma or equivalent,3.4,2.6,2.7,3.0,2.1,3.9,3.7,2.7,2.8,3.0,3.1,2.6,3.3,2.5,1.7,2.6,2.8
+"  Production workers, all other[2]",51-9199,265.1,270.1,5.0,1.9,"38,820",High school diploma or equivalent,3.5,2.6,2.4,2.8,2.4,3.7,3.2,2.9,2.9,2.5,2.7,2.7,3.3,2.3,1.8,2.7,2.8
+  Financial risk specialists[2],13-2054,57.5,62.3,4.8,8.4,"106,000",Bachelor's degree,3.8,3.8,3.0,3.8,2.2,3.8,1.7,2.5,2.9,4.3,1.1,1.2,3.8,2.7,1.3,3.3,3.9
+"  Life, physical, and social science technicians, all other[2]",19-4099,83.3,88.2,4.8,5.8,"60,130",Associate's degree,3.7,3.7,2.6,3.4,2.4,3.8,2.7,2.9,2.9,3.1,2.2,2.2,3.4,2.7,3.0,3.2,3.7
+"  Airline pilots, copilots, and flight engineers",53-2011,96.3,101.1,4.8,5.0,"226,600",Bachelor's degree,4.4,3.2,2.3,3.7,2.9,4.5,3.8,3.2,3.2,3.2,2.7,2.2,4.1,2.4,2.3,3.6,3.6
+  Reservation and transportation ticket agents and travel clerks,43-4181,123.8,128.5,4.7,3.8,"41,460",High school diploma or equivalent,4.1,3.5,2.7,3.0,4.1,4.0,2.4,4.0,2.8,2.6,1.5,2.3,3.7,2.1,1.3,3.8,3.4
+"  Information and record clerks, all other[2]",43-4199,162.8,167.4,4.7,2.9,"48,360",High school diploma or equivalent,4.0,3.5,2.5,2.9,3.8,3.5,2.3,3.6,3.0,2.6,1.3,1.5,3.4,2.5,1.2,3.5,3.4
+"  Mixing and blending machine setters, operators, and tenders",51-9023,107.8,112.4,4.7,4.3,"47,680",High school diploma or equivalent,3.1,2.3,2.1,2.6,2.1,3.9,3.3,2.7,3.2,2.3,3.0,2.9,3.3,2.3,2.0,2.6,3.0
+  Audio and video technicians,27-4011,87.3,91.9,4.6,5.3,"54,830",Postsecondary nondegree award,4.0,3.8,3.6,3.3,3.0,3.6,3.2,3.1,3.0,2.3,2.8,2.1,3.6,2.9,1.7,3.3,3.4
+"  Maintenance workers, machinery",49-9043,59.0,63.6,4.6,7.8,"60,500",High school diploma or equivalent,3.4,2.4,2.7,2.8,2.2,3.8,3.2,2.9,2.7,2.4,3.6,2.9,3.2,2.4,2.1,2.6,2.7
+"  Helpers--installation, maintenance, and repair workers",49-9098,104.6,109.2,4.6,4.4,"38,860",High school diploma or equivalent,3.5,2.7,2.3,2.8,2.7,3.7,3.3,3.1,2.9,2.3,3.3,3.2,3.4,2.2,1.9,2.7,2.3
+  Loan officers,13-2072,334.1,338.7,4.5,1.4,"74,180",Bachelor's degree,3.8,3.5,2.4,3.4,3.8,3.7,2.1,3.3,2.9,3.4,1.2,1.2,3.9,2.6,1.1,3.5,3.7
+"  Engineering teachers, postsecondary",25-1032,48.8,53.3,4.5,9.2,"106,120",Doctoral or professional degree,4.2,3.8,3.4,3.8,2.5,3.4,1.6,3.3,3.7,3.9,1.7,1.2,3.7,2.9,3.3,3.9,3.9
+  Retail salespersons,41-2031,"3,810.1","3,814.7",4.5,0.1,"34,580",No formal educational credential,3.7,2.8,2.7,2.6,4.2,3.4,2.2,3.6,2.7,2.7,1.6,2.3,3.3,2.3,1.2,3.4,3.0
+  Tax preparers,13-2082,103.8,108.2,4.4,4.2,"50,560",High school diploma or equivalent,4.0,3.7,2.4,3.3,3.1,3.9,2.2,3.2,2.7,3.3,1.2,1.2,3.5,2.5,1.1,3.0,3.5
+  Health education specialists,21-1091,62.1,66.4,4.3,7.0,"63,000",Bachelor's degree,4.2,3.6,3.2,3.6,3.8,3.4,1.8,4.0,3.6,2.5,1.5,1.7,3.7,3.4,2.3,3.9,4.1
+  Paralegals and legal assistants,23-2011,366.2,370.5,4.3,1.2,"61,010",Associate's degree,3.7,3.8,2.3,3.0,3.0,3.6,2.0,3.1,2.4,2.0,1.2,1.3,3.2,2.2,1.2,3.3,3.9
+  Optometrists,29-1041,49.3,53.6,4.3,8.7,"134,830",Doctoral or professional degree,4.0,3.8,2.7,3.8,3.9,4.0,3.3,4.2,3.6,3.1,1.7,1.6,4.0,3.0,3.6,3.6,4.1
+  Athletic trainers,29-9091,34.3,38.7,4.3,12.7,"60,250",Master's degree,4.3,3.4,3.0,3.4,3.3,4.0,2.6,4.2,3.2,2.1,1.6,2.7,4.0,2.7,2.5,3.6,3.6
+  Librarians and media collections specialists,25-4022,142.2,146.4,4.2,2.9,"64,320",Master's degree,4.0,3.9,3.1,3.1,3.5,3.2,2.2,3.7,3.1,2.2,1.3,1.8,3.3,3.1,1.3,3.7,3.9
+  Crossing guards and flaggers,33-9091,93.0,97.2,4.2,4.5,"37,700",No formal educational credential,3.4,1.8,2.0,2.5,3.1,3.8,2.2,3.3,2.2,1.5,1.3,2.5,3.1,2.0,1.0,2.8,2.3
+  First-line supervisors of production and operating workers,51-1011,690.9,695.1,4.2,0.6,"71,190",High school diploma or equivalent,3.9,3.2,2.9,3.5,3.0,3.7,2.7,3.5,4.0,2.9,2.6,2.4,3.9,3.1,1.8,3.6,3.4
+  Computer numerically controlled tool programmers,51-9162,28.3,32.5,4.2,14.9,"65,670",Postsecondary nondegree award,3.5,4.0,3.0,3.4,2.3,3.9,3.1,2.8,3.1,3.5,2.8,2.2,3.7,2.8,1.9,2.7,3.3
+  Purchasing managers,11-3061,81.3,85.4,4.1,5.1,"139,510",Bachelor's degree,4.2,3.8,3.1,3.7,3.3,3.6,1.3,3.6,4.1,3.2,1.4,1.3,3.8,3.6,1.4,3.7,3.8
+  Aerospace engineers,17-2011,68.9,73.0,4.1,6.0,"134,830",Bachelor's degree,3.9,4.0,3.2,4.1,2.5,3.6,1.6,2.8,3.1,3.8,1.8,1.2,3.8,2.7,2.8,3.4,4.0
+  Instructional coordinators,25-9031,225.2,229.3,4.1,1.8,"74,720",Master's degree,4.1,3.7,3.4,3.6,3.1,3.1,1.5,3.9,3.9,3.1,1.3,1.4,3.7,3.3,1.5,4.0,4.1
+  First-line supervisors of non-retail sales workers,41-1012,347.8,351.9,4.1,1.2,"84,130",High school diploma or equivalent,3.7,3.4,2.5,3.4,3.6,3.4,2.0,3.5,4.2,3.1,1.6,1.5,4.0,3.2,1.1,3.7,3.6
+  Public safety telecommunicators,43-5031,102.7,106.8,4.1,4.0,"50,730",High school diploma or equivalent,4.3,4.1,2.5,3.3,4.3,4.3,2.8,4.0,3.3,2.0,1.9,1.6,3.8,2.8,1.4,3.8,3.6
+  Medical equipment preparers,31-9093,70.7,74.7,4.0,5.7,"46,490",High school diploma or equivalent,4.0,3.3,2.6,3.0,3.4,4.0,3.2,3.5,3.1,2.3,2.7,2.9,3.5,2.9,2.4,2.9,3.2
+"  Entertainment and recreation managers, except gambling[2]",11-9072,35.8,39.7,3.9,10.8,"77,180",Bachelor's degree,4.1,3.2,3.5,3.1,3.5,3.5,1.9,4.1,3.6,2.4,1.8,2.6,3.5,3.4,1.4,3.6,3.3
+  Statisticians,15-2041,32.4,36.2,3.8,11.8,"103,300",Master's degree,3.7,3.9,2.9,3.9,2.0,3.5,1.7,2.7,2.8,4.6,1.1,1.1,3.5,2.3,2.3,3.4,4.0
+"  Biological scientists, all other[2]",19-1029,66.8,70.6,3.8,5.6,"93,330",Bachelor's degree,4.1,3.9,3.2,3.9,2.4,4.0,2.6,3.0,3.4,3.5,2.1,1.7,3.8,3.0,3.9,3.5,4.2
+"  Social workers, all other[2]",21-1029,69.0,72.8,3.8,5.5,"69,480",Bachelor's degree,4.1,3.6,3.0,3.5,4.0,3.5,1.6,4.4,3.4,2.0,1.3,1.8,3.9,2.7,1.8,3.8,4.0
+  Drywall and ceiling tile installers,47-2081,116.6,120.4,3.8,3.3,"58,140",No formal educational credential,3.1,1.6,2.3,2.6,2.4,3.6,3.3,2.8,2.8,2.6,2.2,3.4,3.1,2.2,1.5,2.6,2.5
+  Interior designers,27-1025,92.2,95.9,3.7,4.0,"63,490",Bachelor's degree,4.0,3.7,4.3,3.5,3.5,3.8,1.5,3.6,3.7,3.0,1.5,1.4,3.6,3.3,1.6,3.6,3.7
+  Animal trainers,39-2011,57.9,61.6,3.7,6.4,"38,750",High school diploma or equivalent,3.7,2.7,3.0,2.9,3.5,3.4,2.7,3.4,3.3,2.0,1.5,3.0,3.7,2.6,1.8,3.1,3.1
+  Sales engineers,41-9031,59.7,63.4,3.7,6.3,"121,520",Bachelor's degree,4.1,3.5,3.1,3.8,3.5,3.6,1.7,3.6,2.9,3.3,1.7,1.2,4.1,2.6,2.0,3.7,3.8
+  Magnetic resonance imaging technologists,29-2035,43.4,47.0,3.6,8.4,"88,180",Associate's degree,3.9,3.8,2.6,3.1,3.5,4.2,3.0,3.7,3.2,2.6,2.4,2.3,3.5,2.6,3.0,3.3,3.5
+  First-line supervisors of firefighting and prevention workers,33-1021,87.0,90.7,3.6,4.2,"92,430",Postsecondary nondegree award,4.1,3.4,2.9,3.3,3.9,4.1,2.9,4.0,4.3,2.7,2.8,3.1,4.0,3.3,2.5,3.6,3.6
+"  Bus drivers, school[2]",53-3051,365.3,368.9,3.6,1.0,"47,040",High school diploma or equivalent,3.7,2.3,2.2,2.6,3.5,3.8,3.3,3.5,2.6,2.1,2.4,2.3,3.3,2.1,1.3,2.9,2.8
+"  Directors, religious activities and education",21-2021,155.9,159.4,3.5,2.2,"54,840",Bachelor's degree,4.3,3.2,3.3,3.4,3.1,2.7,1.3,4.3,3.6,2.5,1.4,1.5,3.6,3.4,1.3,3.8,3.7
+"  Art, drama, and music teachers, postsecondary",25-1121,127.4,130.9,3.5,2.7,"80,190",Master's degree,4.1,3.4,4.4,3.4,3.0,3.1,2.1,3.8,3.7,2.1,1.6,1.7,3.5,2.9,1.7,4.1,4.0
+  Actors,27-2011,76.0,79.5,3.5,4.5,—,"Some college, no degree",3.7,2.5,4.2,2.5,3.0,3.3,1.5,3.6,2.6,1.2,1.1,2.3,3.0,1.8,1.2,3.9,3.2
+  Musicians and singers,27-2042,169.3,172.8,3.5,2.1,—,No formal educational credential,3.6,2.2,3.7,2.8,2.6,3.6,3.0,3.3,2.6,2.1,1.4,2.2,2.9,2.1,1.2,3.2,3.0
+  Refuse and recyclable material collectors,53-7081,148.4,151.9,3.5,2.3,"48,350",No formal educational credential,2.7,1.6,1.6,2.1,2.3,3.1,2.9,2.5,2.1,1.3,2.6,3.0,2.7,1.5,1.2,2.5,2.3
+  Semiconductor processing technicians,51-9141,26.6,30.1,3.4,13.0,"51,180",High school diploma or equivalent,3.5,2.9,2.5,2.9,2.4,3.8,3.1,3.1,3.0,2.2,2.7,2.6,2.9,2.3,1.9,2.8,3.1
+  Parts salespersons,41-2022,267.9,271.2,3.3,1.2,"37,440",No formal educational credential,3.8,3.6,2.6,2.8,4.2,3.4,2.3,3.6,3.3,2.9,2.3,2.5,3.6,2.8,1.2,3.5,3.4
+"  Floor layers, except carpet, wood, and hard tiles",47-2042,32.8,36.1,3.3,10.1,"54,340",No formal educational credential,3.3,1.5,2.6,2.7,2.8,3.3,3.1,2.8,3.0,2.4,1.9,2.8,3.4,2.4,1.7,2.6,2.5
+  Training and development managers,11-3131,43.2,46.4,3.2,7.3,"127,090",Bachelor's degree,4.2,3.5,3.2,3.7,3.2,3.2,1.8,3.9,4.2,2.8,1.2,1.3,3.8,3.6,1.4,3.8,4.0
+  Property appraisers and assessors[2],13-2020,83.9,87.1,3.2,3.9,"65,420",Bachelor's degree,3.6,3.6,2.4,3.4,3.1,3.5,1.9,3.0,2.5,3.3,1.5,1.7,3.6,2.7,1.3,3.2,3.7
+  Surveying and mapping technicians,17-3031,57.4,60.6,3.2,5.6,"51,940",High school diploma or equivalent,3.4,3.9,2.5,3.3,2.4,3.8,3.0,2.7,2.8,3.4,2.1,2.0,3.4,2.5,1.9,2.9,3.3
+  Biochemists and biophysicists,19-1021,35.7,39.0,3.2,9.0,"103,650",Doctoral or professional degree,4.3,4.0,3.6,4.1,2.1,4.0,2.6,2.9,3.5,3.9,2.3,1.5,3.9,3.0,4.5,3.5,4.3
+  Chemical technicians,19-4031,58.3,61.4,3.2,5.5,"57,790",Associate's degree,3.5,3.6,2.6,3.6,2.2,4.1,3.1,2.8,2.8,3.1,2.6,2.3,3.5,2.8,2.9,3.1,3.8
+  Occupational health and safety technicians,19-5012,27.6,30.8,3.2,11.4,"58,440",High school diploma or equivalent,3.9,3.8,2.7,3.7,3.0,3.8,2.2,3.5,3.4,2.9,2.0,2.1,3.8,2.9,3.3,3.5,3.8
+  Probation officers and correctional treatment specialists,21-1092,90.7,94.0,3.2,3.6,"64,520",Bachelor's degree,4.1,3.6,2.6,3.3,3.9,3.8,2.1,3.8,3.1,2.0,1.6,2.0,3.8,2.8,1.4,3.6,3.8
+  Special effects artists and animators,27-1014,73.3,76.4,3.2,4.3,"99,800",Bachelor's degree,3.9,3.9,3.7,3.2,2.8,3.8,2.8,3.1,3.1,2.4,1.6,1.2,3.6,2.5,1.2,3.5,3.5
+  Tree trimmers and pruners,37-3013,67.1,70.4,3.2,4.8,"50,430",High school diploma or equivalent,3.5,1.6,2.4,2.8,2.8,3.8,3.4,3.2,3.1,2.0,3.0,3.5,3.6,2.4,1.9,2.7,2.6
+  Mechanical door repairers,49-9011,27.7,30.9,3.2,11.4,"51,050",High school diploma or equivalent,3.4,2.4,2.7,2.8,3.1,3.5,3.2,3.2,2.9,2.4,3.2,3.2,3.5,2.4,1.4,2.8,2.9
+  Commercial pilots,53-2012,56.5,59.7,3.2,5.7,"122,670",Postsecondary nondegree award,4.0,3.0,2.4,3.5,3.3,4.3,3.4,3.4,3.2,2.8,2.6,2.4,3.9,2.5,2.1,3.4,3.3
+  Surveyors,17-1022,52.6,55.7,3.1,5.9,"72,740",Bachelor's degree,3.8,3.9,2.7,3.6,3.2,4.0,3.0,3.0,3.6,4.1,2.3,2.5,3.6,3.0,2.0,3.3,3.8
+"  Engineering technologists and technicians, except drafters, all other[2]",17-3029,69.5,72.6,3.1,4.4,"77,390",Associate's degree,3.7,3.7,2.8,3.6,2.7,3.8,2.7,3.0,3.0,3.3,2.6,1.9,3.7,2.7,2.5,3.1,3.5
+"  Ushers, lobby attendants, and ticket takers",39-3031,119.7,122.7,3.1,2.6,"31,150",No formal educational credential,3.5,2.3,2.2,2.3,3.8,3.0,2.3,3.5,2.5,2.0,1.5,2.2,2.8,1.8,1.2,3.0,2.5
+  Electrical and electronic engineering technologists and technicians,17-3023,99.6,102.6,3.0,3.0,"77,180",Associate's degree,3.8,3.9,2.8,3.5,2.6,3.8,2.9,3.0,3.0,3.2,2.9,1.8,3.7,2.8,2.3,3.0,3.4
+  Industrial engineering technologists and technicians,17-3026,74.5,77.6,3.0,4.1,"64,790",Associate's degree,3.8,3.5,3.0,3.7,2.6,3.8,2.5,3.0,3.0,3.2,2.5,2.0,3.9,2.7,2.8,3.1,3.4
+  Environmental engineers,17-2081,41.3,44.2,2.9,6.9,"104,170",Bachelor's degree,3.7,3.5,2.9,3.7,2.9,3.4,1.5,3.1,3.4,3.6,1.8,1.3,3.7,3.1,3.4,3.5,4.0
+"  Psychologists, all other[2]",19-3039,56.6,59.4,2.9,5.0,"117,580",Master's degree,4.2,3.3,2.9,3.6,3.2,3.5,1.5,4.2,3.1,2.7,1.1,1.2,3.8,2.2,1.7,3.8,4.2
+  Sheet metal workers,47-2211,124.2,127.1,2.9,2.3,"60,850",High school diploma or equivalent,3.4,2.5,2.6,2.9,3.1,4.0,3.4,3.1,3.8,3.2,3.2,3.1,3.1,2.7,1.8,2.7,2.7
+"  Food processing workers, all other[2]",51-3099,66.8,69.7,2.9,4.4,"38,420",No formal educational credential,3.4,2.3,2.4,2.6,2.7,3.7,3.2,3.1,3.0,2.4,2.1,2.6,3.1,2.4,1.8,2.7,2.6
+  Athletes and sports competitors,27-2021,25.1,27.8,2.8,11.1,"62,360",No formal educational credential,3.9,2.7,2.7,3.1,3.2,3.5,2.7,3.4,3.4,2.4,2.0,3.5,3.5,2.7,1.8,3.5,3.0
+"  Protective service workers, all other[2]",33-9099,83.5,86.3,2.8,3.3,"41,600",High school diploma or equivalent,4.0,3.4,2.9,2.9,3.8,3.9,2.2,3.8,3.4,2.0,1.9,2.5,3.4,2.6,1.9,3.2,3.0
+  Gambling dealers,39-3011,86.8,89.6,2.8,3.2,"33,280",High school diploma or equivalent,3.5,1.7,2.0,2.3,3.6,3.6,2.9,3.4,2.5,3.1,1.3,2.2,2.7,1.6,1.1,3.2,2.5
+  Demonstrators and product promoters,41-9011,56.5,59.2,2.8,4.9,"37,960",No formal educational credential,3.5,2.4,2.6,2.7,4.0,3.2,2.4,3.6,2.8,2.1,1.5,2.3,3.3,2.2,1.2,3.6,3.1
+"  Helpers--pipelayers, plumbers, pipefitters, and steamfitters",47-3015,47.1,49.8,2.8,5.9,"39,270",High school diploma or equivalent,3.5,1.7,2.6,2.6,3.0,3.4,3.2,2.9,2.8,2.5,2.8,3.2,3.0,2.6,1.5,2.5,2.3
+"  Computer science teachers, postsecondary",25-1021,45.0,47.7,2.7,6.1,"96,690",Doctoral or professional degree,4.2,4.2,3.3,3.7,2.9,3.2,1.6,3.5,3.6,3.3,1.5,1.2,3.9,2.7,2.1,3.8,4.0
+  Structural iron and steel workers,47-2221,66.1,68.9,2.7,4.1,"62,700",High school diploma or equivalent,3.6,1.6,2.5,2.7,2.6,3.9,3.7,3.1,3.1,2.7,2.7,3.8,3.3,2.4,1.6,2.8,2.6
+"  Psychology teachers, postsecondary",25-1066,51.1,53.6,2.6,5.0,"80,330",Doctoral or professional degree,4.3,3.7,3.2,3.7,2.9,3.2,1.5,3.9,3.7,3.0,1.2,1.2,3.8,2.8,2.5,3.9,4.2
+"  Entertainers and performers, sports and related workers, all other[2]",27-2099,35.7,38.3,2.6,7.3,—,No formal educational credential,3.9,3.0,3.6,3.3,3.0,3.5,2.2,3.6,3.3,2.1,1.5,2.3,3.6,2.8,1.4,3.8,3.4
+  Detectives and criminal investigators,33-3021,113.4,116.0,2.6,2.3,"93,580",High school diploma or equivalent,4.3,3.8,2.9,3.5,4.0,4.2,2.4,3.8,3.3,2.4,1.8,2.4,4.1,2.7,1.8,3.8,3.8
+"  Molders, shapers, and casters, except metal and plastic",51-9195,49.2,51.8,2.6,5.3,"45,690",High school diploma or equivalent,3.4,2.0,2.2,2.5,2.2,3.7,3.3,2.8,2.6,2.4,2.7,3.2,2.7,2.3,1.6,2.7,2.9
+  Forensic science technicians,19-4092,18.6,21.2,2.5,13.6,"67,440",Bachelor's degree,3.7,3.6,2.3,3.4,3.2,4.1,2.7,3.0,2.9,2.7,2.0,2.4,3.8,2.2,3.0,3.6,4.0
+"  Education teachers, postsecondary",25-1081,77.2,79.7,2.5,3.3,"72,090",Doctoral or professional degree,3.9,3.5,3.1,3.7,2.9,3.5,2.0,3.4,3.6,2.4,1.1,1.2,3.9,2.9,1.5,4.2,4.1
+"  Educational instruction and library workers, all other[2]",25-9099,127.2,129.7,2.5,2.0,"48,400",Bachelor's degree,4.1,3.5,3.2,3.3,3.2,3.3,1.6,4.0,3.5,3.0,1.2,1.5,3.5,2.7,2.2,3.7,3.9
+  General internal medicine physicians,29-1216,73.8,76.3,2.5,3.4,"236,350",Doctoral or professional degree,4.3,3.8,2.7,3.9,3.4,4.2,2.6,4.2,3.2,3.1,1.5,1.9,4.1,2.8,3.6,3.6,4.1
+  First-line supervisors of security workers[2],33-1091,67.8,70.3,2.5,3.7,"58,610",High school diploma or equivalent,4.0,3.6,2.9,3.5,3.4,3.6,1.9,3.8,3.9,2.8,1.5,1.6,3.8,3.2,1.1,3.5,3.8
+"  Roustabouts, oil and gas",47-5071,46.0,48.6,2.5,5.5,"47,510",No formal educational credential,3.1,2.2,2.4,2.5,2.7,3.5,3.3,3.0,3.3,2.1,3.0,3.3,3.4,2.8,1.7,2.6,2.2
+"  Environmental science and protection technicians, including health",19-4042,33.9,36.2,2.4,7.0,"49,490",Associate's degree,3.7,3.7,2.4,3.5,3.1,3.6,2.6,3.0,3.0,3.2,2.2,2.2,3.4,2.8,3.2,3.5,3.8
+  Social science research assistants,19-4061,37.5,39.9,2.4,6.3,"58,040",Bachelor's degree,3.8,3.9,2.6,3.4,2.4,3.4,1.7,2.9,2.7,3.1,1.3,1.2,3.1,2.5,2.1,3.2,3.9
+"  Umpires, referees, and other sports officials",27-2023,23.1,25.5,2.4,10.4,"38,820",High school diploma or equivalent,4.1,2.5,2.0,2.8,2.7,3.4,1.5,3.2,2.9,2.2,1.2,2.6,3.4,1.7,1.4,3.3,2.9
+  Cardiovascular technologists and technicians,29-2031,58.4,60.9,2.4,4.2,"67,260",Associate's degree,4.0,3.5,2.4,3.2,3.5,4.0,3.2,4.0,2.9,2.7,2.5,2.5,3.5,2.4,2.6,3.3,3.5
+"  Healthcare practitioners and technical workers, all other[2]",29-9099,41.9,44.3,2.4,5.8,"64,030",Postsecondary nondegree award,4.0,3.7,2.8,3.5,3.1,3.9,2.5,3.7,3.3,2.7,1.6,2.1,3.6,2.7,2.3,3.5,3.7
+  Brickmasons and blockmasons,47-2021,72.6,75.0,2.4,3.3,"60,800",High school diploma or equivalent,3.4,1.9,2.6,2.8,2.7,3.7,3.2,2.9,3.3,3.0,2.5,3.6,3.2,2.9,1.8,2.7,2.7
+  Septic tank servicers and sewer pipe cleaners,47-4071,30.1,32.6,2.4,8.1,"49,140",High school diploma or equivalent,3.3,2.2,2.3,2.7,3.3,3.2,3.4,3.0,2.7,2.5,3.1,3.1,3.4,2.4,2.0,2.7,2.7
+  Fundraising managers[2],11-2033,38.2,40.5,2.3,5.9,"123,480",Bachelor's degree,3.9,3.6,3.2,3.5,3.7,3.3,1.6,3.9,3.5,3.0,1.3,1.2,3.7,3.2,1.1,3.9,3.9
+"  Opticians, dispensing",29-2081,77.3,79.5,2.3,2.9,"46,560",High school diploma or equivalent,4.0,3.7,2.8,3.2,4.3,3.7,3.1,3.8,3.4,3.1,2.2,1.8,3.7,2.9,2.2,3.5,3.7
+  Orderlies,31-1132,50.0,52.2,2.3,4.5,"37,700",High school diploma or equivalent,3.5,2.2,2.0,2.4,3.4,3.7,3.0,3.9,2.6,1.8,1.7,3.4,3.2,2.0,1.5,3.0,2.6
+  Concierges,39-6012,41.8,44.0,2.3,5.4,"37,320",High school diploma or equivalent,4.1,3.5,3.3,2.9,3.9,3.4,1.7,4.3,3.5,2.2,1.3,1.8,3.6,2.7,1.1,3.8,3.0
+  Travel agents,41-3041,68.8,71.2,2.3,3.4,"48,450",High school diploma or equivalent,3.4,3.7,2.4,2.9,3.7,4.0,2.4,3.3,2.6,2.7,1.3,1.2,3.4,2.5,1.1,3.6,3.5
+  Billing and posting clerks,43-3021,449.0,451.3,2.3,0.5,"47,170",High school diploma or equivalent,3.7,3.7,2.3,2.8,2.7,3.4,2.3,3.2,2.5,3.2,1.4,1.3,3.2,2.2,1.3,2.9,3.3
+"  Helpers, construction trades, all other[2]",47-3019,28.0,30.4,2.3,8.3,"40,760",No formal educational credential,3.5,2.0,2.6,2.7,2.8,3.6,3.3,3.0,3.0,2.5,3.0,3.2,3.2,2.7,1.9,2.7,2.4
+"  Multiple machine tool setters, operators, and tenders, metal and plastic",51-4081,130.0,132.3,2.3,1.8,"46,060",High school diploma or equivalent,3.9,3.0,2.7,3.1,2.2,3.9,3.3,3.1,3.1,2.7,3.2,2.7,3.2,2.7,1.6,2.7,3.0
+"  Media and communication workers, all other[2]",27-3099,27.0,29.1,2.2,8.0,"71,770",High school diploma or equivalent,4.0,3.4,3.2,3.2,3.3,3.6,1.7,3.4,3.2,2.0,1.2,1.3,3.6,2.6,1.2,3.9,4.1
+  Film and video editors,27-4032,47.2,49.4,2.2,4.7,"70,980",Bachelor's degree,4.4,4.0,4.2,3.2,2.9,3.8,2.5,3.4,3.0,2.0,1.8,1.3,3.2,2.6,1.1,3.6,3.4
+  Exercise physiologists,29-1128,21.5,23.7,2.2,10.4,"58,160",Bachelor's degree,3.9,3.5,2.7,3.6,3.6,3.5,2.2,4.2,3.3,2.8,1.7,2.6,3.7,2.5,2.7,3.7,4.0
+  Real estate brokers,41-9021,113.6,115.8,2.2,2.0,"72,280",High school diploma or equivalent,4.2,3.5,2.8,3.2,3.7,3.5,1.6,3.6,3.0,2.8,1.4,1.3,3.8,2.7,1.3,3.6,3.6
+  Chemical engineers,17-2041,21.4,23.5,2.1,9.8,"121,860",Bachelor's degree,3.7,4.0,3.3,4.1,2.4,4.0,1.8,2.8,3.3,4.1,2.0,1.2,4.0,3.0,4.0,3.2,3.7
+  Epidemiologists,19-1041,11.0,13.1,2.1,18.8,"83,980",Master's degree,3.8,3.8,3.3,4.2,2.8,3.7,1.5,3.4,3.5,3.8,1.1,1.2,4.1,2.9,3.0,3.9,4.3
+  Psychiatrists,29-1223,27.0,29.1,2.1,7.6,">=239,200",Doctoral or professional degree,4.3,3.4,2.9,3.9,3.6,3.9,1.4,4.5,3.4,2.7,1.2,1.5,4.2,2.4,3.1,3.7,4.1
+"  First-line supervisors of farming, fishing, and forestry workers",45-1011,68.9,71.0,2.1,3.1,"59,330",High school diploma or equivalent,3.6,2.8,2.5,3.1,2.8,3.6,3.0,3.2,3.6,2.8,2.8,2.8,3.7,3.2,2.6,3.2,3.1
+  Glaziers,47-2121,56.5,58.6,2.1,3.8,"55,440",High school diploma or equivalent,3.3,2.0,2.5,2.8,2.9,3.8,3.2,3.0,3.1,2.5,2.6,3.1,3.3,2.6,1.6,2.6,2.7
+  Automotive body and related repairers,49-3021,169.2,171.4,2.1,1.3,"51,680",High school diploma or equivalent,3.6,2.1,3.0,2.9,2.5,4.0,3.5,2.9,2.9,2.3,3.0,3.0,3.4,2.8,1.7,2.7,2.6
+  Budget analysts,13-2031,50.8,52.7,2.0,3.9,"87,930",Bachelor's degree,3.9,3.7,2.5,3.8,2.4,3.8,1.5,3.2,2.8,3.9,1.1,1.2,3.7,2.9,1.1,3.4,3.7
+  Urban and regional planners,19-3051,45.2,47.1,2.0,4.3,"83,720",Master's degree,4.1,3.4,3.1,3.9,3.5,3.1,1.6,3.5,3.5,3.0,1.1,1.2,3.8,3.2,1.8,3.9,4.0
+  Technical writers,27-3042,50.1,52.1,2.0,4.0,"91,670",Bachelor's degree,3.8,3.8,2.8,3.4,2.6,3.5,2.2,2.8,2.5,2.1,1.5,1.1,3.2,2.3,1.5,3.4,4.3
+  Millwrights,49-9044,42.3,44.3,2.0,4.8,"65,170",High school diploma or equivalent,3.9,2.7,2.7,3.1,2.8,4.2,3.8,3.2,3.8,3.1,3.7,3.4,3.6,2.9,2.2,2.9,3.0
+"  Coating, painting, and spraying machine setters, operators, and tenders",51-9124,167.9,169.9,2.0,1.2,"47,590",High school diploma or equivalent,3.5,2.1,2.1,2.7,2.1,3.4,3.6,2.8,2.8,1.9,2.9,3.0,3.2,2.5,1.4,2.5,2.6
+"  Personal service managers, all other[2]",11-9179,27.9,29.8,1.9,6.9,"61,340",High school diploma or equivalent,3.9,3.5,2.5,2.8,3.9,3.7,1.9,4.1,3.4,2.6,1.7,1.9,3.6,2.9,2.0,3.6,3.6
+"  Religious workers, all other[2]",21-2099,83.8,85.7,1.9,2.2,"45,120",Bachelor's degree,4.1,3.1,3.5,3.3,3.3,3.2,1.4,4.3,3.7,2.2,1.4,1.4,3.8,3.2,1.3,4.1,3.7
+"  Mathematical science teachers, postsecondary",25-1022,58.5,60.4,1.9,3.3,"79,350",Doctoral or professional degree,3.8,3.5,3.0,3.6,2.7,3.2,1.6,3.3,3.1,4.4,1.2,1.2,3.5,2.3,2.0,3.8,3.9
+"  Teachers and instructors, all other[2]",25-3099,143.5,145.5,1.9,1.4,"64,690",Bachelor's degree,4.0,3.1,3.1,3.0,3.1,3.1,1.8,3.9,3.3,2.7,1.2,1.4,3.4,2.3,2.1,3.5,3.7
+  Private detectives and investigators,33-9021,38.8,40.7,1.9,5.0,"52,370",High school diploma or equivalent,4.0,3.8,2.9,3.6,3.3,3.9,2.3,3.1,2.8,2.4,1.7,1.7,3.8,2.8,1.3,3.5,3.7
+  Materials engineers,17-2131,25.0,26.9,1.8,7.4,"108,310",Bachelor's degree,3.8,3.7,3.3,3.9,2.7,3.6,2.4,3.0,3.6,3.7,2.1,1.4,3.6,3.1,3.6,3.4,3.9
+  Food science technicians,19-4013,25.1,26.9,1.8,7.3,"49,430",Associate's degree,3.6,3.5,2.3,3.1,2.2,3.8,2.9,2.9,3.5,2.9,2.0,2.0,3.5,2.5,2.9,3.1,3.5
+  Interpreters and translators,27-3091,78.3,80.1,1.8,2.3,"59,440",Bachelor's degree,3.9,3.1,2.8,2.9,3.1,4.0,1.5,3.6,3.1,2.1,1.2,1.8,3.5,2.2,1.5,3.7,4.1
+  Motorboat mechanics and service technicians,49-3051,26.1,27.8,1.8,6.7,"54,950",High school diploma or equivalent,3.5,2.8,2.5,3.1,3.2,3.8,3.5,2.9,2.6,2.5,3.6,2.9,3.6,2.5,2.3,2.7,2.7
+  Recreational vehicle service technicians,49-3092,18.4,20.2,1.8,9.9,"50,540",High school diploma or equivalent,3.6,2.4,2.6,3.0,3.3,3.6,3.4,3.1,2.8,2.0,3.3,3.0,3.5,2.5,1.7,3.0,3.0
+"  Agents and business managers of artists, performers, and athletes",13-1011,18.6,20.4,1.7,9.2,"96,310",Bachelor's degree,3.7,3.1,3.6,3.1,3.3,3.6,1.5,3.5,2.8,2.4,1.1,1.2,3.6,2.6,1.2,3.7,3.6
+  Curators,25-4012,14.2,16.0,1.7,12.2,"61,770",Master's degree,3.8,3.6,3.9,3.6,3.1,3.5,1.9,3.2,3.4,2.7,1.5,1.9,3.8,3.4,1.6,3.7,3.9
+  First-line supervisors of gambling services workers,39-1013,33.2,34.9,1.7,5.2,"61,590",High school diploma or equivalent,3.8,3.4,2.2,3.0,4.1,3.9,2.6,3.6,3.5,3.0,1.8,2.5,3.5,2.3,1.2,3.4,3.4
+"  Paving, surfacing, and tamping equipment operators",47-2071,44.5,46.3,1.7,3.9,"51,650",High school diploma or equivalent,3.4,2.0,2.5,2.6,2.7,3.6,3.3,2.9,3.1,2.2,3.1,3.0,3.1,2.3,2.0,2.7,2.2
+  Avionics technicians,49-2091,21.9,23.5,1.7,7.6,"81,390",Postsecondary nondegree award,3.9,3.7,2.8,3.4,2.7,4.0,3.3,3.1,3.1,2.6,3.5,2.4,3.6,2.5,2.4,3.0,3.5
+  Funeral home managers,11-9171,35.8,37.4,1.6,4.5,"76,830",Associate's degree,3.9,3.5,2.5,2.8,3.9,3.7,1.9,4.1,3.4,2.6,1.7,1.9,3.6,2.9,2.0,3.6,3.6
+  Microbiologists,19-1022,23.2,24.8,1.6,6.7,"87,330",Bachelor's degree,4.0,3.8,2.8,3.9,2.3,4.3,2.9,2.9,3.3,3.1,1.9,1.7,3.7,3.0,3.6,3.4,4.2
+  Rehabilitation counselors,21-1015,87.6,89.2,1.6,1.8,"46,110",Master's degree,3.9,3.7,2.9,3.5,3.6,3.3,1.6,4.1,3.5,2.2,1.3,1.6,3.8,2.7,1.5,3.6,3.8
+  Museum technicians and conservators,25-4013,14.4,16.0,1.6,10.7,"47,460",Bachelor's degree,3.5,3.0,3.6,3.0,2.5,3.8,3.0,2.9,2.8,2.3,2.0,2.4,3.5,2.5,2.4,3.3,3.3
+  Audiologists,29-1181,14.4,16.0,1.6,10.9,"92,120",Doctoral or professional degree,4.2,4.0,2.8,3.7,4.1,3.7,2.9,4.3,3.4,2.8,2.3,1.6,4.0,3.0,2.8,3.7,4.1
+  Hearing aid specialists,29-2092,10.5,12.0,1.6,14.9,"61,560",High school diploma or equivalent,4.1,3.8,2.7,3.1,4.1,3.6,2.7,4.0,2.7,2.4,2.3,1.6,3.8,2.6,2.1,3.5,3.4
+"  Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9041,57.2,58.7,1.6,2.7,"45,130",High school diploma or equivalent,3.5,2.7,2.5,2.8,2.3,3.7,3.3,3.0,3.0,2.4,3.0,3.0,3.2,2.2,2.1,2.8,2.9
+  Aircraft service attendants[2],53-6032,25.2,26.7,1.6,6.2,"41,540",High school diploma or equivalent,3.8,3.1,2.7,3.4,2.7,4.2,3.5,3.2,3.2,2.6,3.9,2.7,3.9,2.6,2.4,2.9,3.5
+  Crane and tower operators,53-7021,42.6,44.2,1.6,3.7,"66,370",High school diploma or equivalent,3.6,2.3,2.4,2.7,2.4,4.0,3.5,2.8,3.1,2.6,3.1,2.7,3.4,2.3,1.5,2.8,2.9
+  Credit counselors,13-2071,31.8,33.3,1.5,4.9,"50,480",Bachelor's degree,4.2,3.6,2.7,3.4,3.5,3.6,2.1,3.7,2.7,3.3,1.1,1.2,3.8,2.3,1.0,3.5,3.7
+  Bioengineers and biomedical engineers,17-2031,19.7,21.2,1.5,7.4,"106,950",Bachelor's degree,3.8,4.1,3.4,4.1,2.5,3.7,2.3,3.1,3.4,3.8,2.5,1.3,3.9,3.1,4.0,3.5,4.0
+  Soil and plant scientists,19-1013,20.3,21.7,1.5,7.2,"71,410",Bachelor's degree,3.9,3.9,3.3,3.9,2.9,3.5,2.3,3.0,3.4,3.3,1.9,2.1,3.7,3.0,3.9,3.6,4.0
+  Physicists,19-2012,21.1,22.6,1.5,7.2,"166,290",Doctoral or professional degree,3.7,4.3,3.5,4.0,2.2,3.4,1.6,2.8,3.0,4.5,1.6,1.2,3.6,2.8,3.6,3.7,4.1
+  Set and exhibit designers,27-1027,29.6,31.1,1.5,5.1,"66,280",Bachelor's degree,4.0,3.4,4.6,3.5,2.5,3.5,2.7,3.2,3.1,2.9,1.7,1.8,3.5,3.2,1.8,3.6,3.6
+  Anesthesiologists,29-1211,36.1,37.6,1.5,4.0,">=239,200",Doctoral or professional degree,4.3,3.2,2.7,3.9,3.1,4.5,3.1,3.9,3.4,3.0,2.0,2.3,4.3,2.9,3.8,3.6,4.0
+  Legislators[2],11-1031,33.7,35.0,1.4,4.1,"44,810",Bachelor's degree,4.2,3.7,3.5,4.1,3.9,3.7,1.7,4.0,4.5,3.3,1.5,1.3,4.6,4.1,1.8,4.0,4.2
+"  Education administrators, all other[2]",11-9039,57.7,59.1,1.4,2.5,"89,040",Bachelor's degree,4.2,3.4,3.4,3.7,3.7,3.6,1.6,4.1,4.2,3.0,1.3,1.7,4.2,3.6,1.5,3.9,4.1
+  Conservation scientists,19-1031,25.9,27.4,1.4,5.6,"67,950",Bachelor's degree,3.6,3.8,2.8,3.5,3.0,3.3,2.4,3.2,3.3,3.3,1.9,2.4,3.5,3.1,3.5,3.5,3.8
+"  Geoscientists, except hydrologists and geographers",19-2042,26.0,27.4,1.4,5.5,"99,240",Bachelor's degree,3.8,3.8,3.1,3.9,2.6,3.4,2.0,2.9,3.3,3.6,1.8,1.9,3.7,2.7,3.6,3.6,4.0
+  Music directors and composers,27-2041,50.3,51.6,1.4,2.7,"63,670",Bachelor's degree,3.8,3.3,4.3,3.2,3.1,3.5,2.4,3.4,3.5,2.1,1.3,2.0,3.6,3.0,1.2,3.6,3.4
+  Orthotists and prosthetists,29-2091,9.1,10.4,1.4,15.1,"78,310",Master's degree,4.3,3.6,3.3,3.6,3.5,3.7,3.2,4.1,3.3,2.8,2.3,2.3,3.9,2.8,2.9,3.5,4.0
+  Surgical assistants,29-9093,21.3,22.7,1.4,6.7,"60,290",Postsecondary nondegree award,4.2,3.2,2.8,3.2,3.5,4.3,3.8,4.1,3.3,2.6,2.1,2.9,3.4,2.7,2.6,3.4,3.5
+"  Hosts and hostesses, restaurant, lounge, and coffee shop",35-9031,435.6,437.0,1.4,0.3,"30,380",No formal educational credential,3.5,2.1,2.0,2.3,3.9,3.0,2.0,3.4,2.7,2.3,1.2,2.3,2.9,2.0,1.5,3.4,2.5
+"  Pesticide handlers, sprayers, and applicators, vegetation",37-3012,26.7,28.0,1.4,5.1,"45,200",High school diploma or equivalent,3.5,2.5,2.4,2.7,3.4,3.8,3.1,3.1,3.0,2.6,2.7,2.7,3.6,2.7,2.7,2.9,2.8
+  Elevator and escalator installers and repairers,47-4021,24.4,25.8,1.4,5.7,"106,580",High school diploma or equivalent,3.8,3.3,2.6,3.3,3.3,4.1,3.5,2.9,3.0,2.5,3.9,3.1,3.9,2.6,2.1,2.8,3.0
+  Stationary engineers and boiler operators,51-8021,35.5,36.9,1.4,4.1,"75,190",High school diploma or equivalent,3.7,3.3,2.6,3.0,2.7,4.0,3.0,3.0,3.4,2.4,3.4,2.6,3.6,2.7,2.7,3.0,3.0
+  Architectural and civil drafters,17-3011,112.3,113.6,1.3,1.1,"64,280",Associate's degree,3.8,3.8,3.1,3.4,2.5,3.8,2.4,2.8,2.8,3.2,1.4,1.3,3.3,2.5,1.9,3.2,3.3
+  Food scientists and technologists,19-1012,14.5,15.7,1.3,8.9,"85,310",Bachelor's degree,3.8,3.5,3.2,3.8,2.4,3.6,2.2,3.0,3.3,3.3,1.8,1.8,3.7,2.9,3.7,3.5,3.9
+"  Social scientists and related workers, all other[2]",19-3099,39.2,40.6,1.3,3.4,"100,340",Bachelor's degree,4.1,3.4,3.0,3.7,3.1,3.4,1.5,3.9,3.1,2.9,1.1,1.2,3.8,2.4,1.7,3.8,4.1
+  Tutors,25-3041,195.1,196.4,1.3,0.7,"40,090","Some college, no degree",4.1,3.3,3.1,3.1,3.2,3.1,1.6,4.1,3.2,3.0,1.2,1.2,3.3,2.3,2.4,3.6,4.0
+  Emergency medicine physicians[2],29-1214,37.6,39.0,1.3,3.5,">=239,200",Doctoral or professional degree,4.5,3.6,2.4,3.9,3.7,4.5,2.6,4.4,2.9,2.9,1.1,1.3,4.3,2.1,3.3,3.8,4.2
+  Physical therapist aides,31-2022,44.3,45.6,1.3,2.9,"34,520",High school diploma or equivalent,3.9,3.3,2.5,2.7,3.4,3.5,2.6,3.9,3.0,2.1,1.6,2.9,3.2,2.3,2.0,2.9,3.1
+  Shampooers,39-5093,13.3,14.5,1.3,9.5,"31,470",No formal educational credential,3.6,1.6,2.3,2.3,3.3,3.3,2.9,3.4,2.8,1.7,1.4,2.4,3.0,2.2,1.7,2.9,2.5
+  Miscellaneous construction and related workers[2],47-4090,31.6,32.9,1.3,4.0,"48,120",High school diploma or equivalent,3.5,2.6,2.5,3.0,3.3,3.7,2.9,3.2,3.2,2.6,2.6,2.9,3.4,2.5,2.0,3.0,3.0
+"  Extruding and drawing machine setters, operators, and tenders, metal and plastic",51-4021,64.1,65.3,1.3,2.0,"46,980",High school diploma or equivalent,3.4,2.5,2.3,2.7,2.1,3.9,3.3,2.9,3.0,2.7,2.8,3.2,3.6,2.4,1.4,2.6,2.6
+  Passenger attendants,53-6061,21.6,22.9,1.3,5.8,"37,560",High school diploma or equivalent,3.7,1.6,2.1,2.6,2.9,3.3,2.2,3.9,2.5,2.1,1.6,2.4,2.8,1.8,1.3,3.2,2.6
+  Landscape architects,17-1012,24.7,25.8,1.2,4.7,"79,660",Bachelor's degree,3.9,3.6,4.0,3.8,3.3,3.6,2.1,3.4,3.5,3.1,1.6,1.3,3.7,3.4,2.6,3.6,3.8
+"  Health and safety engineers, except mining safety engineers and inspectors",17-2111,23.1,24.3,1.2,5.1,"109,660",Bachelor's degree,4.0,3.6,2.9,3.8,3.1,3.8,2.0,3.4,3.5,3.2,2.0,1.8,3.9,2.8,3.2,3.6,4.0
+  Civil engineering technologists and technicians,17-3022,66.0,67.1,1.2,1.8,"64,200",Associate's degree,3.8,3.7,2.8,3.5,3.0,3.5,2.2,3.1,2.8,3.8,1.7,1.5,3.5,2.7,2.6,3.2,3.6
+  Agricultural technicians,19-4012,19.6,20.8,1.2,5.9,"46,790",Associate's degree,3.8,3.4,2.9,3.1,2.6,4.0,2.9,3.4,3.2,3.4,2.4,2.3,3.4,2.9,3.4,3.0,3.5
+"  Communications teachers, postsecondary",25-1122,35.0,36.2,1.2,3.3,"77,800",Doctoral or professional degree,4.3,3.9,3.8,3.5,3.0,3.4,1.5,3.7,3.4,2.2,1.2,1.2,3.8,2.6,1.3,4.1,4.0
+  Radiologists,29-1224,34.3,35.6,1.2,3.6,">=239,200",Doctoral or professional degree,4.1,3.7,2.6,3.8,3.3,4.1,3.1,4.2,3.4,2.9,2.0,1.9,4.2,2.8,3.5,3.7,4.3
+"  Surgeons, all other[2]",29-1249,28.4,29.6,1.2,4.3,">=239,200",Doctoral or professional degree,4.3,3.5,2.9,3.8,3.7,4.5,3.6,4.2,3.6,3.1,2.2,2.0,4.4,2.9,3.1,3.5,4.2
+  Acupuncturists,29-1291,22.1,23.3,1.2,5.5,"78,140",Master's degree,3.9,3.1,2.9,3.3,3.4,3.7,2.8,4.0,2.9,2.1,1.8,2.4,3.8,2.6,2.2,3.3,3.3
+"  Locker room, coatroom, and dressing room attendants",39-3093,15.5,16.7,1.2,8.0,"34,800",High school diploma or equivalent,3.3,1.4,2.1,2.1,3.3,2.8,2.2,3.5,2.4,1.5,1.4,2.3,2.6,1.7,1.3,3.0,2.4
+  Executive secretaries and executive administrative assistants,43-6011,516.1,517.2,1.2,0.2,"74,260",High school diploma or equivalent,3.9,3.7,2.9,2.9,3.0,3.5,2.4,3.8,2.7,2.7,1.3,1.4,3.3,3.1,1.2,3.5,3.7
+"  Insulation workers, mechanical",47-2132,23.4,24.6,1.2,5.1,"57,250",High school diploma or equivalent,3.7,2.1,2.7,2.7,2.8,3.4,3.0,3.1,3.3,2.5,2.3,3.3,3.3,2.7,1.8,2.7,2.5
+  Fence erectors,47-4031,24.3,25.5,1.2,4.8,"46,940",No formal educational credential,3.2,1.9,2.4,2.7,3.0,3.8,3.2,3.0,3.3,2.5,2.6,3.4,3.0,2.6,1.7,2.7,2.3
+  Outdoor power equipment and other small engine mechanics,49-3053,40.0,41.2,1.2,2.9,"46,560",High school diploma or equivalent,3.6,2.8,2.7,2.9,2.9,3.5,3.7,2.9,2.6,2.2,3.5,2.7,3.5,2.4,2.2,2.6,2.8
+  Riggers,49-9096,24.2,25.4,1.2,4.9,"62,060",High school diploma or equivalent,3.5,2.5,2.6,2.8,2.9,4.0,3.3,3.1,3.0,2.0,3.0,3.2,3.4,2.2,1.8,2.9,2.8
+  Transportation inspectors,53-6051,29.7,30.8,1.2,3.9,"85,750",High school diploma or equivalent,3.7,3.2,2.5,3.2,2.9,3.8,2.2,2.9,2.8,2.9,1.8,2.4,3.6,2.7,2.1,3.3,3.7
+"  Material moving workers, all other[2]",53-7199,26.5,27.6,1.2,4.4,"41,690",No formal educational credential,3.2,2.4,2.1,2.5,2.8,3.4,2.9,2.9,2.7,2.2,2.2,3.0,3.0,2.2,1.4,2.6,2.6
+"  Fine artists, including painters, sculptors, and illustrators",27-1013,26.3,27.4,1.1,4.0,"60,560",Bachelor's degree,3.8,3.0,4.2,2.9,2.4,3.5,3.3,2.9,1.8,2.4,1.7,2.2,3.3,2.4,1.5,2.9,2.8
+  Commercial and industrial designers,27-1021,34.0,35.1,1.1,3.1,"79,450",Bachelor's degree,3.5,3.8,3.4,3.5,2.8,3.8,2.3,3.0,2.7,3.0,1.9,1.4,3.8,2.7,2.5,3.4,3.4
+"  Disc jockeys, except radio[2]",27-2091,21.0,22.1,1.1,5.1,—,High school diploma or equivalent,4.1,3.8,3.7,3.1,3.7,3.8,2.4,3.4,3.0,2.1,2.0,1.6,3.8,2.6,1.3,4.3,3.9
+  Dietetic technicians,29-2051,25.0,26.1,1.1,4.3,"37,040",Associate's degree,4.2,3.1,3.1,3.3,3.7,3.8,2.5,4.0,3.6,3.2,1.9,2.4,3.5,3.0,2.1,3.2,3.1
+  Funeral attendants,39-4021,32.9,33.9,1.1,3.2,"34,610",High school diploma or equivalent,3.5,2.5,2.3,2.6,3.5,3.4,1.9,3.9,3.1,2.0,2.1,2.4,3.3,2.7,1.5,3.1,2.8
+"  Financial clerks, all other[2]",43-3099,46.2,47.3,1.1,2.3,"52,150",High school diploma or equivalent,3.7,3.5,2.2,2.8,3.1,3.7,2.3,3.2,2.6,3.5,1.3,1.4,3.3,2.5,1.1,3.0,3.3
+  Sailors and marine oilers,53-5011,32.1,33.2,1.1,3.5,"49,610",No formal educational credential,3.4,2.3,2.4,2.7,2.6,3.9,3.5,3.3,3.3,2.5,3.2,3.3,3.2,2.5,2.0,3.0,2.8
+"  Tax examiners and collectors, and revenue agents",13-2081,54.0,55.0,1.0,1.9,"59,740",Bachelor's degree,3.9,3.6,2.4,3.4,3.7,3.8,2.1,3.3,2.9,3.3,1.2,1.2,3.6,2.5,1.2,3.4,3.7
+  Electrical and electronics drafters,17-3012,23.2,24.2,1.0,4.1,"73,720",Associate's degree,3.6,3.9,2.8,3.2,2.4,3.7,2.4,2.9,2.6,3.1,1.8,1.4,3.5,2.6,2.0,3.1,3.5
+"  Special education teachers, all other[2]",25-2059,45.1,46.0,1.0,2.1,"67,430",Bachelor's degree,4.3,3.7,3.3,3.4,3.4,3.5,1.6,4.2,3.7,3.0,1.3,1.9,3.7,2.8,2.1,3.8,4.0
+  Fashion designers,27-1022,21.9,22.9,1.0,4.7,"80,690",Bachelor's degree,4.1,3.1,4.0,3.6,3.3,3.7,2.7,3.5,3.7,2.4,1.4,1.5,3.8,3.7,1.1,3.5,3.7
+  Dancers,27-2031,15.2,16.2,1.0,6.7,—,No formal educational credential,3.6,1.7,3.7,2.4,3.1,3.5,1.7,3.2,2.5,1.7,1.1,4.1,2.8,1.7,1.3,2.9,2.6
+"  Healthcare diagnosing or treating practitioners, all other[2]",29-1299,40.4,41.5,1.0,2.6,"113,730",Master's degree,4.3,3.5,2.8,3.6,3.7,4.1,2.7,4.3,3.6,3.0,1.7,2.5,4.0,2.7,2.8,3.5,3.9
+"  Cooks, all other[2]",35-2019,20.0,21.1,1.0,5.2,"36,210",No formal educational credential,3.6,2.0,2.6,2.6,3.1,3.6,2.9,3.1,3.1,2.5,1.8,2.6,3.0,2.6,1.5,2.8,2.6
+"  Insulation workers, floor, ceiling, and wall",47-2131,39.1,40.2,1.0,2.7,"48,680",No formal educational credential,3.2,1.6,2.5,2.6,2.8,3.3,3.0,2.9,2.9,2.3,2.6,3.3,3.1,2.3,1.4,2.5,2.5
+"  Service unit operators, oil and gas",47-5013,48.7,49.7,1.0,2.1,"57,980",No formal educational credential,3.7,2.5,2.5,2.9,2.8,4.0,3.5,3.5,3.9,3.1,3.4,3.2,3.8,2.8,2.2,2.9,3.1
+  Fiberglass laminators and fabricators,51-2051,20.9,21.8,1.0,4.6,"45,760",High school diploma or equivalent,3.5,2.0,2.5,2.6,2.4,3.6,3.3,2.9,3.1,2.5,2.4,3.2,2.9,2.4,2.2,2.7,2.9
+  Slaughterers and meat packers,51-3023,72.8,73.8,1.0,1.4,"39,790",No formal educational credential,3.3,1.6,2.1,2.3,2.4,3.5,3.4,2.7,2.6,2.1,1.9,2.7,2.5,2.1,1.6,2.5,2.0
+  Airfield operations specialists,53-2022,18.7,19.7,1.0,5.3,"56,750",High school diploma or equivalent,3.8,3.5,2.5,3.4,3.6,4.3,2.6,3.2,3.5,2.5,2.2,2.2,4.0,2.7,2.0,3.6,3.6
+  Aerospace engineering and operations technologists and technicians,17-3021,11.0,11.9,0.9,7.9,"79,830",Associate's degree,3.8,3.8,2.7,3.7,2.7,4.2,3.1,2.9,2.8,3.2,3.0,2.1,3.8,2.9,2.5,3.1,3.5
+  Economists,19-3011,17.5,18.4,0.9,5.1,"115,440",Master's degree,3.6,3.7,3.1,4.0,2.2,3.4,1.4,2.5,2.8,4.0,1.1,1.1,3.8,2.4,1.5,3.6,4.0
+"  Judges, magistrate judges, and magistrates",23-1023,25.9,26.8,0.9,3.4,"156,210",Doctoral or professional degree,4.4,3.3,2.6,3.9,3.9,4.1,1.4,3.4,3.1,2.1,1.2,1.1,4.4,2.5,1.4,4.1,4.1
+"  Chemistry teachers, postsecondary",25-1052,25.4,26.2,0.9,3.4,"86,220",Doctoral or professional degree,4.0,3.6,3.1,3.8,2.6,3.8,1.5,3.2,3.6,3.4,1.6,1.3,3.7,2.7,3.9,3.9,4.1
+"  Designers, all other[2]",27-1029,30.4,31.3,0.9,3.0,"66,220",Bachelor's degree,3.8,3.4,4.0,3.2,3.2,3.5,2.4,3.3,3.1,2.3,1.5,1.9,3.4,2.9,1.4,3.4,3.3
+  Dermatologists,29-1213,13.0,13.9,0.9,7.1,">=239,200",Doctoral or professional degree,4.2,3.7,2.6,3.5,3.6,4.2,2.6,4.3,3.6,2.7,1.2,2.1,4.0,2.8,2.9,3.6,3.9
+"  Morticians, undertakers, and funeral arrangers",39-4031,25.3,26.1,0.9,3.5,"49,800",Associate's degree,4.1,3.6,2.9,3.1,4.1,4.0,2.6,4.4,3.7,2.8,1.9,2.3,3.8,3.5,2.3,3.6,3.3
+  Reinforcing iron and rebar workers,47-2171,21.9,22.9,0.9,4.2,"59,280",High school diploma or equivalent,3.3,1.8,2.4,2.7,2.5,3.5,3.4,2.7,3.3,2.5,2.2,3.6,3.0,2.5,1.6,2.5,2.3
+"  Electric motor, power tool, and related repairers",49-2092,17.7,18.6,0.9,5.0,"53,990",High school diploma or equivalent,3.7,2.7,2.7,3.1,2.7,3.9,3.6,3.0,3.3,2.7,3.8,2.8,3.7,2.8,1.9,2.6,3.1
+  Rail car repairers,49-3043,20.2,21.1,0.9,4.4,"65,680",High school diploma or equivalent,3.3,2.2,2.7,2.8,2.4,3.6,3.7,2.9,2.9,2.4,3.5,3.3,3.2,2.5,1.7,2.6,2.7
+"  Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",51-9012,53.4,54.3,0.9,1.7,"49,500",High school diploma or equivalent,3.4,2.5,2.2,2.9,2.3,3.7,3.1,2.7,2.7,2.7,2.9,2.9,3.3,2.3,2.4,2.7,2.8
+"  Captains, mates, and pilots of water vessels",53-5021,40.2,41.2,0.9,2.3,"85,540",Postsecondary nondegree award,3.9,2.9,2.6,3.1,3.0,3.9,3.4,3.3,3.6,2.6,3.2,2.9,3.9,2.9,2.1,3.3,3.3
+  Cartographers and photogrammetrists,17-1021,12.9,13.7,0.8,6.3,"78,380",Bachelor's degree,3.5,4.0,2.9,3.3,2.8,3.8,2.8,2.9,2.9,3.0,1.7,1.4,3.5,2.6,1.5,3.1,3.7
+  Marine engineers and naval architects,17-2121,10.1,11.0,0.8,8.0,"105,670",Bachelor's degree,3.7,3.5,3.0,3.9,2.5,3.9,2.3,2.9,3.1,3.8,2.2,1.9,3.8,2.8,2.9,3.4,3.8
+  Mechanical engineering technologists and technicians,17-3027,39.9,40.7,0.8,1.9,"68,730",Associate's degree,3.6,3.6,2.8,3.6,2.6,4.0,2.9,3.0,3.1,3.4,2.9,2.4,3.7,2.7,2.5,3.3,3.7
+  Calibration technologists and technicians[2],17-3028,13.8,14.5,0.8,5.5,"65,040",Associate's degree,3.8,3.8,2.7,3.7,2.7,4.2,3.1,2.9,2.8,3.2,3.0,2.1,3.8,2.9,2.5,3.1,3.5
+  Zoologists and wildlife biologists,19-1023,18.8,19.6,0.8,4.4,"72,860",Bachelor's degree,3.9,3.6,3.0,3.6,3.2,3.6,2.3,3.2,3.4,3.1,1.9,2.1,3.9,3.2,3.2,3.6,3.9
+  Materials scientists,19-2032,9.2,10.0,0.8,8.7,"104,160",Bachelor's degree,3.8,3.9,3.3,4.0,2.2,3.7,2.2,2.8,3.2,3.6,2.0,1.3,3.7,2.8,3.7,3.5,4.1
+"  Physical scientists, all other[2]",19-2099,34.1,34.9,0.8,2.3,"117,960",Bachelor's degree,3.9,3.8,2.8,3.8,2.7,3.6,2.0,3.0,3.2,3.6,1.9,1.7,3.6,2.8,3.6,3.5,4.0
+"  English language and literature teachers, postsecondary",25-1123,70.1,70.9,0.8,1.1,"78,270",Doctoral or professional degree,4.1,3.6,3.6,3.5,2.8,3.1,1.4,3.8,3.5,2.0,1.2,1.2,3.6,2.6,1.6,4.1,4.5
+  Cardiologists[2],29-1212,16.4,17.2,0.8,5.0,">=239,200",Doctoral or professional degree,4.3,3.8,2.7,3.9,3.4,4.2,2.6,4.2,3.2,3.1,1.5,1.9,4.1,2.8,3.6,3.6,4.1
+"  Pediatricians, general",29-1221,37.7,38.5,0.8,2.1,"210,130",Doctoral or professional degree,4.3,3.4,2.3,3.7,3.6,4.0,2.4,4.5,3.5,2.8,1.4,1.6,4.3,2.3,3.2,3.9,4.2
+"  First-line supervisors of protective service workers, all other[2]",33-1099,20.7,21.6,0.8,4.0,"74,960",High school diploma or equivalent,4.2,3.6,2.8,3.5,3.9,3.9,2.5,3.9,4.2,2.6,2.0,2.5,4.0,3.3,1.8,3.7,3.8
+  Plasterers and stucco masons,47-2161,24.1,24.9,0.8,3.3,"56,020",No formal educational credential,3.3,1.8,2.7,2.6,2.5,3.5,3.3,3.1,3.2,2.3,2.4,3.3,3.2,2.6,1.5,2.6,2.6
+"  Earth drillers, except oil and gas",47-5023,18.9,19.7,0.8,4.0,"59,600",High school diploma or equivalent,3.5,1.8,2.6,2.9,2.6,3.7,3.5,3.0,3.0,2.4,3.4,2.7,3.4,2.6,1.9,2.7,2.9
+"  Radio, cellular, and tower equipment installers and repairers",49-2021,12.0,12.9,0.8,6.8,"64,190",Associate's degree,3.9,3.7,2.8,3.0,3.0,3.8,3.3,3.2,3.3,2.7,3.4,2.8,3.5,2.8,1.8,3.0,3.2
+  Bicycle repairers,49-3091,14.5,15.3,0.8,5.6,"40,360",High school diploma or equivalent,4.1,2.9,2.7,3.0,4.1,4.0,3.6,3.7,3.0,2.4,3.3,2.6,3.8,2.7,1.7,3.1,2.9
+"  Control and valve installers and repairers, except mechanical door",49-9012,48.8,49.6,0.8,1.6,"74,690",High school diploma or equivalent,3.5,3.3,2.6,3.0,3.0,3.8,3.2,3.1,3.0,2.4,3.3,2.7,3.5,2.6,2.2,2.9,3.0
+  Railroad conductors and yardmasters,53-4031,41.1,41.9,0.8,1.9,"74,080",High school diploma or equivalent,3.7,2.9,2.2,3.1,2.7,3.9,2.7,3.1,2.9,2.4,2.0,2.7,3.6,2.3,2.0,3.2,3.0
+  Anthropologists and archeologists,19-3091,8.7,9.3,0.7,7.8,"64,910",Master's degree,3.9,3.8,3.1,3.8,2.6,3.6,2.4,3.1,3.3,2.9,1.5,2.1,3.4,2.8,2.3,3.8,4.4
+"  Physics teachers, postsecondary",25-1054,17.7,18.4,0.7,3.7,"97,360",Doctoral or professional degree,4.0,3.8,3.1,3.7,2.8,3.2,1.9,3.4,3.4,3.9,2.0,1.3,3.8,2.9,3.5,3.8,4.1
+"  Political science teachers, postsecondary",25-1065,21.7,22.4,0.7,3.3,"94,680",Doctoral or professional degree,4.2,3.3,3.2,3.7,2.8,3.2,1.2,3.2,3.1,2.2,1.0,1.2,3.7,2.6,1.4,3.9,4.0
+  Archivists,25-4011,8.8,9.5,0.7,8.0,"61,570",Master's degree,3.5,3.8,2.8,3.3,3.2,3.6,1.9,3.0,3.3,2.1,1.3,2.0,3.3,3.0,1.7,3.3,4.0
+"  Camera operators, television, video, and film",27-4031,38.2,38.9,0.7,1.9,"68,810",Bachelor's degree,3.7,3.6,3.3,2.8,2.9,4.0,3.2,3.3,3.0,2.2,2.6,2.4,3.3,2.4,1.3,3.3,2.9
+  Recreational therapists,29-1125,16.6,17.3,0.7,4.3,"60,280",Bachelor's degree,4.2,3.4,3.6,3.4,3.6,3.2,2.3,4.5,3.5,2.0,1.6,2.6,3.5,3.1,1.8,3.7,3.7
+  Neurologists,29-1217,10.1,10.8,0.7,6.8,">=239,200",Doctoral or professional degree,4.4,3.8,3.0,3.9,3.5,4.3,1.8,4.3,3.8,3.1,1.4,1.4,4.4,3.1,3.3,3.7,4.1
+  Obstetricians and gynecologists,29-1218,21.3,22.0,0.7,3.3,">=239,200",Doctoral or professional degree,4.4,3.7,2.6,3.9,3.5,4.1,2.9,4.3,3.7,2.9,1.6,2.3,4.3,2.9,3.4,3.6,4.2
+"  Orthopedic surgeons, except pediatric[2]",29-1242,16.0,16.6,0.7,4.2,">=239,200",Doctoral or professional degree,4.3,3.5,2.9,3.8,3.7,4.5,3.6,4.2,3.6,3.1,2.2,2.0,4.4,2.9,3.1,3.5,4.2
+  Fire inspectors and investigators,33-2021,14.9,15.5,0.7,4.5,"78,060",Postsecondary nondegree award,3.9,3.6,2.7,3.3,3.8,3.9,2.3,3.7,3.3,2.6,2.0,2.5,3.8,3.0,2.3,3.4,3.8
+"  Makeup artists, theatrical and performance",39-5091,7.4,8.1,0.7,9.4,"50,280",Postsecondary nondegree award,4.3,2.7,3.9,2.9,3.0,3.4,3.1,3.5,3.1,2.0,1.4,2.4,3.2,3.1,1.9,3.3,3.0
+  Helpers--electricians,47-3013,71.5,72.2,0.7,1.0,"39,890",High school diploma or equivalent,3.6,2.5,2.7,2.9,3.0,3.7,3.4,3.1,3.2,2.5,3.3,3.2,3.3,2.9,2.2,2.9,2.6
+"  Electrical and electronics repairers, commercial and industrial equipment",49-2094,59.8,60.5,0.7,1.2,"71,300",Postsecondary nondegree award,3.7,3.8,2.8,3.4,2.6,3.8,3.3,3.2,2.9,3.0,3.5,2.5,3.5,2.5,2.4,3.0,3.1
+"  Cleaning, washing, and metal pickling equipment operators and tenders",51-9192,15.8,16.6,0.7,4.5,"41,460",High school diploma or equivalent,3.2,2.4,2.2,2.6,2.1,3.2,3.0,2.9,2.8,2.0,2.6,2.9,3.0,2.2,1.8,2.5,2.5
+  Cooling and freezing equipment operators and tenders,51-9193,7.1,7.8,0.7,9.4,"40,160",High school diploma or equivalent,3.6,2.8,2.3,2.9,2.2,3.5,3.2,3.0,3.2,2.6,3.2,2.8,3.5,2.5,2.1,2.8,3.0
+  Aircraft cargo handling supervisors,53-1041,9.1,9.7,0.7,7.7,"63,940",High school diploma or equivalent,4.0,3.5,2.8,3.2,3.8,4.0,2.8,3.5,4.0,3.1,2.5,2.9,3.9,3.0,1.9,3.4,3.2
+  Air traffic controllers,53-2021,24.0,24.7,0.7,2.9,"144,580",Associate's degree,4.2,2.8,3.0,3.9,3.5,4.5,2.8,3.1,3.2,3.1,1.5,1.3,4.3,2.4,1.6,3.8,3.5
+  Subway and streetcar operators,53-4041,15.4,16.0,0.7,4.2,"84,830",High school diploma or equivalent,4.0,2.0,2.0,2.7,3.6,4.2,3.7,3.2,2.5,2.3,2.8,2.6,3.3,2.1,1.3,3.1,2.8
+  Atmospheric and space scientists,19-2021,9.9,10.5,0.6,5.6,"97,450",Bachelor's degree,4.1,3.8,2.8,3.8,2.7,3.6,1.9,3.0,3.2,3.4,1.3,1.2,3.8,2.6,3.3,3.8,4.1
+"  Title examiners, abstractors, and searchers",23-2093,56.3,56.9,0.6,1.0,"54,980",High school diploma or equivalent,3.6,3.7,2.1,3.2,2.8,3.9,2.0,2.9,2.6,2.2,1.2,1.3,3.6,2.3,1.1,3.2,3.8
+"  Social sciences teachers, postsecondary, all other[2]",25-1069,20.3,20.8,0.6,2.7,"75,040",Doctoral or professional degree,4.2,3.6,3.2,3.7,2.8,3.2,1.4,3.5,3.4,2.7,1.1,1.2,3.7,2.7,2.0,3.9,4.1
+"  Recreation and fitness studies teachers, postsecondary",25-1193,16.2,16.7,0.6,3.4,"75,890",Doctoral or professional degree,4.0,3.5,3.2,3.6,3.2,3.4,1.4,3.7,3.7,2.5,1.3,1.6,3.8,2.9,2.7,3.8,4.0
+"  Physicians, pathologists",29-1222,11.8,12.5,0.6,5.5,">=239,200",Doctoral or professional degree,4.3,3.8,2.7,3.8,2.6,4.3,2.6,3.4,3.2,2.9,1.8,1.6,4.2,3.1,3.5,3.6,4.2
+"  Ophthalmologists, except pediatric",29-1241,12.4,12.9,0.6,4.5,">=239,200",Doctoral or professional degree,4.3,3.5,2.9,3.8,3.7,4.5,3.6,4.2,3.6,3.1,2.2,2.0,4.4,2.9,3.1,3.5,4.2
+  Genetic counselors,29-9092,3.5,4.1,0.6,16.1,"98,910",Master's degree,4.2,3.5,2.5,3.5,3.2,3.8,1.5,4.0,2.9,3.1,1.0,1.1,3.7,2.1,3.1,3.6,4.2
+  Animal control workers,33-9011,12.0,12.6,0.6,4.9,"45,830",High school diploma or equivalent,4.2,3.2,2.8,3.1,4.2,3.8,2.4,3.4,2.8,2.0,1.9,2.6,3.6,2.7,1.8,3.4,3.3
+"  Building cleaning workers, all other[2]",37-2019,15.2,15.8,0.6,4.3,"42,360",No formal educational credential,3.4,2.2,2.2,2.4,2.6,3.1,2.8,3.0,2.9,1.7,2.0,3.1,2.8,2.5,1.5,2.6,2.4
+  Tire builders,51-9197,20.7,21.3,0.6,3.1,"55,580",High school diploma or equivalent,3.2,2.1,2.1,2.5,2.5,3.5,3.6,2.6,2.9,2.1,2.6,3.2,2.9,2.5,1.6,2.6,2.4
+"  Transportation workers, all other[2]",53-6099,11.3,11.9,0.6,5.3,"39,630",High school diploma or equivalent,3.5,2.4,2.2,2.7,3.3,3.7,3.0,3.2,2.6,2.6,2.4,2.8,3.3,2.3,1.7,3.0,2.9
+"  Pump operators, except wellhead pumpers",53-7072,11.7,12.3,0.6,5.0,"60,020",High school diploma or equivalent,3.2,2.8,2.3,2.9,2.2,3.5,3.3,2.6,2.8,2.8,3.1,2.9,3.5,3.0,2.0,2.8,3.2
+  Emergency management directors,11-9161,12.4,12.9,0.5,4.0,"86,130",Bachelor's degree,4.2,3.7,3.1,3.8,3.5,3.4,1.8,4.1,4.0,2.9,1.8,1.7,3.9,3.5,2.1,3.9,4.0
+  Petroleum engineers,17-2171,20.8,21.3,0.5,2.4,"141,280",Bachelor's degree,3.8,3.7,3.1,3.9,2.5,3.5,1.8,3.2,3.2,3.4,1.7,1.2,4.0,3.3,3.0,3.4,3.9
+  Foresters,19-1032,15.4,15.9,0.5,3.0,"70,660",Bachelor's degree,3.6,3.5,2.7,3.7,3.2,3.5,2.3,3.3,3.3,3.0,2.3,2.5,4.1,3.6,2.6,3.5,3.8
+"  Life scientists, all other[2]",19-1099,8.0,8.5,0.5,6.5,"87,800",Bachelor's degree,4.0,3.7,3.2,3.9,2.4,3.8,2.5,3.2,3.3,3.4,1.9,1.6,3.8,2.9,3.7,3.5,4.1
+  Industrial-organizational psychologists,19-3032,8.6,9.1,0.5,5.8,"109,840",Master's degree,4.1,3.9,3.1,4.1,2.9,3.7,1.3,3.6,3.8,3.6,1.0,1.1,4.2,2.9,1.8,3.9,4.4
+  School psychologists,19-3034,65.5,66.0,0.5,0.7,"86,930",Master's degree,4.2,3.2,2.8,3.6,2.9,3.4,1.6,4.1,3.0,3.0,1.1,1.2,3.8,2.1,1.6,3.7,4.0
+  Forest and conservation technicians,19-4071,31.3,31.8,0.5,1.7,"54,310",Associate's degree,3.8,3.4,2.7,3.3,3.2,3.7,2.9,3.5,3.5,2.9,2.6,3.0,3.7,3.0,2.7,3.3,3.3
+  Judicial law clerks,23-1012,15.6,16.1,0.5,3.4,"60,400",Doctoral or professional degree,3.6,3.2,2.4,3.5,2.4,3.8,1.8,2.7,1.8,2.1,1.1,1.2,3.6,1.7,1.0,3.6,4.2
+"  Arbitrators, mediators, and conciliators",23-1022,8.2,8.7,0.5,6.1,"67,710",Bachelor's degree,4.4,2.9,2.9,3.6,2.7,3.7,1.2,3.5,2.3,2.1,1.0,1.1,3.8,2.1,1.2,3.6,4.0
+"  Legal support workers, all other[2]",23-2099,47.3,47.8,0.5,1.0,"68,760",Associate's degree,3.7,3.8,2.3,3.1,3.0,3.6,2.0,3.0,2.4,2.1,1.2,1.3,3.3,2.3,1.2,3.2,3.9
+"  Agricultural sciences teachers, postsecondary",25-1041,9.5,9.9,0.5,4.8,"86,350",Doctoral or professional degree,4.3,3.6,3.3,3.6,2.9,3.4,2.0,3.8,3.9,3.1,1.7,1.9,3.8,3.0,3.3,4.1,4.1
+"  Atmospheric, earth, marine, and space sciences teachers, postsecondary",25-1051,14.4,15.0,0.5,3.8,"101,390",Doctoral or professional degree,4.0,3.7,3.1,3.8,2.9,3.3,1.7,3.3,3.4,3.6,1.5,1.4,3.7,2.7,3.8,4.1,4.0
+"  Area, ethnic, and cultural studies teachers, postsecondary",25-1062,14.7,15.3,0.5,3.6,"84,290",Doctoral or professional degree,4.1,3.6,3.6,3.6,2.8,3.3,1.3,3.5,3.5,2.0,1.1,1.2,3.7,3.0,1.5,4.0,4.1
+"  Economics teachers, postsecondary",25-1063,15.5,16.0,0.5,3.5,"119,980",Doctoral or professional degree,3.7,3.4,3.1,3.7,2.6,3.2,1.6,3.0,2.9,3.6,1.2,1.2,3.5,2.5,1.4,3.8,4.0
+"  Sociology teachers, postsecondary",25-1067,16.1,16.6,0.5,3.4,"82,540",Doctoral or professional degree,4.2,3.7,3.2,3.8,2.6,3.2,1.5,3.4,3.0,2.5,1.1,1.2,3.6,2.6,1.7,4.0,4.1
+"  Criminal justice and law enforcement teachers, postsecondary",25-1111,16.1,16.6,0.5,2.9,"71,470",Doctoral or professional degree,4.2,3.8,3.0,3.6,3.1,3.3,1.4,3.4,3.1,2.1,1.2,1.3,3.8,2.6,1.7,3.9,4.0
+"  Social work teachers, postsecondary",25-1113,15.1,15.7,0.5,3.6,"76,210",Doctoral or professional degree,4.4,3.8,3.2,3.8,3.0,3.3,1.4,3.9,3.5,2.5,1.1,1.3,3.7,2.8,1.7,4.1,4.1
+"  Philosophy and religion teachers, postsecondary",25-1126,26.4,27.0,0.5,2.0,"78,050",Doctoral or professional degree,3.8,3.4,3.1,3.6,2.7,3.3,1.4,3.5,3.3,2.0,1.1,1.2,3.8,2.5,1.4,3.8,4.2
+"  Media and communication equipment workers, all other[2]",27-4099,13.3,13.7,0.5,3.4,"67,190",High school diploma or equivalent,4.0,3.8,3.7,3.1,3.3,3.6,3.0,3.4,3.1,2.2,2.4,2.1,3.4,2.9,1.5,3.4,3.2
+  Radiation therapists,29-1124,17.2,17.7,0.5,3.1,"101,990",Associate's degree,4.1,3.8,2.5,3.3,3.5,4.3,3.1,4.0,3.4,3.0,2.8,2.7,3.6,2.8,3.0,3.2,3.6
+  Nurse midwives,29-1161,7.2,7.7,0.5,7.1,"128,790",Master's degree,4.5,3.6,2.8,3.7,3.8,4.3,2.7,4.5,3.6,2.8,1.5,2.5,4.2,2.8,2.9,3.6,4.0
+  Transportation security screeners,33-9093,51.7,52.2,0.5,0.9,"63,360",High school diploma or equivalent,3.9,2.7,2.1,2.8,3.6,4.1,3.0,3.3,3.1,1.9,2.1,2.9,3.2,2.3,1.3,3.1,3.0
+"  Grounds maintenance workers, all other[2]",37-3019,14.1,14.6,0.5,3.8,"43,410",No formal educational credential,3.4,1.6,2.4,2.5,2.7,3.3,3.0,3.2,2.7,1.9,2.6,3.2,2.7,2.2,2.2,2.5,2.0
+  Costume attendants,39-3092,6.5,7.0,0.5,7.1,"54,810",High school diploma or equivalent,3.5,2.5,3.7,2.8,2.3,3.3,3.0,3.4,3.0,1.9,1.7,2.4,3.2,2.6,1.5,2.9,2.9
+  Agricultural inspectors,45-2011,13.3,13.9,0.5,3.9,"50,990",Bachelor's degree,3.8,3.3,2.4,3.3,3.2,3.8,2.6,3.2,3.0,2.7,1.9,2.4,3.7,2.5,2.2,3.2,3.4
+  Hazardous materials removal workers,47-4041,50.3,50.9,0.5,1.0,"48,490",High school diploma or equivalent,3.8,2.4,2.8,3.2,3.0,3.6,3.2,3.4,3.2,2.4,2.8,2.9,3.1,2.7,2.3,3.1,3.1
+"  Electrical and electronics installers and repairers, transportation equipment",49-2093,7.6,8.2,0.5,6.9,"82,730",Postsecondary nondegree award,3.7,3.2,2.9,3.2,2.5,3.9,3.3,3.1,3.2,2.6,3.2,2.8,3.3,2.5,2.2,2.8,2.9
+  Audiovisual equipment installers and repairers,49-2097,27.8,28.3,0.5,1.9,"50,620",Postsecondary nondegree award,3.5,3.6,2.8,3.1,3.3,3.4,3.1,2.9,3.0,2.5,3.2,2.6,3.3,2.7,1.5,3.0,3.0
+"  Plant and system operators, all other[2]",51-8099,15.8,16.3,0.5,3.2,"61,710",High school diploma or equivalent,3.6,3.3,2.4,3.1,2.5,4.0,2.9,3.1,3.1,2.8,3.1,2.5,3.7,2.5,2.8,3.0,3.2
+  Medical appliance technicians,51-9082,13.0,13.5,0.5,3.9,"47,060",High school diploma or equivalent,3.4,2.7,3.0,3.3,3.0,3.7,3.5,3.4,3.0,2.8,2.7,2.6,3.6,2.7,2.4,3.4,3.2
+"  Tank car, truck, and ship loaders",53-7121,12.7,13.2,0.5,3.9,"58,070",No formal educational credential,3.6,3.0,2.5,2.8,2.6,4.2,3.4,3.0,3.2,2.5,2.9,3.3,3.5,2.8,1.8,2.8,3.1
+  Compensation and benefits managers,11-3111,19.1,19.5,0.4,2.1,"140,360",Bachelor's degree,4.0,3.5,2.8,3.6,2.9,3.5,1.5,3.5,3.6,3.2,1.1,1.2,3.8,3.2,1.0,3.6,3.9
+"  Environmental science teachers, postsecondary",25-1053,9.1,9.4,0.4,3.9,"87,710",Doctoral or professional degree,4.1,3.6,3.3,3.7,2.6,3.4,1.6,3.4,3.6,3.2,1.6,1.3,3.6,2.9,3.8,3.9,4.1
+"  Law teachers, postsecondary",25-1112,19.0,19.4,0.4,2.2,"126,650",Doctoral or professional degree,4.1,3.5,3.1,3.7,2.6,3.5,1.5,3.3,3.2,2.2,1.1,1.2,3.8,2.4,1.3,4.1,4.2
+"  Special education teachers, preschool",25-2051,25.7,26.1,0.4,1.6,"62,190",Bachelor's degree,4.3,3.6,3.0,3.4,2.8,3.3,2.1,4.2,3.4,2.3,1.3,2.3,3.6,2.4,1.6,3.5,3.8
+"  Artists and related workers, all other[2]",27-1019,13.4,13.8,0.4,3.3,"72,760",No formal educational credential,3.9,3.6,4.2,3.3,2.7,3.5,2.7,3.2,3.0,2.3,1.5,1.4,3.6,2.7,1.3,3.5,3.4
+  Pharmacy aides,31-9095,44.0,44.4,0.4,0.9,"37,000",High school diploma or equivalent,3.9,3.1,2.2,2.6,4.0,3.8,2.6,3.6,3.1,2.7,1.8,2.2,3.1,2.5,1.4,3.1,3.0
+  Forest fire inspectors and prevention specialists,33-2022,2.4,2.8,0.4,16.3,"52,380",High school diploma or equivalent,4.0,3.5,2.7,3.2,3.6,3.7,2.7,3.5,3.8,2.5,2.6,2.7,4.0,2.8,2.5,3.5,3.3
+"  Gambling service workers, all other[2]",39-3019,14.5,14.9,0.4,2.9,"34,530",High school diploma or equivalent,3.5,1.8,2.0,2.4,3.6,3.6,2.9,3.4,2.5,3.1,1.3,2.2,2.7,1.7,1.1,3.2,2.5
+"  Entertainment attendants and related workers, all other[2]",39-3099,7.9,8.3,0.4,5.2,"34,550",High school diploma or equivalent,3.4,2.3,2.3,2.3,3.8,3.1,2.5,3.4,2.6,2.3,1.6,2.4,2.8,1.9,1.1,3.3,2.6
+"  Dispatchers, except police, fire, and ambulance",43-5032,215.4,215.7,0.4,0.2,"48,880",High school diploma or equivalent,3.9,3.4,2.4,3.1,3.7,3.7,2.4,3.5,3.5,2.3,1.5,1.3,3.9,2.5,1.3,3.5,3.4
+  Rail-track laying and maintenance equipment operators,47-4061,17.7,18.1,0.4,2.5,"67,370",High school diploma or equivalent,3.4,2.1,2.7,2.8,2.7,3.7,3.4,3.1,3.3,2.4,3.2,3.3,3.4,2.8,2.0,2.7,2.7
+"  Derrick operators, oil and gas",47-5011,12.1,12.5,0.4,3.1,"62,740",No formal educational credential,3.4,2.0,2.3,2.8,2.6,3.5,3.6,3.0,3.2,2.7,3.3,3.6,3.5,2.4,1.9,2.9,2.8
+  Automotive glass installers and repairers,49-3022,21.7,22.1,0.4,2.0,"47,260",High school diploma or equivalent,3.5,2.0,2.3,2.5,3.1,3.6,3.0,2.9,2.3,2.1,2.7,2.8,3.0,2.0,1.5,2.5,2.5
+  Motorcycle mechanics,49-3052,16.0,16.4,0.4,2.5,"47,200",Postsecondary nondegree award,3.9,3.1,2.8,3.3,3.2,4.3,3.6,3.1,2.8,2.4,3.7,3.0,3.8,2.8,1.9,2.9,2.9
+"  Precision instrument and equipment repairers, all other[2]",49-9069,10.9,11.2,0.4,3.5,"67,080",High school diploma or equivalent,3.7,3.6,2.5,3.1,2.8,4.0,3.3,3.0,2.4,2.8,3.5,2.4,3.6,2.6,2.0,2.7,3.0
+"  Food and tobacco roasting, baking, and drying machine operators and tenders",51-3091,19.6,20.0,0.4,2.2,"42,730",No formal educational credential,3.3,2.4,2.2,2.8,2.5,3.8,3.1,3.0,3.0,1.8,2.6,2.7,3.2,2.3,1.5,2.8,3.0
+  Locomotive engineers,53-4011,27.5,27.9,0.4,1.3,"77,400",High school diploma or equivalent,3.6,2.4,2.3,3.1,2.8,4.2,3.6,3.0,3.2,2.4,2.8,2.5,3.6,2.4,1.6,3.2,3.2
+  Gambling managers,11-9071,5.3,5.5,0.3,5.1,"85,580",High school diploma or equivalent,4.0,3.5,2.7,3.5,4.0,3.9,1.9,3.6,3.8,3.4,1.6,1.9,4.0,3.2,1.4,3.6,3.5
+"  Mathematical science occupations, all other[2]",15-2099,4.6,4.9,0.3,6.9,"71,490",Bachelor's degree,3.7,3.9,3.0,4.0,2.1,3.6,1.6,2.7,2.9,4.6,1.1,1.1,3.8,2.4,2.1,3.4,4.0
+  Environmental engineering technologists and technicians,17-3025,14.2,14.5,0.3,2.3,"58,890",Associate's degree,3.7,3.5,2.5,3.6,2.8,3.6,2.7,2.9,2.8,3.1,2.5,2.2,3.4,2.6,3.2,3.2,3.4
+"  Geological technicians, except hydrologic technicians",19-4043,9.2,9.5,0.3,3.8,"48,390",Associate's degree,3.4,3.7,2.5,3.3,2.3,3.7,2.6,2.7,2.6,2.9,2.4,2.1,3.2,2.5,2.8,3.0,3.5
+"  Administrative law judges, adjudicators, and hearing officers",23-1021,15.8,16.1,0.3,2.1,"115,230",Doctoral or professional degree,4.3,3.3,2.5,3.7,3.7,3.7,1.9,3.3,2.4,2.3,1.2,1.2,4.2,2.4,1.4,3.6,4.1
+"  Architecture teachers, postsecondary",25-1031,10.7,11.0,0.3,3.2,"101,480",Doctoral or professional degree,4.2,3.7,3.8,3.8,2.8,3.2,1.8,3.6,3.7,3.0,1.5,1.3,3.7,3.0,2.2,4.0,4.0
+"  Foreign language and literature teachers, postsecondary",25-1124,26.1,26.4,0.3,1.0,"77,010",Doctoral or professional degree,4.1,3.3,3.5,3.4,2.3,3.0,1.4,3.4,2.9,1.9,1.1,1.2,3.5,2.2,1.2,3.9,4.0
+  Craft artists,27-1012,14.3,14.6,0.3,2.2,"38,480",No formal educational credential,3.3,2.8,4.2,2.7,3.1,3.6,3.5,2.6,2.0,2.4,2.2,2.5,2.9,3.1,1.6,2.9,2.6
+  Choreographers,27-2032,5.4,5.7,0.3,5.3,"55,600",High school diploma or equivalent,4.1,3.0,4.6,3.2,3.0,3.3,1.6,3.7,4.2,2.0,1.1,3.8,3.6,3.1,1.5,3.7,3.4
+  Court reporters and simultaneous captioners,27-3092,17.5,17.9,0.3,1.8,"67,310",Postsecondary nondegree award,4.1,3.9,2.0,2.4,3.0,4.0,3.3,2.8,2.0,1.7,1.7,1.3,2.8,2.1,1.0,3.5,3.3
+  Orthodontists,29-1023,7.4,7.7,0.3,3.7,">=239,200",Doctoral or professional degree,4.3,3.3,3.0,3.7,3.7,3.9,3.5,4.0,3.9,2.6,1.8,1.8,4.1,3.1,3.2,3.5,3.7
+  Psychiatric aides,31-1133,36.0,36.3,0.3,0.8,"41,590",High school diploma or equivalent,3.9,2.9,2.7,2.8,3.3,3.6,2.4,4.1,3.3,2.1,1.6,2.8,3.3,2.5,1.6,3.4,3.4
+  Gambling surveillance officers and gambling investigators,33-9031,11.0,11.3,0.3,2.6,"43,900",High school diploma or equivalent,3.9,3.8,2.3,3.2,2.8,4.2,2.7,3.3,3.3,2.5,1.6,1.8,3.8,2.5,1.2,3.1,3.4
+"  Agricultural workers, all other[2]",45-2099,11.0,11.3,0.3,2.5,"40,390",No formal educational credential,3.3,2.3,2.5,2.7,2.4,3.2,3.3,2.9,2.9,2.3,2.7,3.3,2.9,2.6,2.2,2.7,2.7
+  Helpers--roofers,47-3016,4.8,5.0,0.3,5.6,"40,590",No formal educational credential,3.6,2.0,2.6,2.6,2.9,3.8,3.2,3.1,3.3,2.5,2.8,3.3,3.0,2.7,1.6,2.8,2.5
+"  Rotary drill operators, oil and gas",47-5012,12.8,13.1,0.3,2.2,"65,010",No formal educational credential,3.6,1.9,2.6,3.0,2.8,4.2,3.5,3.1,3.7,2.8,3.2,3.0,3.7,2.4,1.9,3.1,3.2
+  Home appliance repairers,49-9031,37.5,37.8,0.3,0.8,"49,410",High school diploma or equivalent,3.7,3.0,2.4,3.1,3.7,3.6,3.4,2.9,2.8,2.5,3.4,2.8,3.6,2.7,1.9,2.9,3.0
+  Commercial divers,49-9092,3.2,3.5,0.3,8.3,"61,130",Postsecondary nondegree award,3.9,2.5,2.8,3.2,2.8,4.0,3.5,3.3,3.5,2.4,3.3,3.3,3.6,2.7,2.6,3.2,3.1
+  Food cooking machine operators and tenders,51-3093,30.7,31.1,0.3,1.0,"40,550",High school diploma or equivalent,3.4,2.5,2.1,2.7,2.2,3.6,3.2,2.6,2.6,2.1,2.2,2.6,3.3,2.4,1.7,2.6,3.1
+"  Furnace, kiln, oven, drier, and kettle operators and tenders",51-9051,15.2,15.5,0.3,2.0,"47,010",High school diploma or equivalent,3.4,2.4,2.3,2.7,1.9,3.8,3.1,2.7,2.9,2.3,2.6,2.8,3.1,2.2,1.9,2.8,2.9
+  Ophthalmic laboratory technicians,51-9083,18.9,19.2,0.3,1.6,"38,420",High school diploma or equivalent,3.5,2.7,2.2,2.7,2.9,3.5,3.7,3.1,2.7,2.4,2.5,2.2,3.2,2.3,1.7,2.6,2.9
+  Etchers and engravers,51-9194,11.7,11.9,0.3,2.3,"40,450",High school diploma or equivalent,3.3,2.9,3.0,2.9,2.5,3.8,3.3,2.9,2.7,2.2,2.7,2.4,3.0,2.6,1.5,2.7,2.8
+  Ship engineers,53-5031,9.5,9.8,0.3,3.4,"101,320",Postsecondary nondegree award,3.5,3.0,2.7,3.2,2.3,3.9,3.3,2.9,2.9,2.5,3.7,2.9,3.7,2.4,2.4,3.2,3.2
+  Traffic technicians,53-6041,7.8,8.2,0.3,4.2,"58,480",High school diploma or equivalent,3.7,3.6,2.7,3.4,2.9,3.5,2.4,3.0,2.8,3.1,2.4,1.9,3.6,2.6,2.1,3.2,3.2
+  Animal scientists,19-1011,2.5,2.7,0.2,7.9,"79,120",Bachelor's degree,3.9,3.8,3.2,4.0,3.0,3.7,1.9,3.1,3.5,3.5,1.7,1.8,4.0,2.9,3.8,3.7,4.1
+  Astronomers,19-2011,2.4,2.6,0.2,7.4,"132,170",Doctoral or professional degree,3.8,4.1,3.4,4.0,2.1,3.7,1.7,2.7,3.4,4.3,1.7,1.1,3.5,2.8,3.5,3.6,4.1
+  Hydrologists,19-2043,6.5,6.7,0.2,2.8,"92,060",Bachelor's degree,3.6,3.9,3.0,3.8,2.5,3.5,2.1,2.9,3.2,3.8,2.1,2.0,3.5,2.8,3.7,3.4,3.9
+  Sociologists,19-3041,3.3,3.6,0.2,6.9,"101,690",Master's degree,4.0,3.7,3.3,3.9,2.7,3.2,1.4,3.5,3.3,2.9,1.1,1.2,3.5,2.6,1.7,3.8,4.2
+  Historians,19-3093,3.4,3.6,0.2,5.7,"74,050",Master's degree,3.7,3.3,3.4,3.3,3.2,3.3,1.9,3.3,2.8,1.9,1.3,1.5,3.5,2.6,1.9,3.6,4.4
+  Political scientists,19-3094,6.2,6.3,0.2,2.6,"139,380",Master's degree,3.9,3.5,3.1,3.8,2.4,3.3,1.2,3.0,2.9,2.9,1.1,1.1,3.6,2.5,1.6,4.0,4.3
+"  Anthropology and archeology teachers, postsecondary",25-1061,6.3,6.5,0.2,3.8,"95,770",Doctoral or professional degree,4.4,3.7,3.4,3.7,2.8,3.5,1.8,3.6,3.7,2.7,1.2,1.3,3.8,2.8,2.7,4.0,4.2
+"  Geography teachers, postsecondary",25-1064,4.3,4.5,0.2,4.3,"86,730",Doctoral or professional degree,3.9,3.7,3.3,3.7,2.6,3.2,1.3,3.3,3.3,2.7,1.3,1.3,3.5,2.6,2.4,3.8,4.2
+"  Library science teachers, postsecondary",25-1082,5.3,5.5,0.2,4.2,"78,630",Doctoral or professional degree,4.2,3.9,3.2,3.7,3.0,3.1,1.5,3.4,3.5,2.4,1.2,1.2,3.7,2.5,1.4,3.9,4.2
+"  History teachers, postsecondary",25-1125,25.8,26.0,0.2,0.9,"81,500",Doctoral or professional degree,4.2,3.5,3.5,3.8,2.5,3.5,1.3,3.5,3.0,2.2,1.1,1.2,3.7,2.6,1.5,4.0,4.2
+  Oral and maxillofacial surgeons,29-1022,4.8,5.0,0.2,3.3,">=239,200",Doctoral or professional degree,4.5,3.3,3.1,3.9,3.9,4.4,3.8,4.1,3.9,2.9,2.2,2.4,4.3,2.9,3.5,3.6,3.8
+"  Dentists, all other specialists[2]",29-1029,6.7,6.9,0.2,2.3,"225,770",Doctoral or professional degree,4.2,3.3,2.9,3.6,3.9,4.4,3.9,4.1,3.9,2.8,2.2,2.4,4.3,3.5,3.2,3.5,3.6
+  Medical dosimetrists[2],29-2036,4.2,4.5,0.2,5.4,"138,110",Bachelor's degree,4.1,3.8,2.5,3.3,3.5,4.3,3.1,4.0,3.4,3.0,2.8,2.7,3.6,2.8,3.0,3.2,3.6
+  Occupational therapy aides,31-2012,4.6,4.8,0.2,3.7,"37,370",High school diploma or equivalent,3.9,3.2,2.7,2.8,3.5,3.5,2.2,4.2,3.4,2.1,2.0,2.9,3.4,2.7,1.9,3.2,3.3
+  Crematory operators[2],39-4012,3.2,3.4,0.2,4.7,"42,880",High school diploma or equivalent,3.5,2.5,2.3,2.6,3.5,3.4,1.9,3.9,3.1,2.0,2.1,2.4,3.3,2.7,1.5,3.1,2.8
+  Animal breeders,45-2021,6.7,6.9,0.2,2.4,"52,000",High school diploma or equivalent,3.3,2.8,2.1,2.7,2.5,3.4,2.6,2.9,2.3,2.4,1.8,2.8,3.3,2.6,2.6,2.6,2.7
+  Floor sanders and finishers,47-2043,6.6,6.8,0.2,2.5,"49,150",No formal educational credential,3.5,1.9,2.5,2.5,3.0,3.7,3.6,2.8,3.3,2.3,2.7,3.4,3.5,2.7,1.5,2.6,2.5
+  Paperhangers,47-2142,2.9,3.1,0.2,5.7,"48,260",No formal educational credential,3.5,1.7,2.5,2.5,2.6,3.5,3.0,2.9,2.7,2.3,2.0,3.2,3.2,2.2,1.8,2.5,2.3
+"  Electrical and electronics repairers, powerhouse, substation, and relay",49-2095,25.4,25.7,0.2,0.8,"100,940",Postsecondary nondegree award,3.9,3.6,2.7,3.4,2.4,4.3,3.2,3.2,3.0,3.0,3.5,2.6,3.6,2.6,2.6,2.9,3.2
+  Signal and track switch repairers,49-9097,9.3,9.5,0.2,2.3,"83,600",High school diploma or equivalent,3.5,2.8,2.0,2.8,2.2,3.6,3.5,2.8,2.7,2.6,3.5,2.9,3.4,2.3,1.5,2.7,2.8
+"  Painting, coating, and decorating workers",51-9123,11.4,11.6,0.2,1.5,"40,860",No formal educational credential,2.9,1.9,2.3,2.4,2.3,3.1,2.9,2.8,2.5,2.0,1.6,2.3,2.8,2.5,1.6,2.5,2.5
+"  Railroad brake, signal, and switch operators and locomotive firers",53-4022,12.0,12.1,0.2,1.5,"65,480",High school diploma or equivalent,3.7,2.0,2.2,2.7,2.5,4.0,3.3,2.8,2.9,2.1,2.6,2.8,3.5,2.2,1.5,2.8,2.9
+  Farm labor contractors,13-1074,1.5,1.6,0.1,6.6,"48,690",No formal educational credential,3.0,2.4,2.0,2.5,2.7,3.3,2.1,3.1,3.2,2.5,1.8,2.2,3.4,2.4,1.4,3.1,2.6
+  Mathematicians,15-2021,2.5,2.5,0.1,3.7,"121,680",Master's degree,3.7,3.7,3.3,4.0,2.0,3.7,1.5,2.4,2.9,4.9,1.1,1.1,3.6,2.2,2.5,3.2,3.8
+  Agricultural engineers,17-2021,1.9,2.0,0.1,7.8,"84,630",Bachelor's degree,3.8,3.8,3.2,4.0,2.9,3.7,2.1,3.1,3.3,3.8,2.2,1.6,4.1,3.1,3.6,3.6,3.9
+"  Mining and geological engineers, including mining safety engineers",17-2151,7.1,7.3,0.1,2.0,"101,020",Bachelor's degree,3.8,3.9,2.9,4.0,2.5,3.8,1.8,3.0,3.5,3.9,1.7,1.4,4.0,3.3,2.8,3.5,4.0
+  Hydrologic technicians[2],19-4044,3.2,3.3,0.1,2.4,"58,570",Associate's degree,3.6,3.9,3.0,3.8,2.5,3.5,2.1,2.9,3.2,3.8,2.1,2.0,3.5,2.8,3.7,3.4,3.9
+"  Forestry and conservation science teachers, postsecondary",25-1043,1.6,1.7,0.1,5.0,"100,830",Doctoral or professional degree,4.5,3.9,3.2,3.7,2.8,3.4,1.8,3.3,3.8,3.3,1.6,1.7,3.8,2.8,3.0,4.0,4.3
+"  Family and consumer sciences teachers, postsecondary",25-1192,3.3,3.5,0.1,4.3,"77,280",Doctoral or professional degree,4.1,3.5,3.0,3.4,2.9,3.2,1.7,3.5,3.4,2.7,1.2,1.3,3.7,2.7,1.9,3.7,3.9
+"  Career/technical education teachers, postsecondary",25-1194,121.8,121.9,0.1,0.1,"61,490",Bachelor's degree,4.2,3.3,3.0,3.4,3.1,3.6,2.6,3.7,3.7,2.6,2.5,2.2,3.5,3.0,2.5,3.8,3.8
+  Podiatrists,29-1081,9.7,9.8,0.1,1.4,"152,800",Doctoral or professional degree,4.2,3.8,2.9,3.7,3.7,4.1,3.0,4.0,3.5,2.9,1.8,2.0,4.2,2.9,3.2,3.6,4.0
+  Transit and railroad police,33-3052,2.4,2.5,0.1,3.5,"82,320",High school diploma or equivalent,4.3,3.7,2.8,3.4,4.1,3.9,2.6,3.7,3.5,2.2,1.9,3.0,3.8,2.7,1.7,3.7,3.4
+  Baggage porters and bellhops,39-6011,29.5,29.6,0.1,0.5,"36,020",High school diploma or equivalent,3.4,2.6,2.4,2.5,3.9,3.4,2.6,3.6,3.0,2.1,2.2,3.1,3.3,2.6,1.2,3.2,2.8
+"  Communications equipment operators, all other[2]",43-2099,1.4,1.5,0.1,5.1,"49,910",High school diploma or equivalent,3.6,3.2,2.0,2.6,3.6,3.4,2.3,3.4,2.3,2.0,1.3,1.3,3.1,1.7,1.0,3.6,2.8
+  Pile driver operators,47-2072,3.1,3.3,0.1,4.6,"70,510",High school diploma or equivalent,3.4,2.1,2.4,2.6,2.5,4.0,3.6,2.9,2.8,2.5,3.3,2.9,3.4,2.4,1.9,2.8,2.3
+"  Helpers--painters, paperhangers, plasterers, and stucco masons",47-3014,7.8,8.0,0.1,1.9,"38,140",No formal educational credential,3.1,1.3,2.1,2.3,2.1,3.1,2.9,2.8,2.7,1.4,2.2,3.3,2.9,1.8,1.3,2.6,2.1
+"  Explosives workers, ordnance handling experts, and blasters",47-5032,4.8,4.8,0.1,1.2,"59,110",High school diploma or equivalent,4.0,2.6,2.7,3.4,2.8,4.2,3.4,3.0,3.7,2.9,2.8,3.0,3.8,2.9,2.0,3.1,3.0
+"  Rock splitters, quarry",47-5051,3.7,3.8,0.1,2.8,"47,460",No formal educational credential,2.9,1.7,2.3,2.4,1.8,3.3,3.2,2.9,2.4,2.1,2.5,3.2,2.6,1.9,1.8,2.6,2.3
+  Helpers--extraction workers,47-5081,7.7,7.8,0.1,1.8,"48,400",High school diploma or equivalent,3.4,2.2,2.5,2.7,2.7,3.7,3.5,3.1,3.5,2.5,3.6,3.4,3.5,3.0,1.9,2.8,2.8
+  Musical instrument repairers and tuners,49-9063,6.3,6.4,0.1,1.5,"45,320",High school diploma or equivalent,3.6,2.8,3.3,3.2,3.4,3.9,3.7,2.9,2.7,2.2,3.0,2.3,3.6,3.0,1.9,2.8,2.7
+  Photographic process workers and processing machine operators,51-9151,9.2,9.4,0.1,1.5,"40,100",High school diploma or equivalent,3.8,3.3,3.0,2.9,3.5,3.5,3.0,3.2,2.7,2.3,2.7,2.5,3.2,2.8,1.7,2.9,2.9
+"  Rail transportation workers, all other[2]",53-4099,1.9,2.0,0.1,3.5,"49,330",High school diploma or equivalent,3.7,2.5,2.2,3.0,2.8,4.1,3.2,3.1,2.9,2.4,2.4,2.6,3.5,2.3,1.7,3.1,3.0
+  Motorboat operators,53-5022,3.1,3.2,0.1,3.4,"51,880",Postsecondary nondegree award,3.4,2.4,2.4,2.9,3.3,3.6,3.2,3.3,3.2,2.2,3.2,2.6,3.9,2.1,1.8,3.1,2.7
+  Gas compressor and gas pumping station operators,53-7071,4.5,4.5,0.1,1.2,"71,510",High school diploma or equivalent,3.9,3.6,2.5,3.0,2.5,4.1,3.3,3.0,3.2,2.5,3.4,2.6,3.5,2.6,2.6,2.8,3.0
+  Survey researchers,19-3022,9.7,9.7,0.0,-0.2,"63,380",Master's degree,3.8,3.9,2.9,3.9,2.8,3.6,1.6,3.0,3.3,3.9,1.1,1.1,3.5,3.0,1.5,3.7,4.1
+  Geographers,19-3092,1.6,1.7,0.0,2.5,"97,200",Bachelor's degree,3.7,3.8,3.0,3.8,2.6,3.2,1.5,3.0,2.9,3.0,1.3,1.3,3.4,2.5,2.5,3.6,4.1
+  Broadcast technicians,27-4012,30.0,30.0,0.0,0.1,"53,920",Associate's degree,3.8,4.0,2.7,3.2,2.6,3.7,2.9,2.9,3.2,2.6,3.0,2.2,3.6,2.8,1.6,3.2,3.3
+  Prosthodontists,29-1024,0.7,0.7,0.0,3.5,">=239,200",Doctoral or professional degree,4.2,3.3,3.3,3.5,3.8,4.3,3.4,4.1,3.9,2.3,2.4,2.2,4.1,3.1,3.4,3.5,3.4
+  Pediatric surgeons[2],29-1243,1.3,1.3,0.0,2.0,">=239,200",Doctoral or professional degree,4.3,3.5,2.9,3.8,3.7,4.5,3.6,4.2,3.6,3.1,2.2,2.0,4.4,2.9,3.1,3.5,4.2
+  Parking enforcement workers,33-3041,7.9,7.9,0.0,-0.4,"47,150",High school diploma or equivalent,3.9,3.1,2.6,2.8,3.6,3.5,3.0,3.5,2.9,2.2,2.5,2.6,3.4,2.5,1.8,3.0,3.1
+  Embalmers,39-4011,3.4,3.5,0.0,1.2,"56,280",Associate's degree,4.0,3.3,2.6,2.9,3.8,4.0,2.9,3.9,2.9,2.1,2.0,2.5,3.7,2.7,2.8,3.4,3.0
+  Models,41-9012,3.6,3.6,0.0,-0.4,"89,990",No formal educational credential,2.9,1.9,2.7,1.9,2.1,2.7,1.2,2.7,1.7,1.4,1.1,2.5,2.4,1.8,1.2,2.6,2.2
+  Statistical assistants,43-9111,7.9,7.9,0.0,0.2,"51,440",Bachelor's degree,3.7,4.1,2.5,3.5,2.7,3.7,1.7,3.2,2.9,4.2,1.1,1.2,3.4,2.4,1.5,3.2,3.8
+  Construction and building inspectors,47-4011,142.6,142.7,0.0,0.0,"72,120",High school diploma or equivalent,3.7,3.3,2.5,3.4,3.3,3.6,1.9,3.0,3.0,3.1,1.8,2.3,3.6,2.3,2.1,3.3,3.5
+"  Extraction workers, all other[2]",47-5099,7.4,7.4,0.0,-0.5,"50,110",High school diploma or equivalent,3.4,2.1,2.4,2.8,2.6,3.8,3.5,3.1,3.4,2.5,3.3,3.1,3.5,2.6,1.8,2.8,2.7
+  Watch and clock repairers,49-9064,1.9,1.9,0.0,0.0,"60,690",High school diploma or equivalent,3.3,2.3,2.6,3.0,3.1,3.8,3.8,2.9,1.8,2.1,3.0,1.6,3.3,2.8,1.7,2.6,2.6
+"  Ambulance drivers and attendants, except emergency medical technicians",53-3011,11.6,11.6,0.0,-0.1,"34,330",High school diploma or equivalent,3.8,2.9,2.5,2.8,3.5,3.9,2.8,3.8,2.8,2.2,2.6,2.9,3.4,2.5,1.8,3.2,3.1
+"  Rail yard engineers, dinkey operators, and hostlers",53-4013,2.4,2.4,0.0,0.5,"58,030",High school diploma or equivalent,3.9,2.6,2.3,2.9,2.7,4.0,3.5,3.2,3.5,2.2,3.2,2.9,3.6,2.6,1.4,3.2,3.0
+  Bridge and lock tenders,53-6011,3.6,3.6,0.0,0.5,"58,490",High school diploma or equivalent,3.3,2.8,1.8,2.4,2.7,3.8,2.8,2.9,2.7,2.1,2.3,2.2,3.2,1.9,1.4,2.8,2.7
+  Dredge operators,53-7031,1.2,1.2,0.0,2.1,"48,430",High school diploma or equivalent,3.2,1.8,2.2,2.5,1.9,3.2,3.5,3.0,3.0,2.2,2.9,2.5,3.3,2.1,1.6,2.6,2.5
+  Hoist and winch operators,53-7041,2.7,2.7,0.0,-0.5,"52,310",No formal educational credential,3.3,1.9,2.3,2.9,2.6,4.2,3.5,3.0,3.1,2.3,3.1,2.9,3.7,2.5,1.5,2.8,2.8
+  Nuclear engineers,17-2161,13.4,13.3,-0.1,-0.8,"127,520",Bachelor's degree,3.6,3.7,2.6,4.1,2.3,4.1,1.7,2.7,3.0,3.9,2.1,1.3,3.8,2.7,3.6,3.5,3.9
+"  Career/technical education teachers, middle school",25-2023,12.2,12.1,-0.1,-0.9,"63,620",Bachelor's degree,4.2,3.6,3.3,3.5,3.3,3.5,2.3,3.9,3.7,2.7,1.8,2.0,3.7,2.9,2.0,3.8,3.9
+  Sound engineering technicians,27-4014,18.0,17.9,-0.1,-0.5,"66,430",Postsecondary nondegree award,4.1,4.0,3.8,3.0,3.1,3.8,3.2,3.4,3.3,2.3,2.8,1.7,3.7,2.8,1.6,3.5,3.4
+  Motion picture projectionists,39-3021,2.6,2.5,-0.1,-5.0,"38,180",No formal educational credential,3.2,3.1,2.1,2.6,2.6,3.5,2.8,2.6,2.4,1.8,2.6,2.0,3.2,2.0,1.2,2.8,2.5
+  Log graders and scalers,45-4023,5.2,5.1,-0.1,-1.5,"46,710",High school diploma or equivalent,3.5,2.9,2.5,2.9,2.8,3.6,3.1,3.0,2.9,3.0,2.3,2.5,3.6,2.7,1.7,2.8,3.0
+  Boilermakers,47-2011,11.3,11.2,-0.1,-1.2,"73,340",High school diploma or equivalent,3.3,2.2,2.6,3.2,2.6,3.6,3.7,3.2,3.1,2.8,3.5,3.2,3.5,2.6,2.1,2.8,2.9
+  Terrazzo workers and finishers,47-2053,1.5,1.4,-0.1,-8.4,"57,260",High school diploma or equivalent,3.3,1.5,2.4,2.6,2.5,3.7,3.3,2.9,3.1,2.5,2.7,3.3,2.9,2.6,2.0,2.5,2.1
+  Tapers,47-2082,20.0,19.8,-0.1,-0.7,"64,700",No formal educational credential,2.8,1.2,2.1,2.3,2.3,3.1,2.9,2.5,2.6,1.8,2.0,3.0,2.9,1.9,1.3,2.5,2.2
+"  Underground mining machine operators, all other[2]",47-5049,2.6,2.5,-0.1,-4.5,"67,220",No formal educational credential,3.4,1.7,2.3,2.7,2.1,3.9,3.5,3.0,3.1,2.1,3.3,3.0,3.3,2.2,1.7,2.7,2.4
+"  Refractory materials repairers, except brickmasons",49-9045,0.6,0.5,-0.1,-17.8,"58,540",High school diploma or equivalent,3.3,1.6,2.2,2.6,2.1,3.5,3.2,2.8,2.8,2.2,2.8,3.3,3.1,2.4,1.6,2.7,2.7
+"  Coin, vending, and amusement machine servicers and repairers",49-9091,39.3,39.2,-0.1,-0.4,"47,350",High school diploma or equivalent,3.6,3.2,2.1,2.8,3.1,3.3,3.3,2.8,2.0,2.2,3.0,2.6,3.4,2.4,1.6,2.6,2.7
+  Timing device assemblers and adjusters,51-2061,0.4,0.3,-0.1,-16.3,"40,790",High school diploma or equivalent,3.2,2.4,2.4,2.7,2.3,3.2,3.1,2.6,2.3,2.3,3.0,1.5,3.3,2.1,1.6,2.5,2.6
+"  Model makers, wood",51-7031,1.1,1.0,-0.1,-12.8,"51,850",High school diploma or equivalent,3.7,2.2,3.2,3.2,2.5,4.0,3.4,2.8,2.8,2.7,2.1,2.7,3.6,2.5,1.5,2.9,3.1
+"  Patternmakers, wood",51-7032,0.5,0.4,-0.1,-13.5,"52,520",High school diploma or equivalent,3.5,2.6,3.0,3.0,2.5,3.8,3.6,2.7,2.6,3.2,2.8,2.7,3.5,2.7,1.6,2.7,2.9
+  Power distributors and dispatchers,51-8012,9.2,9.1,-0.1,-1.4,"107,240",High school diploma or equivalent,3.9,3.3,2.6,3.5,3.0,4.1,2.5,3.0,3.5,2.9,2.5,1.9,3.9,2.6,1.8,3.2,3.5
+  Chemical plant and system operators,51-8091,18.4,18.2,-0.1,-0.8,"73,540",High school diploma or equivalent,3.4,3.0,1.9,3.1,2.1,4.2,3.3,2.8,3.0,2.8,2.8,2.6,3.7,2.0,2.6,2.9,3.2
+  Adhesive bonding machine operators and tenders,51-9191,12.5,12.4,-0.1,-0.5,"45,210",High school diploma or equivalent,3.3,2.6,2.1,2.7,2.3,3.8,3.6,2.8,2.9,2.6,3.1,3.3,3.3,2.3,1.8,2.8,2.9
+  Automotive and watercraft service attendants,53-6031,94.6,94.5,-0.1,-0.1,"34,850",No formal educational credential,3.6,2.4,2.3,2.8,3.8,3.9,3.4,3.2,2.8,2.6,3.1,3.1,3.6,2.4,1.9,2.8,2.7
+  Labor relations specialists,13-1075,65.8,65.6,-0.2,-0.3,"93,500",Bachelor's degree,3.8,3.1,2.8,3.4,3.1,3.4,1.3,3.6,3.2,2.6,1.2,1.2,3.8,2.7,1.1,3.7,3.9
+  Electro-mechanical and mechatronics technologists and technicians,17-3024,15.8,15.6,-0.2,-1.2,"70,760",Associate's degree,3.7,3.8,2.8,3.5,2.6,4.1,3.5,2.9,3.0,3.0,3.5,2.4,3.6,2.5,2.1,2.8,3.2
+  Farm and home management educators,25-9021,9.8,9.7,-0.2,-1.7,"58,120",Master's degree,4.0,3.5,3.1,3.6,3.5,3.2,2.0,3.7,3.5,3.0,1.7,1.9,3.8,3.4,2.7,3.9,4.0
+  Nuclear medicine technologists,29-2033,17.8,17.6,-0.2,-1.3,"97,020",Associate's degree,4.0,3.7,2.5,3.1,3.7,4.2,3.0,4.0,3.2,3.3,2.4,2.3,3.7,2.7,3.7,3.3,3.5
+  Bailiffs,33-3011,16.7,16.5,-0.2,-1.4,"57,050",High school diploma or equivalent,4.0,3.0,2.2,2.7,3.6,3.7,1.8,3.8,3.1,1.7,1.6,2.5,3.3,2.3,1.1,3.3,2.8
+  Gambling and sports book writers and runners,39-3012,9.6,9.4,-0.2,-2.4,"30,460",High school diploma or equivalent,3.5,2.1,2.1,2.4,3.5,3.4,2.5,3.3,2.7,3.2,1.5,2.0,2.8,2.0,1.2,3.3,2.8
+  Proofreaders and copy markers,43-9081,6.7,6.5,-0.2,-3.4,"49,210",Bachelor's degree,3.3,3.3,2.1,2.6,2.0,3.7,2.1,2.5,1.8,1.8,1.1,1.2,2.9,1.9,1.1,3.0,3.7
+  Fishing and hunting workers,45-3031,25.5,25.3,-0.2,-0.7,—,No formal educational credential,3.2,2.2,2.5,2.6,2.5,3.3,3.3,2.5,2.4,1.9,2.7,3.2,3.3,2.3,2.0,2.6,2.3
+"  Layout workers, metal and plastic",51-4192,6.9,6.7,-0.2,-3.5,"61,870",High school diploma or equivalent,3.4,2.3,2.7,2.9,2.6,4.0,3.2,2.9,3.1,3.3,2.7,2.8,3.1,2.5,1.7,2.6,3.0
+"  Sawing machine setters, operators, and tenders, wood",51-7041,45.6,45.3,-0.2,-0.5,"39,950",High school diploma or equivalent,3.3,1.7,2.2,2.6,1.6,3.7,3.4,2.7,2.7,2.2,2.8,2.9,3.0,2.1,1.2,2.4,2.2
+  Nuclear technicians,19-4051,5.4,5.1,-0.3,-6.2,"104,240",Associate's degree,3.9,3.5,2.1,3.3,2.1,4.4,2.9,2.8,2.9,3.0,2.9,2.4,3.5,2.3,3.2,3.4,3.3
+  Lighting technicians[2],27-4015,10.8,10.5,-0.3,-3.0,"60,560",Postsecondary nondegree award,3.9,2.5,2.9,3.5,3.2,3.9,3.6,3.2,3.7,3.1,3.4,3.4,3.8,3.3,1.8,2.9,3.2
+  Fish and game wardens,33-3031,6.8,6.5,-0.3,-5.0,"68,180",Bachelor's degree,4.1,3.5,2.9,3.4,4.1,4.0,2.7,3.6,3.0,2.5,2.5,2.7,3.9,2.7,2.9,3.7,3.5
+"  Logging workers, all other[2]",45-4029,3.7,3.4,-0.3,-7.4,"52,000",High school diploma or equivalent,3.4,1.9,2.3,2.6,2.3,3.6,3.5,3.0,2.9,2.4,3.2,2.7,3.5,2.5,1.6,2.5,2.5
+"  Excavating and loading machine and dragline operators, surface mining",47-5022,34.4,34.1,-0.3,-0.8,"52,550",High school diploma or equivalent,3.4,1.9,2.4,2.7,2.3,3.6,3.8,3.1,3.3,2.3,3.3,2.8,3.4,2.6,1.5,2.7,2.9
+  Continuous mining machine operators,47-5041,16.1,15.8,-0.3,-1.8,"63,380",No formal educational credential,3.5,1.7,2.4,2.8,2.1,4.0,3.5,3.0,3.1,2.1,3.4,3.0,3.6,2.2,1.7,2.7,2.4
+  Fabric and apparel patternmakers,51-6092,2.7,2.4,-0.3,-11.7,"67,670",High school diploma or equivalent,3.9,3.2,3.4,3.4,2.2,4.0,3.1,3.0,2.9,3.6,1.8,2.3,3.6,2.5,1.4,2.9,3.3
+  Furniture finishers,51-7021,18.2,17.9,-0.3,-1.6,"42,530",High school diploma or equivalent,3.3,1.8,2.9,2.8,2.3,3.6,3.6,3.2,3.1,2.1,2.3,3.1,3.3,2.6,1.6,2.7,2.6
+"  Crushing, grinding, and polishing machine setters, operators, and tenders",51-9021,26.5,26.3,-0.3,-1.0,"46,890",High school diploma or equivalent,3.3,2.1,2.3,2.8,2.2,3.7,3.2,3.1,3.1,2.7,3.2,3.0,3.1,2.5,2.0,2.7,2.9
+  Conveyor operators and tenders,53-7011,30.4,30.1,-0.3,-0.9,"41,230",No formal educational credential,3.6,2.0,2.2,2.8,2.2,3.8,3.3,3.3,2.9,1.9,2.9,2.7,3.4,2.4,1.4,2.9,2.8
+  Postmasters and mail superintendents,11-9131,13.2,12.8,-0.4,-3.0,"92,730",High school diploma or equivalent,4.1,3.7,2.8,3.5,3.9,3.5,1.7,3.7,4.1,3.0,1.7,1.9,3.8,3.4,1.4,3.8,3.7
+  Correspondence clerks,43-4021,5.5,5.1,-0.4,-6.7,"46,740",High school diploma or equivalent,3.5,3.7,2.4,2.8,3.1,3.7,1.8,3.1,2.6,2.9,1.2,1.3,3.4,2.4,1.2,3.1,3.8
+  Forest and conservation workers,45-4011,10.9,10.5,-0.4,-3.8,"43,680",High school diploma or equivalent,3.8,3.1,2.5,2.7,2.8,3.4,2.8,3.0,2.9,2.1,2.5,3.0,3.4,2.3,2.2,3.0,2.8
+  Stonemasons,47-2022,12.4,12.0,-0.4,-3.6,"51,990",High school diploma or equivalent,3.1,1.4,2.7,2.8,2.1,3.1,3.3,3.1,3.5,2.9,2.4,3.5,3.4,2.7,1.8,2.8,2.8
+  Camera and photographic equipment repairers,49-9061,2.6,2.2,-0.4,-16.9,"49,300",High school diploma or equivalent,3.5,3.1,2.8,2.9,2.8,3.8,3.2,2.5,2.1,2.5,3.0,1.6,3.3,2.5,1.6,2.7,2.7
+"  Pourers and casters, metal",51-4052,5.6,5.2,-0.4,-6.7,"48,940",High school diploma or equivalent,3.2,2.1,2.4,2.7,2.1,3.5,3.3,2.8,2.9,2.1,2.9,2.8,3.1,2.6,2.1,2.7,2.6
+  Wellhead pumpers,53-7073,19.4,19.0,-0.4,-2.0,"70,010",High school diploma or equivalent,3.5,3.1,2.5,2.9,2.5,3.6,2.9,2.9,3.1,2.4,3.2,2.8,3.6,2.7,2.0,2.6,2.8
+  Gambling cage workers,43-3041,13.1,12.7,-0.5,-3.7,"36,990",High school diploma or equivalent,3.8,2.8,2.1,2.7,3.7,4.2,2.5,3.3,3.1,3.6,1.6,2.3,3.1,2.3,1.0,3.2,3.0
+"  Model makers, metal and plastic",51-4061,2.9,2.4,-0.5,-17.6,"62,700",High school diploma or equivalent,3.6,2.8,2.7,3.0,2.5,4.3,3.2,2.6,2.8,2.9,3.0,2.5,3.3,2.3,1.7,2.7,2.9
+"  Patternmakers, metal and plastic",51-4062,2.2,1.7,-0.5,-22.2,"54,540",High school diploma or equivalent,3.5,2.8,2.6,2.8,2.1,3.8,3.3,2.5,2.7,2.6,2.7,2.5,3.1,2.3,1.5,2.6,2.7
+"  Tool grinders, filers, and sharpeners",51-4194,6.8,6.3,-0.5,-7.8,"48,970",High school diploma or equivalent,3.3,2.4,2.6,2.9,2.2,3.8,3.8,2.6,2.6,3.0,3.1,2.7,3.2,2.5,1.6,2.4,2.7
+"  Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",51-6091,15.1,14.7,-0.5,-3.1,"44,980",High school diploma or equivalent,3.5,2.8,2.3,2.8,2.3,3.7,3.4,2.7,3.0,2.3,3.0,2.7,3.4,2.3,1.6,2.8,2.8
+  Advertising and promotions managers,11-2011,22.2,21.7,-0.6,-2.6,"126,960",Bachelor's degree,4.0,3.6,3.5,3.5,3.5,3.5,1.6,3.5,3.2,3.0,1.3,1.3,3.8,3.1,1.4,3.9,3.7
+  Fallers,45-4021,6.9,6.3,-0.6,-8.4,"53,900",High school diploma or equivalent,3.2,1.3,2.0,2.5,1.8,3.6,3.5,2.7,2.1,2.3,2.8,3.6,3.4,2.0,1.8,2.5,2.0
+"  Roof bolters, mining",47-5043,2.0,1.4,-0.6,-32.0,"76,640",High school diploma or equivalent,3.5,1.7,2.1,2.6,2.2,3.9,3.7,2.9,3.2,2.1,3.4,3.5,3.2,2.5,1.6,2.7,2.5
+  Manufactured building and mobile home installers,49-9095,3.3,2.7,-0.6,-19.6,"41,080",High school diploma or equivalent,4.0,1.9,3.1,3.1,3.5,3.8,4.0,3.5,4.1,2.9,3.4,3.8,3.9,3.5,2.2,2.9,3.2
+  Upholsterers,51-6093,30.7,30.1,-0.6,-2.0,"46,190",High school diploma or equivalent,3.3,1.6,2.8,2.8,2.8,3.5,3.7,3.0,2.8,2.6,2.4,3.1,3.1,2.7,1.4,2.6,2.8
+  Nuclear power reactor operators,51-8011,5.8,5.2,-0.6,-10.3,"122,610",High school diploma or equivalent,3.9,3.6,2.3,3.5,2.2,4.5,2.8,2.9,3.4,3.1,2.4,1.5,3.7,2.5,3.0,3.3,3.7
+"  Career/technical education teachers, secondary school",25-2032,89.6,88.9,-0.7,-0.8,"63,910",Bachelor's degree,4.3,3.6,3.3,3.3,3.6,3.5,2.5,4.0,3.9,3.0,2.0,2.2,3.8,3.2,1.9,4.0,3.9
+  Helpers--carpenters,47-3012,22.3,21.6,-0.7,-3.0,"41,600",No formal educational credential,3.5,1.8,2.8,2.7,2.6,3.8,3.2,2.8,2.8,2.7,3.0,3.1,3.3,2.4,1.8,2.8,2.5
+"  Sewers, hand",51-6051,5.6,4.9,-0.7,-12.2,"33,760",No formal educational credential,3.2,2.2,3.3,2.6,3.0,3.7,3.7,2.6,2.2,2.5,1.8,1.6,3.2,3.0,1.2,2.4,2.5
+  Textile bleaching and dyeing machine operators and tenders,51-6061,6.9,6.1,-0.7,-10.3,"37,320",High school diploma or equivalent,3.0,2.1,2.1,2.6,2.0,3.6,3.3,2.4,2.4,2.4,2.6,2.8,3.2,2.3,1.5,2.6,2.7
+"  Kindergarten teachers, except special education",25-2012,122.7,121.8,-0.8,-0.7,"61,430",Bachelor's degree,4.2,3.3,3.6,3.2,3.2,3.3,2.0,4.1,3.5,2.9,1.2,2.3,3.7,2.6,1.7,3.7,3.6
+"  Special education teachers, middle school",25-2057,88.6,87.8,-0.8,-0.9,"64,880",Bachelor's degree,4.5,3.6,3.4,3.5,3.5,3.7,1.5,4.3,3.7,3.0,1.2,1.7,3.8,2.4,1.9,3.8,3.9
+"  Credit authorizers, checkers, and clerks",43-4041,14.5,13.7,-0.8,-5.2,"49,130",High school diploma or equivalent,3.8,3.6,2.1,2.9,3.9,3.8,1.8,3.2,3.2,2.6,1.1,1.2,3.7,2.4,1.1,3.4,3.7
+  Shoe machine operators and tenders,51-6042,6.1,5.2,-0.8,-13.6,"38,160",High school diploma or equivalent,3.6,1.7,2.5,2.6,1.8,3.0,3.5,2.7,2.5,2.2,2.6,2.8,2.9,2.1,1.6,2.6,2.4
+"  Petroleum pump system operators, refinery operators, and gaugers",51-8093,33.6,32.8,-0.8,-2.3,"97,540",High school diploma or equivalent,3.6,3.0,2.3,3.0,2.2,4.0,3.2,3.0,3.0,2.9,2.9,2.8,3.5,2.3,2.1,2.7,3.1
+"  Special education teachers, secondary school",25-2058,159.5,158.6,-0.9,-0.6,"69,590",Bachelor's degree,4.2,3.7,3.3,3.4,3.5,3.5,1.6,4.2,3.7,3.1,1.3,1.9,3.7,3.0,2.1,3.8,4.0
+  First-line supervisors of correctional officers,33-1011,55.5,54.6,-0.9,-1.6,"76,310",High school diploma or equivalent,4.2,3.8,2.6,3.5,3.7,3.7,2.1,3.9,4.2,2.3,1.8,2.9,3.9,3.0,1.4,3.7,3.7
+  Gambling change persons and booth cashiers,41-2012,21.4,20.5,-0.9,-4.3,"34,810",No formal educational credential,3.8,2.6,1.9,2.7,3.8,3.8,2.6,3.5,3.0,3.2,2.0,2.3,3.3,2.6,1.1,2.9,2.9
+  Desktop publishers,43-9031,6.4,5.6,-0.9,-13.4,"53,620",Associate's degree,3.9,3.9,3.5,3.2,2.5,3.7,2.7,3.0,2.9,2.2,1.7,1.6,3.3,2.7,1.0,3.1,3.6
+  Pipelayers,47-2151,37.3,36.4,-0.9,-2.3,"48,710",No formal educational credential,3.4,1.7,2.5,2.6,2.7,3.9,3.3,3.0,3.0,2.5,3.3,3.2,3.3,2.3,2.4,2.8,2.6
+"  Insurance appraisers, auto damage",13-1032,10.5,9.5,-1.0,-9.2,"76,650",Postsecondary nondegree award,3.7,3.8,2.4,3.0,4.0,3.6,2.2,3.3,2.6,2.7,2.1,1.8,3.8,2.9,1.3,3.3,3.6
+  Metal-refining furnace operators and tenders,51-4051,21.4,20.4,-1.0,-4.8,"55,770",High school diploma or equivalent,3.5,2.2,2.3,2.9,2.2,3.8,3.5,2.9,3.1,2.6,2.9,3.0,3.3,2.5,2.2,2.7,2.8
+"  Drafters, all other[2]",17-3019,18.5,17.4,-1.1,-5.7,"62,010",Associate's degree,3.7,3.9,3.0,3.4,2.4,3.8,2.4,2.8,2.7,3.2,1.6,1.3,3.3,2.5,2.0,3.1,3.3
+  Broadcast announcers and radio disc jockeys,27-3011,26.5,25.4,-1.1,-4.0,"45,680",Bachelor's degree,4.1,3.8,3.7,3.1,3.7,3.8,2.4,3.4,3.0,2.1,2.0,1.6,3.8,2.6,1.3,4.3,3.9
+"  Coil winders, tapers, and finishers",51-2021,12.1,10.9,-1.1,-9.3,"47,260",High school diploma or equivalent,3.4,2.0,2.3,2.6,2.3,4.1,3.2,3.0,2.8,2.3,2.2,2.5,3.1,2.3,1.9,2.7,2.6
+"  Drilling and boring machine tool setters, operators, and tenders, metal and plastic",51-4032,5.8,4.7,-1.1,-19.2,"46,630",High school diploma or equivalent,3.7,3.0,2.6,3.0,2.1,4.1,3.4,2.6,2.6,3.0,3.1,2.6,3.4,2.0,2.0,2.7,3.0
+  Shoe and leather workers and repairers,51-6041,9.4,8.3,-1.1,-11.9,"35,950",High school diploma or equivalent,2.9,1.8,2.4,2.7,2.7,3.4,3.3,3.0,2.6,1.9,2.1,2.5,3.1,2.3,1.3,2.5,2.6
+  Telephone operators,43-2021,4.7,3.5,-1.2,-26.4,"39,130",High school diploma or equivalent,4.1,2.7,2.3,2.7,3.6,3.7,2.5,3.6,2.5,2.0,1.1,1.1,3.2,2.1,1.0,3.7,2.9
+"  Loading and moving machine operators, underground mining",47-5044,5.3,4.1,-1.2,-22.9,"68,860",No formal educational credential,3.1,1.5,2.1,2.4,2.1,3.5,3.3,2.8,2.8,2.0,3.1,2.9,2.7,2.0,1.5,2.7,2.4
+"  Electronic equipment installers and repairers, motor vehicles",49-2096,9.1,7.9,-1.2,-13.2,"47,940",High school diploma or equivalent,3.7,3.2,2.9,3.2,3.3,4.1,3.5,3.1,3.1,2.6,3.3,2.9,3.5,2.6,1.8,2.9,3.1
+"  Textile cutting machine setters, operators, and tenders",51-6062,9.9,8.7,-1.2,-11.7,"37,940",High school diploma or equivalent,3.3,2.3,2.3,2.7,2.0,3.9,3.2,2.8,2.8,2.2,2.9,2.8,2.8,2.4,1.3,2.5,2.6
+  Logging equipment operators,45-4022,34.1,32.8,-1.3,-3.8,"49,210",High school diploma or equivalent,3.4,1.9,2.4,2.6,2.3,3.7,3.5,3.0,3.1,2.3,3.4,2.6,3.6,2.6,1.5,2.5,2.6
+"  Woodworking machine setters, operators, and tenders, except sawing",51-7042,60.6,59.3,-1.3,-2.2,"40,440",High school diploma or equivalent,3.1,1.9,2.3,2.6,2.0,3.7,3.5,2.3,2.4,2.4,2.9,3.0,3.1,1.9,1.5,2.6,2.3
+"  Cutters and trimmers, hand",51-9031,6.9,5.6,-1.3,-18.4,"38,800",No formal educational credential,2.7,1.7,1.9,2.3,1.5,3.5,3.1,2.7,2.7,2.1,1.8,2.5,2.5,2.0,1.2,2.5,2.4
+"  News analysts, reporters, and journalists",27-3023,49.8,48.4,-1.4,-2.7,"60,280",Bachelor's degree,4.1,3.5,3.3,3.3,3.1,3.7,2.1,3.3,2.8,2.0,1.4,1.4,3.6,2.4,1.4,4.0,4.1
+  Brokerage clerks,43-4011,49.7,48.2,-1.4,-2.8,"62,940",High school diploma or equivalent,3.8,3.5,2.3,3.2,3.1,3.9,2.3,3.0,2.4,3.2,1.1,1.2,3.4,2.2,1.0,3.3,3.4
+"  Heat treating equipment setters, operators, and tenders, metal and plastic",51-4191,15.2,13.8,-1.4,-9.5,"47,450",High school diploma or equivalent,3.3,2.5,2.2,2.7,2.2,3.5,3.4,2.8,2.9,2.9,2.9,3.2,3.1,2.1,2.1,2.7,2.9
+"  Metal workers and plastic workers, all other[2]",51-4199,20.7,19.2,-1.4,-6.9,"42,750",High school diploma or equivalent,3.3,2.3,2.4,2.8,2.1,3.8,3.4,2.7,2.7,2.6,2.8,2.7,3.2,2.3,1.7,2.6,2.6
+"  Cutting and slicing machine setters, operators, and tenders",51-9032,52.5,51.1,-1.4,-2.7,"45,700",High school diploma or equivalent,3.2,2.6,2.1,2.8,2.3,3.8,3.8,2.8,3.1,2.7,3.0,3.1,3.3,2.3,1.5,2.5,2.9
+"  Graders and sorters, agricultural products",45-2041,32.2,30.6,-1.5,-4.7,"35,430",No formal educational credential,2.8,1.9,1.7,2.1,2.0,2.9,2.8,2.6,2.5,1.8,1.7,2.5,2.6,2.0,1.5,2.5,2.2
+  Cement masons and concrete finishers,47-2051,211.8,210.3,-1.5,-0.7,"54,660",No formal educational credential,3.3,2.1,2.3,2.7,2.8,3.8,3.5,2.8,3.3,2.6,2.6,3.5,3.3,2.9,1.6,2.7,2.2
+"  Forging machine setters, operators, and tenders, metal and plastic",51-4022,9.3,7.9,-1.5,-15.7,"49,240",High school diploma or equivalent,3.4,2.5,2.7,2.7,2.3,3.7,3.2,2.9,3.1,2.5,2.9,2.6,3.3,2.1,1.9,2.9,3.0
+"  Textile, apparel, and furnishings workers, all other[2]",51-6099,15.6,14.1,-1.5,-9.5,"37,010",High school diploma or equivalent,3.2,1.8,2.2,2.5,2.3,3.3,3.2,2.9,2.7,2.1,2.3,2.6,2.8,2.3,1.4,2.6,2.4
+  Dental laboratory technicians,51-9081,35.1,33.7,-1.5,-4.2,"48,310",High school diploma or equivalent,3.8,2.7,3.2,3.0,2.5,3.9,3.7,3.1,3.2,2.0,2.6,1.8,3.3,2.9,2.1,2.7,3.1
+"  Education administrators, kindergarten through secondary",11-9032,316.6,315.0,-1.6,-0.5,"104,070",Master's degree,4.2,3.5,3.5,3.9,4.0,3.5,1.7,4.2,4.4,3.1,1.4,1.9,4.3,3.8,1.6,4.0,4.2
+"  Special education teachers, kindergarten and elementary school[2]",25-2052,212.7,211.2,-1.6,-0.7,"63,000",Bachelor's degree,4.2,3.7,3.3,3.4,3.5,3.5,1.6,4.2,3.7,3.1,1.3,1.9,3.7,3.0,2.1,3.8,4.0
+"  Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",47-3011,17.1,15.6,-1.6,-9.1,"46,480",No formal educational credential,3.3,1.4,2.4,2.6,2.4,3.5,3.3,2.8,3.0,2.4,2.7,3.4,3.0,2.5,1.6,2.5,2.3
+"  Tailors, dressmakers, and custom sewers",51-6052,24.6,23.0,-1.6,-6.5,"40,860",No formal educational credential,3.4,1.8,2.9,2.6,3.0,3.6,3.6,2.9,2.3,2.2,2.1,2.2,3.3,2.4,1.3,2.8,2.6
+  Gas plant operators,51-8092,16.1,14.6,-1.6,-9.8,"83,400",High school diploma or equivalent,3.7,3.5,2.4,3.2,2.5,4.1,3.0,3.1,3.1,2.9,3.0,2.4,3.7,2.7,2.2,2.8,3.1
+"  Education and childcare administrators, preschool and daycare",11-9031,80.9,79.2,-1.7,-2.1,"56,270",Bachelor's degree,4.2,3.4,3.3,3.3,3.7,3.9,1.9,4.1,4.1,2.9,1.4,2.0,4.0,3.5,1.7,3.6,3.8
+  School bus monitors[2],33-9094,70.1,68.4,-1.7,-2.4,"34,980",High school diploma or equivalent,3.7,2.3,2.2,2.6,3.5,3.8,3.3,3.5,2.6,2.1,2.4,2.3,3.3,2.1,1.3,2.9,2.8
+"  Weighers, measurers, checkers, and samplers, recordkeeping",43-5111,51.8,50.1,-1.7,-3.3,"45,650",High school diploma or equivalent,3.6,3.2,2.4,2.9,2.7,3.9,2.8,3.2,3.3,3.1,2.2,2.4,3.1,2.7,1.6,2.9,3.2
+"  Computer, automated teller, and office machine repairers",49-2011,85.7,84.0,-1.7,-2.0,"46,860","Some college, no degree",3.6,3.6,2.6,3.1,3.2,3.5,3.2,2.6,2.3,1.9,3.4,2.3,3.6,2.5,1.5,3.1,3.0
+  Locksmiths and safe repairers,49-9094,17.6,15.8,-1.7,-9.9,"50,490",High school diploma or equivalent,4.1,3.2,2.8,2.8,3.6,3.7,3.7,3.1,3.1,2.6,3.4,2.7,3.5,3.2,1.4,3.0,3.0
+  Jewelers and precious stone and metal workers,51-9071,46.2,44.5,-1.7,-3.7,"49,140",High school diploma or equivalent,3.5,2.0,3.4,3.0,2.9,3.8,3.6,2.7,2.4,2.6,2.2,1.5,3.3,2.8,1.8,2.6,2.4
+  Carpet installers,47-2041,20.3,18.5,-1.8,-8.9,"49,850",No formal educational credential,3.5,1.4,2.5,2.7,2.9,3.6,3.2,2.9,3.0,3.0,2.4,3.3,3.5,2.4,1.5,2.6,2.4
+"  Milling and planing machine setters, operators, and tenders, metal and plastic",51-4035,14.1,12.3,-1.8,-12.9,"48,310",High school diploma or equivalent,3.5,2.6,2.4,2.8,2.2,3.8,3.3,2.7,2.8,2.9,3.0,2.9,2.9,2.2,1.7,2.6,2.8
+"  Rolling machine setters, operators, and tenders, metal and plastic",51-4023,25.0,23.1,-1.9,-7.7,"48,630",High school diploma or equivalent,3.6,2.6,2.5,3.0,2.5,3.8,3.5,2.9,3.2,2.5,3.4,3.0,3.5,2.5,1.6,2.8,2.8
+"  Textile knitting and weaving machine setters, operators, and tenders",51-6063,16.4,14.4,-1.9,-11.8,"38,260",High school diploma or equivalent,3.5,2.3,2.3,2.6,2.1,3.5,3.6,2.7,2.8,2.0,2.7,2.9,2.9,2.2,1.3,2.6,2.6
+"  Woodworkers, all other[2]",51-7099,15.1,13.1,-2.0,-13.5,"41,220",High school diploma or equivalent,3.3,1.8,2.4,2.8,2.3,3.6,3.5,2.6,2.5,2.7,2.8,3.1,3.2,2.2,1.5,2.5,2.6
+"  Textile winding, twisting, and drawing out machine setters, operators, and tenders",51-6064,24.1,22.0,-2.1,-8.8,"37,660",High school diploma or equivalent,3.3,2.0,2.1,2.6,2.0,3.4,3.6,2.6,2.5,2.2,2.7,3.1,2.7,2.1,1.3,2.6,2.4
+  Postal service clerks,43-5051,74.6,72.4,-2.2,-3.0,"61,630",No formal educational credential,3.7,2.9,2.2,2.7,3.9,3.5,2.7,3.2,2.7,3.0,1.7,2.7,3.0,2.4,1.3,3.2,3.1
+"  Grinding and polishing workers, hand",51-9022,12.5,10.3,-2.2,-17.8,"41,690",No formal educational credential,3.5,2.3,3.1,2.7,2.2,3.8,3.8,3.0,2.8,2.2,3.2,2.8,3.0,3.0,1.3,2.6,2.9
+  Editors,27-3041,114.2,111.9,-2.3,-2.0,"75,260",Bachelor's degree,3.9,3.5,3.3,3.3,3.1,3.6,2.2,3.1,3.2,2.1,1.3,1.2,3.6,2.4,1.2,3.8,4.4
+"  Meter readers, utilities",43-5041,20.4,18.1,-2.3,-11.4,"49,180",High school diploma or equivalent,3.4,2.9,2.3,2.7,3.4,3.6,3.1,3.1,2.7,2.7,2.4,3.0,3.2,2.3,1.8,2.7,2.8
+"  Lathe and turning machine tool setters, operators, and tenders, metal and plastic",51-4034,19.7,17.5,-2.3,-11.4,"48,620",High school diploma or equivalent,3.4,2.5,2.4,2.7,2.0,3.7,3.4,2.7,2.8,2.6,2.9,2.7,3.2,2.1,1.5,2.6,2.7
+"  Cooks, private household",35-2013,37.8,35.4,-2.4,-6.3,"44,530",Postsecondary nondegree award,3.7,2.7,2.9,2.8,3.0,3.4,3.2,3.2,2.7,2.4,1.7,2.5,3.3,3.2,1.8,2.8,2.7
+  Mechanical drafters,17-3013,50.4,47.9,-2.5,-4.9,"68,510",Associate's degree,3.7,3.9,3.1,3.3,2.3,3.9,2.5,2.9,2.5,3.5,1.9,1.3,3.4,2.4,2.3,2.9,3.2
+  Medical transcriptionists,31-9094,54.5,51.9,-2.6,-4.7,"37,550",Postsecondary nondegree award,3.5,3.8,1.9,2.7,2.6,3.8,2.8,3.0,2.3,1.9,1.2,1.4,3.1,2.3,1.4,3.1,3.8
+  Cabinetmakers and bench carpenters,51-7011,99.7,97.0,-2.7,-2.7,"46,020",High school diploma or equivalent,3.4,1.8,2.6,3.0,2.8,3.5,3.6,2.7,2.4,3.2,3.0,3.2,3.3,2.4,1.5,2.5,2.8
+  Credit analysts,13-2041,73.7,70.8,-2.8,-3.9,"80,970",Bachelor's degree,3.8,3.5,2.2,3.8,2.3,3.7,1.6,2.7,2.6,3.7,1.1,1.1,3.4,2.3,1.1,3.2,3.6
+  Telecommunications line installers and repairers,49-9052,102.2,99.4,-2.8,-2.7,"70,500",High school diploma or equivalent,3.8,3.1,2.6,3.0,3.6,3.8,3.1,3.3,2.9,2.2,3.1,3.1,3.5,2.5,1.6,3.1,2.9
+  Butchers and meat cutters,51-3021,139.1,136.2,-2.9,-2.1,"38,960",No formal educational credential,3.4,2.2,2.2,2.6,3.8,3.7,3.4,3.3,3.3,2.5,2.1,2.8,3.4,2.8,1.4,2.7,2.5
+  Foundry mold and coremakers,51-4071,11.8,8.9,-2.9,-24.6,"45,700",High school diploma or equivalent,3.3,1.9,2.2,2.6,2.1,3.7,3.2,2.7,2.7,2.2,2.4,3.1,3.1,2.3,2.3,2.5,2.1
+  Power plant operators,51-8013,32.4,29.3,-3.1,-9.4,"99,670",High school diploma or equivalent,3.7,3.1,2.5,3.2,2.2,4.1,3.0,3.1,2.9,2.3,3.1,2.5,3.5,2.3,2.1,3.1,3.1
+"  Welding, soldering, and brazing machine setters, operators, and tenders",51-4122,35.6,32.5,-3.2,-8.9,"47,060",High school diploma or equivalent,3.2,1.8,2.3,2.6,1.9,3.4,3.3,2.7,2.8,2.4,2.7,2.8,2.9,2.3,1.7,2.7,2.5
+"  Pressers, textile, garment, and related materials",51-6021,29.3,25.8,-3.5,-12.0,"33,880",No formal educational credential,3.3,1.8,2.5,2.3,2.5,3.4,3.2,2.8,2.4,1.8,2.4,2.8,2.2,2.3,1.3,2.1,2.0
+"  Plating machine setters, operators, and tenders, metal and plastic",51-4193,32.4,28.8,-3.6,-11.1,"41,600",High school diploma or equivalent,3.3,2.0,2.5,2.8,2.3,3.8,3.2,2.9,3.1,2.4,2.6,2.7,3.1,2.3,2.5,2.7,2.9
+"  Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",51-4072,158.8,154.9,-3.9,-2.5,"41,230",High school diploma or equivalent,3.3,2.3,2.2,2.7,1.9,3.6,3.3,2.8,2.8,2.5,3.0,3.0,3.0,2.1,1.7,2.7,2.9
+  Procurement clerks,43-3061,63.3,59.1,-4.2,-6.7,"48,510",High school diploma or equivalent,3.9,3.5,2.6,3.2,2.8,3.6,1.5,3.6,2.7,3.0,1.4,1.5,3.7,3.0,1.6,3.3,3.6
+  Prepress technicians and workers,51-5111,23.3,19.0,-4.3,-18.5,"47,300",Postsecondary nondegree award,3.8,3.6,3.1,2.9,2.5,3.8,2.9,2.8,3.0,2.4,2.2,1.4,3.2,2.6,1.4,2.8,3.0
+"  Mail clerks and mail machine operators, except postal service",43-9051,70.6,66.2,-4.4,-6.2,"38,150",High school diploma or equivalent,3.5,2.8,2.2,2.5,3.0,3.8,3.0,3.1,2.7,2.4,2.1,2.6,3.3,2.0,1.1,2.7,2.9
+"  Office machine operators, except computer",43-9071,29.2,24.8,-4.4,-15.1,"39,020",High school diploma or equivalent,3.3,3.2,2.4,2.6,2.9,3.3,2.7,2.9,2.8,2.7,2.5,2.2,2.9,2.7,1.1,2.7,3.0
+  Library technicians,25-4031,81.5,77.0,-4.6,-5.6,"39,970",Postsecondary nondegree award,3.8,3.5,2.6,2.7,3.2,3.3,2.5,3.4,2.5,2.2,1.4,2.2,3.1,2.6,1.3,3.1,3.1
+  Insurance underwriters,13-2053,118.4,113.7,-4.7,-4.0,"79,880",Bachelor's degree,3.8,3.5,2.4,3.5,3.3,3.7,1.9,3.0,2.6,2.9,1.1,1.1,3.8,2.5,1.4,3.1,3.7
+"  Middle school teachers, except special and career/technical education",25-2022,640.0,635.3,-4.7,-0.7,"62,970",Bachelor's degree,4.3,3.5,3.5,3.3,3.5,3.5,1.6,4.0,3.8,3.0,1.3,1.5,3.8,2.7,2.2,3.9,3.9
+"  Door-to-door sales workers, news and street vendors, and related workers",41-9091,32.4,27.7,-4.8,-14.6,"34,530",No formal educational credential,3.2,3.0,2.3,2.4,3.9,2.6,1.7,3.5,3.0,2.1,1.2,1.4,3.0,2.5,1.1,3.5,2.9
+  Loan interviewers and clerks,43-4131,206.1,201.2,-4.9,-2.4,"48,950",High school diploma or equivalent,3.9,3.5,2.5,3.3,4.0,3.7,2.1,3.2,2.6,3.2,1.3,1.3,3.8,2.4,1.0,3.6,3.8
+"  Library assistants, clerical",43-4121,87.7,82.7,-5.0,-5.7,"36,010",High school diploma or equivalent,3.6,3.5,2.5,2.6,3.2,3.2,2.4,3.5,2.6,2.1,1.3,2.2,3.2,2.6,1.1,3.1,3.1
+"  Human resources assistants, except payroll and timekeeping",43-4161,104.2,99.2,-5.0,-4.8,"49,440",Associate's degree,3.7,3.7,2.3,2.9,3.4,3.5,1.6,3.6,2.8,2.1,1.2,1.4,3.3,2.8,1.0,3.4,3.7
+"  Aircraft structure, surfaces, rigging, and systems assemblers",51-2011,31.4,26.3,-5.2,-16.4,"61,680",High school diploma or equivalent,3.7,2.7,2.7,2.9,2.3,3.9,3.4,3.1,2.9,2.6,3.0,2.8,3.3,2.8,2.0,2.8,2.9
+"  Adult basic education, adult secondary education, and english as a second language instructors",25-3011,41.7,36.4,-5.3,-12.7,"59,950",Bachelor's degree,3.9,3.1,3.2,3.0,2.8,3.3,1.5,3.6,3.1,2.8,1.2,1.3,3.5,2.2,1.5,3.6,3.9
+"  Cooks, short order",35-2015,128.8,123.5,-5.3,-4.1,"35,620",No formal educational credential,3.6,2.1,2.5,2.4,3.4,3.4,2.8,3.1,3.0,2.3,1.8,2.6,3.0,2.7,1.5,2.9,2.6
+"  Telecommunications equipment installers and repairers, except line installers",49-2022,162.3,156.8,-5.5,-3.4,"62,630",Postsecondary nondegree award,3.8,3.8,2.7,3.3,3.5,3.5,3.3,3.3,2.7,2.8,3.4,3.0,3.9,2.3,1.8,3.2,3.2
+  Floral designers,27-1023,53.7,48.1,-5.6,-10.4,"36,120",High school diploma or equivalent,3.4,2.8,3.4,2.9,3.6,3.2,2.9,3.2,2.3,2.3,1.3,2.5,3.0,2.9,1.5,3.2,2.6
+  Machine feeders and offbearers,53-7063,43.8,38.2,-5.6,-12.7,"39,700",No formal educational credential,2.9,2.0,2.0,2.2,2.0,3.5,3.4,2.8,2.5,2.4,2.3,2.7,2.5,2.0,1.4,2.7,2.5
+  Receptionists and information clerks,43-4171,"1,054.5","1,048.8",-5.7,-0.5,"37,230",High school diploma or equivalent,3.8,3.5,2.4,2.4,3.6,3.2,2.3,3.7,2.6,2.4,1.3,1.4,3.4,2.3,1.2,3.5,3.2
+  Tool and die makers,51-4111,59.1,53.3,-5.8,-9.7,"63,180",Postsecondary nondegree award,3.7,2.8,2.9,3.1,1.9,4.1,3.3,2.5,2.7,2.9,3.1,2.4,3.6,2.3,1.6,2.6,2.8
+"  Secretaries and administrative assistants, except legal, medical, and executive",43-6014,"1,982.3","1,976.2",-6.1,-0.3,"46,290",High school diploma or equivalent,3.6,3.6,2.4,2.7,3.1,3.5,2.3,3.6,2.5,2.3,1.3,1.3,3.1,2.5,1.3,3.5,3.7
+  New accounts clerks,43-4141,42.2,36.0,-6.2,-14.6,"46,610",High school diploma or equivalent,3.8,3.3,2.1,2.8,3.8,3.7,2.3,3.6,2.9,3.1,1.2,1.6,3.3,2.0,1.0,3.4,3.1
+  Chemical equipment operators and tenders,51-9011,121.9,115.4,-6.5,-5.4,"57,090",High school diploma or equivalent,3.6,3.4,2.3,3.1,2.3,3.9,3.1,3.2,3.4,2.9,3.0,2.8,3.6,2.4,2.8,2.9,3.4
+  Print binding and finishing workers,51-5113,38.1,31.4,-6.7,-17.5,"39,820",High school diploma or equivalent,3.4,2.2,2.4,2.8,2.3,3.8,3.3,2.8,3.0,2.3,2.9,2.8,3.3,2.3,1.4,2.7,3.0
+"  Secondary school teachers, except special and career/technical education",25-2031,"1,071.4","1,064.5",-6.9,-0.6,"64,580",Bachelor's degree,4.3,3.6,3.6,3.4,3.3,3.4,1.6,3.9,3.4,2.9,1.3,1.5,3.8,2.9,2.1,4.0,3.9
+  Advertising sales agents,41-3011,111.6,104.2,-7.4,-6.6,"61,460",High school diploma or equivalent,3.8,3.5,3.3,3.0,4.1,3.4,1.7,3.7,2.6,3.0,1.3,1.4,3.6,2.7,1.1,3.9,3.4
+  Water and wastewater treatment plant and system operators,51-8031,124.7,117.2,-7.5,-6.0,"58,260",High school diploma or equivalent,3.5,3.3,2.3,3.1,2.6,3.9,2.7,3.1,3.1,3.1,3.3,2.4,3.7,2.7,3.3,3.0,3.3
+  Legal secretaries and administrative assistants,43-6012,154.2,146.3,-7.9,-5.1,"54,140",High school diploma or equivalent,3.5,3.4,2.2,2.7,2.7,3.6,2.2,3.2,2.4,2.1,1.2,1.3,3.0,2.3,1.0,3.3,3.7
+"  Teaching assistants, except postsecondary[2]",25-9045,"1,389.2","1,381.0",-8.2,-0.6,"35,240","Some college, no degree",4.1,3.5,3.2,3.2,3.3,3.3,1.6,4.1,3.5,3.0,1.2,1.5,3.5,2.6,2.3,3.7,4.0
+"  Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",51-4033,76.3,68.1,-8.2,-10.7,"45,190",High school diploma or equivalent,3.3,2.8,2.2,2.7,2.2,3.7,3.8,2.8,2.8,2.7,2.9,2.7,3.2,2.5,1.5,2.6,2.7
+  Cost estimators,13-1051,227.9,219.6,-8.3,-3.6,"77,070",Bachelor's degree,3.7,3.7,2.7,3.7,2.4,3.4,1.4,2.9,3.1,4.1,1.2,1.2,3.6,3.2,1.9,3.4,3.8
+"  Postal service mail sorters, processors, and processing machine operators",43-5053,111.3,102.5,-8.7,-7.9,"56,530",No formal educational credential,3.3,2.2,2.0,2.6,2.2,3.3,3.2,2.9,2.5,1.9,1.9,2.9,2.8,1.6,1.1,2.6,2.7
+  Network and computer systems administrators,15-1244,335.4,326.6,-8.8,-2.6,"96,800",Bachelor's degree,3.9,4.4,2.9,3.8,2.4,3.6,2.5,3.1,2.7,3.0,2.8,1.5,3.7,3.0,1.6,3.1,3.6
+  Structural metal fabricators and fitters,51-2041,59.3,50.3,-9.1,-15.3,"49,900",High school diploma or equivalent,3.3,1.8,2.3,2.6,2.4,3.7,3.2,3.0,2.5,2.6,2.5,2.7,3.1,1.9,1.8,2.6,2.5
+  Postal service mail carriers,43-5052,316.7,307.1,-9.5,-3.0,"57,490",No formal educational credential,3.2,1.7,1.9,2.4,3.3,3.7,3.0,2.8,1.8,1.8,1.6,2.8,2.9,1.6,1.2,2.7,2.4
+  Engine and other machine assemblers,51-2031,49.0,38.6,-10.4,-21.3,"52,540",High school diploma or equivalent,3.3,2.5,2.5,2.8,2.5,3.9,3.3,3.1,2.7,2.2,3.0,2.9,3.1,2.1,1.7,2.7,2.6
+  Insurance claims and policy processing clerks,43-9041,271.8,261.3,-10.5,-3.9,"48,450",High school diploma or equivalent,3.6,3.6,2.1,2.9,3.0,3.6,2.2,3.3,2.3,2.6,1.1,1.3,3.3,2.0,1.1,3.0,3.4
+"  Farmworkers, farm, ranch, and aquacultural animals",45-2093,204.7,194.1,-10.6,-5.2,"36,150",No formal educational credential,3.4,2.3,2.5,2.8,2.6,3.4,3.0,2.7,3.0,2.3,2.8,3.0,3.3,2.6,2.4,2.7,2.8
+"  Elementary school teachers, except special education",25-2021,"1,441.0","1,430.4",-10.7,-0.7,"62,340",Bachelor's degree,4.4,3.4,3.5,3.5,3.3,3.5,1.8,4.2,3.7,3.0,1.2,2.0,3.7,2.7,1.8,3.9,3.8
+"  Switchboard operators, including answering service",43-2011,44.9,33.6,-11.3,-25.2,"38,370",High school diploma or equivalent,3.6,3.3,2.0,2.6,3.7,3.3,2.3,3.4,2.3,2.0,1.3,1.4,3.1,1.7,1.0,3.6,2.8
+"  Farmworkers and laborers, crop, nursery, and greenhouse",45-2092,497.3,485.4,-11.9,-2.4,"35,690",No formal educational credential,3.3,2.3,2.5,2.7,2.4,3.2,3.5,2.9,2.9,2.3,2.8,3.6,2.7,2.6,2.2,2.7,2.8
+"  Paper goods machine setters, operators, and tenders",51-9196,95.2,83.3,-11.9,-12.5,"49,390",High school diploma or equivalent,3.4,2.2,2.3,2.7,2.4,3.6,3.3,3.0,3.2,2.4,2.8,2.7,3.4,2.4,1.3,2.8,2.7
+  Childcare workers,39-9011,970.8,957.8,-13.0,-1.3,"32,050",High school diploma or equivalent,3.9,2.2,3.0,2.7,3.1,3.3,1.8,3.8,3.1,2.2,1.3,2.5,3.3,2.2,1.3,3.0,3.0
+  File clerks,43-4071,87.2,73.9,-13.3,-15.3,"41,270",High school diploma or equivalent,3.5,3.4,2.6,2.8,2.9,3.6,2.2,3.3,2.6,2.3,1.5,2.0,2.6,2.4,1.6,3.0,3.3
+  Computer programmers,15-1251,139.4,126.0,-13.4,-9.6,"98,670",Bachelor's degree,3.9,4.7,3.2,3.9,2.3,3.7,2.2,3.0,2.9,3.2,1.4,1.2,3.4,2.5,1.8,3.2,3.5
+"  Farmers, ranchers, and other agricultural managers",11-9013,856.6,842.9,-13.8,-1.6,"87,980",High school diploma or equivalent,3.7,2.9,3.0,3.5,2.9,3.4,2.7,3.3,3.7,3.0,2.6,2.4,3.8,3.5,3.0,3.3,3.5
+  Printing press operators,51-5112,156.2,141.3,-14.9,-9.5,"45,160",High school diploma or equivalent,3.4,2.6,2.5,2.8,2.7,3.9,3.4,2.9,3.2,2.2,3.3,2.8,3.5,3.1,1.4,2.7,2.8
+"  Claims adjusters, examiners, and investigators",13-1031,345.2,330.0,-15.2,-4.4,"76,790",High school diploma or equivalent,4.1,3.9,2.6,3.5,3.9,3.7,2.1,3.6,2.7,3.1,1.3,1.3,4.1,2.8,1.6,3.5,3.9
+  Word processors and typists,43-9022,39.9,24.8,-15.2,-38.0,"47,850",High school diploma or equivalent,3.5,3.6,2.3,2.6,3.3,3.6,2.7,3.3,2.3,2.4,1.5,1.4,2.7,2.4,1.0,2.8,3.2
+  Helpers--production workers,51-9198,183.5,168.4,-15.2,-8.3,"38,220",High school diploma or equivalent,3.2,2.1,2.0,2.5,2.1,3.5,3.3,2.9,2.5,2.2,2.5,3.0,2.8,2.2,1.5,2.6,2.4
+"  Office and administrative support workers, all other[2]",43-9199,206.8,190.8,-16.0,-7.7,"46,040",High school diploma or equivalent,3.7,3.4,2.3,2.7,3.0,3.6,2.3,3.3,2.4,2.5,1.4,1.5,3.0,2.4,1.2,3.2,3.3
+"  Interviewers, except eligibility and loan",43-4111,169.1,152.5,-16.7,-9.9,"43,830",High school diploma or equivalent,4.2,3.9,2.6,3.2,3.8,3.7,2.1,3.9,3.5,2.5,1.4,1.4,3.5,2.7,1.0,3.5,3.4
+  Sewing machine operators,51-6031,128.7,111.8,-17.0,-13.2,"36,000",No formal educational credential,3.1,1.6,2.1,2.4,1.9,3.3,3.5,2.6,2.3,2.1,2.1,2.3,2.7,2.1,1.1,2.4,2.3
+  Computer numerically controlled tool operators,51-9161,189.9,172.4,-17.5,-9.2,"49,970",High school diploma or equivalent,3.5,2.9,2.6,3.2,2.1,4.0,3.5,2.7,2.8,3.2,3.3,2.7,3.5,2.3,1.9,2.7,2.8
+"  Inspectors, testers, sorters, samplers, and weighers",51-9061,595.5,577.7,-17.8,-3.0,"47,460",High school diploma or equivalent,3.9,3.2,2.4,3.0,2.7,3.7,2.8,3.0,3.0,2.6,2.3,2.5,3.4,2.3,1.9,2.9,3.0
+  Telemarketers,41-9041,85.2,66.8,-18.3,-21.5,"34,410",No formal educational credential,3.6,3.0,2.8,2.7,3.8,3.3,2.1,3.5,2.5,1.8,1.3,1.1,2.9,2.2,1.2,3.5,3.0
+  Bill and account collectors,43-3011,196.5,177.8,-18.6,-9.5,"46,040",High school diploma or equivalent,3.5,3.3,2.4,2.8,3.4,3.6,1.7,3.0,2.7,2.8,1.1,1.2,3.3,2.4,1.0,3.3,3.2
+  Order clerks,43-4151,106.3,87.3,-19.0,-17.9,"44,660","Some college, no degree",4.2,3.8,2.6,2.9,3.3,3.4,1.8,3.7,3.1,3.0,1.6,1.6,3.3,2.8,1.2,3.4,3.4
+"  Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51-4031,181.3,161.0,-20.3,-11.2,"45,590",High school diploma or equivalent,3.2,2.1,2.5,2.7,2.1,3.8,3.3,2.6,2.6,2.5,2.9,2.9,3.2,2.2,1.4,2.6,2.7
+  Payroll and timekeeping clerks,43-3051,160.3,136.2,-24.2,-15.1,"55,290",High school diploma or equivalent,3.9,3.6,2.4,2.9,2.3,3.7,2.1,3.3,2.4,3.6,1.2,1.3,3.2,2.0,1.0,3.1,3.5
+  Correctional officers and jailers,33-3012,370.9,346.0,-24.8,-6.7,"57,970",High school diploma or equivalent,4.0,3.5,2.6,3.2,3.7,4.0,2.9,3.7,3.6,2.2,2.1,2.9,3.7,2.7,1.5,3.6,3.2
+"  Packers and packagers, hand",53-7064,641.3,614.3,-26.9,-4.2,"35,580",No formal educational credential,3.4,2.6,2.3,2.5,2.5,3.5,2.8,3.0,3.1,2.2,2.1,2.8,2.9,2.3,1.6,2.5,2.3
+  Food preparation workers,35-2021,904.8,870.8,-34.0,-3.8,"34,220",No formal educational credential,3.4,2.0,2.5,2.5,3.6,3.4,2.7,3.4,3.3,2.2,1.7,2.7,3.0,2.4,1.7,2.9,2.5
+  Data entry keyers,43-9021,163.9,122.8,-41.0,-25.0,"39,850",High school diploma or equivalent,4.1,3.6,2.6,2.9,2.7,4.0,3.0,3.4,2.9,2.3,1.4,1.8,3.3,2.4,1.1,2.9,3.4
+  Tellers,43-3071,350.3,298.8,-51.4,-14.7,"39,340",High school diploma or equivalent,3.9,3.3,2.4,2.9,3.9,3.9,2.8,3.6,2.9,3.4,1.6,1.9,3.5,2.5,1.1,3.3,3.2
+"  Shipping, receiving, and inventory clerks",43-5071,848.7,784.2,-64.4,-7.6,"43,190",High school diploma or equivalent,3.3,3.3,2.4,2.7,3.1,3.6,2.7,3.0,3.1,2.5,1.9,2.6,3.2,2.7,1.3,2.8,3.0
+  First-line supervisors of office and administrative support workers,43-1011,"1,570.5","1,501.4",-69.1,-4.4,"66,140",High school diploma or equivalent,4.0,3.6,2.9,3.5,3.4,3.6,1.9,3.8,3.9,2.8,1.5,1.6,3.8,3.2,1.1,3.5,3.8
+"  Bookkeeping, accounting, and auditing clerks",43-3031,"1,663.8","1,579.9",-83.9,-5.0,"49,210","Some college, no degree",3.6,3.6,2.2,2.8,3.0,3.7,2.3,3.2,2.5,3.6,1.2,1.3,3.2,2.6,1.1,3.0,3.3
+  First-line supervisors of retail sales workers,41-1011,"1,407.4","1,316.9",-90.5,-6.4,"47,320",High school diploma or equivalent,4.1,3.1,2.8,3.2,4.0,3.3,2.5,3.8,3.8,2.9,1.4,2.3,3.6,2.9,1.1,3.4,3.0
+"  Cooks, fast food",35-2011,682.2,588.5,-93.7,-13.7,"30,160",No formal educational credential,3.1,1.9,2.1,2.4,3.0,3.5,2.0,2.8,2.6,1.9,1.4,2.3,2.8,2.0,1.0,3.1,2.4
+"  Office clerks, general",43-9061,"2,645.8","2,498.2",-147.5,-5.6,"43,630",High school diploma or equivalent,3.7,3.3,2.2,2.7,3.0,3.6,2.3,3.2,2.4,2.6,1.4,1.5,2.9,2.5,1.2,3.2,3.3
+  Customer service representatives,43-4051,"2,954.6","2,805.8",-148.8,-5.0,"42,830",High school diploma or equivalent,4.1,3.5,2.5,3.0,4.0,3.6,2.4,3.5,3.1,2.7,1.4,1.5,3.3,2.5,1.2,3.5,3.4
+  Cashiers,41-2011,"3,338.8","2,985.7",-353.1,-10.6,"31,190",No formal educational credential,3.7,2.3,2.3,2.5,3.9,3.5,2.7,3.5,2.9,3.0,1.6,2.3,3.0,2.1,1.3,2.9,2.8
+Table 6.2 jobs data by detailed occupation  and 2023–33 employment projections (Employment in thousands),,,,,,,,,,,,,,,,,,,,,,,,
+Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,
+"[1] Data are from the Occupational Employment and Wage Statistics program, U.S. Bureau of Labor Statistics. Wage data cover non-farm wage and salary workers and do not cover the self-employed, owners and partners in unincorporated firms, or household workers.",,,,,,,,,,,,,,,,,,,,,,,,
+[2] jobs information from similar O*NET-SOC occupation(s) imputed for this occupation. More information can be found in the Crosswalk of O*NET-SOC occupations to National Employment Matrix occupations for jobs mapping file: https://www.bls.gov/emp/jobs/ep_job_nem_onet_crosswalks.xlsx.,,,,,,,,,,,,,,,,,,,,,,,,
+Note: jobs scores range from 1.0 (Not important) to 5.0 (Extremely important). More information can be found on the EP definitions page: https://www.bls.gov/emp/documentation/definitions.htm.,,,,,,,,,,,,,,,,,,,,,,,,
+"Note: Data is unavailable for values denoted with a ""—"".",,,,,,,,,,,,,,,,,,,,,,,,
+"Source: Employment Projections program, U.S. Bureau of Labor Statistics",,,,,,,,,,,,,,,,,,,,,,,,

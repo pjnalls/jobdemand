@@ -1,0 +1,17 @@
+import matplotlib.pyplot as plt
+
+import src.elevate.filter as filter
+
+
+def visualize_results(file_path: str):
+    categories, values = filter.calculate_job_demand_for_user(
+        file_path)
+    
+    plt.rcParams.update({'font.size': 22})
+    plt.barh(categories, width=values, color="skyblue")
+    plt.ylabel("Job Titles")
+    plt.xlabel("Employment Change % (2023 - 2033)")
+    plt.title("Demand for Jobs You Picked")
+    plt.grid(True, linestyle="--", alpha=1)
+    plt.savefig("results/results.png")
+    plt.show()

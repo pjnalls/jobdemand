@@ -1,0 +1,1 @@
+python -m src.main "data/Table 6.3-Table 1.csv"
