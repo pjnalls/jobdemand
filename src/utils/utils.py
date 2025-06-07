@@ -2,11 +2,25 @@ import os
 
 MAX_ITERATIONS = 10
 
-def display_scrollable_dropdown(job_titles: list[str], itr: int = 0) -> str:
+
+def display_scrollable_dropdown(job_titles: list[str]) -> list[str]:
     items_per_page = 10
+    user_jobs = []
     current_page = 0
+    itr = 0
 
     while itr < MAX_ITERATIONS:
+        print("\n")
+        if itr == 0:
+            print(f"Select your top job title you want and think you'd be good at:")
+        elif itr == 1:
+            print(f"Select your 2nd top job title you want and think you'd be good at:")
+        elif itr == 2:
+            print(f"Select your 3rd top job title you want and think you'd be good at:")
+        else:
+            print(
+                f"Select your {itr + 1}th top job title you want and think you'd be good at:")
+
         start_index = current_page * items_per_page
         end_index = min(start_index + items_per_page, len(job_titles))
 
@@ -30,7 +44,8 @@ def display_scrollable_dropdown(job_titles: list[str], itr: int = 0) -> str:
         if user_input.isdigit():
             selected_index = int(user_input) - 1
             if start_index <= selected_index < end_index:
-                return job_titles[selected_index]
+                user_jobs.append(job_titles[selected_index])
+                itr += 1
             else:
                 print("Invalid selection. Please try again.")
                 continue
@@ -47,6 +62,8 @@ def display_scrollable_dropdown(job_titles: list[str], itr: int = 0) -> str:
             clear_console()
             print("Invalid input. Please try again.")
             continue
+    return user_jobs
+
 
 def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
