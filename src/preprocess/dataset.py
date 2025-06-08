@@ -1,6 +1,5 @@
 import csv
 
-import src.preprocess.dataset as preprocess
 import src.utils.utils as utils
 
 
@@ -16,7 +15,7 @@ def read_employment_change(file_path: str):
 
 
 def get_top_jobs_of_user(file_path: str) -> tuple[list[str], list[str], list[str]]:
-    job_titles, employment_change = preprocess.read_employment_change(
+    job_titles, employment_change = read_employment_change(
         file_path)
     sorted_job_titles = sorted(job_titles)
 

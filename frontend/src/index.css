@@ -26,8 +26,10 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
+  width: calc(100vw - 4em);
+  max-width: 1280px;
   min-height: 100vh;
+  padding: 2em;
 }
 
 h1 {
@@ -54,10 +56,17 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
-    background-color: #ffffff;
+    background-color: #ddd;
   }
   a:hover {
     color: #747bff;
@@ -65,4 +74,109 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+  border: 1px solid #666;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.table th, .table td {
+  padding: 8px;
+}
+.table th {
+  background-color: #000;
+  color: #fff;
+}
+
+.table tr:nth-child(even) {
+  background-color: #111;
+}
+
+.table tr:hover {
+  background-color: #444;
+}
+
+.page-number {
+  color: #fff;
+}
+
+@media (prefers-color-scheme: light) {
+  .table {
+    border: 1px solid #aaa;
+  }
+  .table tr:nth-child(even) {
+    background-color: #eee;
+  }
+  .table tr:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
+  .table th {
+    background-color: #fff;
+    color: #000;
+  }
+  .table tr:hover {
+    background-color: #f9f9f9;
+  }
+  .page-number {
+    color: #000;
+  }
+}
+
+.checkbox {
+  width: 5%;
+}
+.job-title {
+  width: 70%;
+  text-align: left;
+}
+
+.employment-change {
+  width: 20%;
+  text-align: right;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-numbers {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+@media (max-width: 768px) {
+  .pagination-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .page-numbers {
+    padding-bottom: 20px;
+  }
+}
+
+input[type="checkbox"] {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1px solid #666;
+  background-color: #000;
+  cursor: pointer;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #1075c0;
+}
+
+.menu {
+  height: 100vh;
 }

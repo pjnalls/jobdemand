@@ -4,13 +4,10 @@ import src.visualize.results as results
 
 
 if __name__ == "__main__":
-    file_path = ""
+    file_path = "data/Table 6.2-Table 1.csv"
     try:
-        len(sys.argv)
         if len(sys.argv) == 2:
-            file_path = sys.argv[1] if 'data' in sys.argv[1] else f"data/{sys.argv[1]}"
-        else:
-            file_path = "data/Table 6.3-Table 1.csv"
+            file_path = sys.argv[1] if 'data' in sys.argv[1] else f"data/{sys.argv[1]}"    
         results.visualize_results(file_path)
     except FileNotFoundError as e:
         print(f"File not found. Please provide a valid file path.")
