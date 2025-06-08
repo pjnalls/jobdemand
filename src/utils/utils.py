@@ -10,7 +10,6 @@ def display_scrollable_dropdown(job_titles: list[str]) -> list[str]:
     itr = 0
 
     while itr < MAX_ITERATIONS:
-        print("\n")
         if itr == 0:
             print(f"Select your top job title you want and think you'd be good at:")
         elif itr == 1:
@@ -40,26 +39,28 @@ def display_scrollable_dropdown(job_titles: list[str]) -> list[str]:
 
         user_input = input(
             "Select an option (number), navigate (p/n), or quit (q): ")
+        
+        clear_console()
 
         if user_input.isdigit():
             selected_index = int(user_input) - 1
             if start_index <= selected_index < end_index:
+                print("")
                 user_jobs.append(job_titles[selected_index])
                 itr += 1
             else:
                 print("Invalid selection. Please try again.")
                 continue
         elif user_input.lower() == "q":
-            clear_console()
+            print("")
             break
         elif user_input.lower() == "p" and current_page > 0:
-            clear_console()
+            print("")
             current_page -= 1
         elif user_input.lower() == "n" and end_index < len(job_titles):
-            clear_console()
+            print("")
             current_page += 1
         else:
-            clear_console()
             print("Invalid input. Please try again.")
             continue
     return user_jobs
