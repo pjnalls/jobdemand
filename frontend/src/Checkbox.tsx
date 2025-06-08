@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+// import { useEffect } from 'react';
 import type { Table62Table1Data } from './types';
 
 export const Checkbox = ({
@@ -12,9 +12,10 @@ export const Checkbox = ({
   currentJob: Table62Table1Data;
   defaultChecked: boolean;
 }) => {
-  useEffect(() => {
-    console.log(userJobs);
-  }, [userJobs]);
+  // TODO: Remove this after resolving issue with to many rerenders
+  // useEffect(() => {
+  //   console.log(userJobs);
+  // }, [userJobs]);
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     const existingJob = userJobs.find((job) => job.id === currentJob.id);
