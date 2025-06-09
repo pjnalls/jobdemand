@@ -37,22 +37,31 @@ export const Checkbox = ({
   };
 
   return (
-    <input
-      className="checkbox"
-      type="checkbox"
-      onChange={handleChange}
-      defaultChecked={defaultChecked}
-      style={{
-        cursor:
+    <div style={{ display: 'flex', alignItems: 'center' }}>
+      <input
+        id={`checkbox-${currentJob.id}-${currentJob['2023 National Employment Matrix title']}`}
+        className="checkbox"
+        type="checkbox"
+        onChange={handleChange}
+        defaultChecked={defaultChecked}
+        style={{
+          cursor:
+            userJobs.length >= 10 &&
+            !userJobs.find((job) => job.id === currentJob.id)
+              ? 'not-allowed'
+              : 'pointer',
+        }}
+        disabled={
           userJobs.length >= 10 &&
           !userJobs.find((job) => job.id === currentJob.id)
-            ? 'not-allowed'
-            : 'pointer',
-      }}
-      disabled={
-        userJobs.length >= 10 &&
-        !userJobs.find((job) => job.id === currentJob.id)
-      }
-    />
+        }
+      />
+      <label
+        htmlFor={`checkbox-${currentJob.id}-${currentJob['2023 National Employment Matrix title']}`}
+        style={{ color: 'transparent', marginLeft: '0px', fontSize: '1px' }}
+      >
+        ✅
+      </label>
+    </div>
   );
 };
