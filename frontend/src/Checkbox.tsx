@@ -18,9 +18,12 @@ export const Checkbox = ({
   // }, [userJobs]);
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const existingJobIndex = userJobs.findIndex((job) => job.id === currentJob.id);
+    const existingJobIndex = userJobs.findIndex(
+      (job) => job.id === currentJob.id
+    );
     if (existingJobIndex !== -1) {
-      userJobs.splice(existingJobIndex, 1)
+      event.target.checked = false;
+      userJobs.splice(existingJobIndex, 1);
       setUserJobs(userJobs);
     } else {
       setUserJobs([
@@ -35,10 +38,21 @@ export const Checkbox = ({
 
   return (
     <input
+      className="checkbox"
       type="checkbox"
       onChange={handleChange}
       defaultChecked={defaultChecked}
-      disabled={userJobs.length >= 10}
+      style={{
+        cursor:
+          userJobs.length >= 10 &&
+          !userJobs.find((job) => job.id === currentJob.id)
+            ? 'not-allowed'
+            : 'pointer',
+      }}
+      disabled={
+        userJobs.length >= 10 &&
+        !userJobs.find((job) => job.id === currentJob.id)
+      }
     />
   );
 };

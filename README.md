@@ -6,7 +6,7 @@
         Jobdemand
     </h1>
 </div>
-A Python app that generates charts showing the jobs users pick and their demand from 2023 to 2033.
+A Python console app and React Vite web app that generate charts showing the jobs users pick and their demand from 2023 to 2033.
 
 
 ## Prerequiste

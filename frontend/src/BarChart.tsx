@@ -7,7 +7,13 @@ Chart.register(CategoryScale);
 
 import type { Table62Table1Data } from './types';
 
-export const BarChart = ({ userJobs, setUserJobs }: { userJobs: Table62Table1Data[], setUserJobs: (userJobs: Table62Table1Data[]) => void }) => {
+export const BarChart = ({
+  userJobs,
+  setUserJobs,
+}: {
+  userJobs: Table62Table1Data[];
+  setUserJobs: (userJobs: Table62Table1Data[]) => void;
+}) => {
   const [prefersDark, setPrefersDark] = useState(false);
 
   useEffect(() => {
@@ -109,10 +115,18 @@ export const BarChart = ({ userJobs, setUserJobs }: { userJobs: Table62Table1Dat
     <div className="chart-container">
       <div className="chart-controls">
         <button onClick={handleUpdate}>Update Chart</button>
-        <button onClick={() => {
-          setUserJobs([])
-          window.location.href = '#menu';
-        }}>Start Over</button>
+        <button
+          onClick={() => {
+            setUserJobs([]);
+            window.location.href = '#menu';
+            const checkboxes = document.getElementsByClassName('checkbox');
+            for (const checkbox of checkboxes) {
+              (checkbox as HTMLInputElement).checked = false;
+            }
+          }}
+        >
+          Start Over
+        </button>
       </div>
       <div style={{ width: '100%', height: '500px' }}>
         <Bar
@@ -129,7 +143,7 @@ export const BarChart = ({ userJobs, setUserJobs }: { userJobs: Table62Table1Dat
                 title: {
                   display: true,
                   text: 'Employment Change % (2023-2033)',
-                  color: prefersDark && '#fff' || '#000',
+                  color: (prefersDark && '#fff') || '#000',
                 },
                 ticks: {
                   color: prefersDark ? '#ccc' : '#777',
