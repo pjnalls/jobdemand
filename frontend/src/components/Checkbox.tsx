@@ -1,5 +1,7 @@
 // import { useEffect } from 'react';
-import type { Table62Table1Data } from './types';
+import type { Table62Table1Data } from '@/src/types';
+
+import './Checkbox.css';
 
 export const Checkbox = ({
   userJobs,

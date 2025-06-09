@@ -3,9 +3,11 @@ import { useEffect, useRef, useState } from 'react';
 import { Bar } from 'react-chartjs-2';
 import Chart, { CategoryScale } from 'chart.js/auto';
 
+import './BarChart.css';
+
 Chart.register(CategoryScale);
 
-import type { Table62Table1Data } from './types';
+import type { Table62Table1Data } from '../types';
 
 export const BarChart = ({
   userJobs,

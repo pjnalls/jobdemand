@@ -1,5 +1,7 @@
 import { useState } from 'react';
 
+import './Pagination.css';
+
 export default function Pagination({
   dataCount,
   perPageCount,

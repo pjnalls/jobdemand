@@ -1,0 +1,17 @@
+input[type='checkbox'] {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 1px solid #666;
+  background-color: #000;
+  cursor: pointer;
+}
+input[type='checkbox']:checked {
+  background-color: #1075c0;
+}
+@media (max-width: 768px) {
+  input[type='checkbox'] {
+    width: 1.5em;
+    height: 1.5em;
+  }
+}

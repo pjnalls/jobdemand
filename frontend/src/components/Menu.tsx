@@ -1,8 +1,10 @@
 import { useState } from 'react';
 import Pagination from './Pagination';
-import type { Table62Table1Data } from './types';
+import type { Table62Table1Data } from '../types';
 
 import { Table } from './Table';
+
+import './Menu.css';
 
 export const Menu = ({
   userJobs,

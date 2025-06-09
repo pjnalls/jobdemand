@@ -1,8 +1,8 @@
 import { useState } from 'react';
 
 import './App.css';
-import { Menu } from './Menu';
-import { BarChart } from './BarChart';
+import { Menu } from './components/Menu';
+import { BarChart } from './components/BarChart';
 import type { Table62Table1Data } from './types';
 
 import table62Table1Data from './data/table62Table1Data.json';

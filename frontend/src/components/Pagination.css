@@ -1,0 +1,33 @@
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.page-numbers {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+@media (max-width: 768px) {
+  .page-numbers {
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .page-number {
+    font-size: 0.8em;
+    padding: 0.25em;
+  }
+}
+.page-number {
+  color: #fff;
+}
+@media (prefers-color-scheme: light) {
+  .page-number {
+    color: #000;
+  }
+}

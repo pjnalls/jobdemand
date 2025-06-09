@@ -1,6 +1,6 @@
 import fs from 'fs';
 import csv from 'csv-parser';
-import type { Table62Table1Data } from './types';
+import type { Table62Table1Data } from '../types';
 
 const results: Table62Table1Data[] = [];
 

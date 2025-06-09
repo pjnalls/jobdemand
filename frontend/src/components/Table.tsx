@@ -1,5 +1,7 @@
 import { Checkbox } from './Checkbox';
-import type { Table62Table1Data } from './types';
+import type { Table62Table1Data } from '@/src/types';
+
+import './Table.css';
 
 export const Table = ({
   currentData,

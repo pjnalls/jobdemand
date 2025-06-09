@@ -1,0 +1,67 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+  border: 1px solid #666;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  flex: 1 1 auto;
+  flex-basis: 300px;
+}
+.table th,
+.table td {
+  padding: 8px;
+}
+.table th {
+  background-color: #000;
+  color: #fff;
+}
+.table tr:nth-child(even) {
+  background-color: #111;
+}
+.table tr:hover {
+  background-color: #444;
+}
+.job-title {
+  width: 70%;
+  text-align: left;
+}
+@media (max-width: 768px) {
+  .table {
+    font-size: 0.8em;
+  }
+  .table th {
+    padding: 0.25em;
+  }
+  .table td {
+    padding: 0.25em;
+  }
+}
+@media (prefers-color-scheme: light) {
+  .table {
+    border: 1px solid #aaa;
+  }
+  .table tr:nth-child(even) {
+    background-color: #eee;
+  }
+  .table tr:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
+  .table th {
+    background-color: #fff;
+    color: #000;
+  }
+  .table tr:hover {
+    background-color: #f9f9f9;
+  }
+  .page-number {
+    color: #000;
+  }
+}
+.checkbox {
+  width: 5%;
+}
+.employment-change {
+  width: 20%;
+  text-align: right;
+}
