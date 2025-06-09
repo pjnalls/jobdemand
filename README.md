@@ -1,7 +1,10 @@
 <div align="center">
     <img 
+        alt="user selecting top jobs" 
+        src="screenshots/table.png" width="300px"/>
+        <img 
         alt="top jobs user picked and job demands" 
-        src="results/screenshot.png" />
+        src="screenshots/chart.png" width="300px"/>
     <h1>
         Jobdemand
     </h1>
