@@ -34,5 +34,12 @@ Please decide on a `.csv` file you want pick your job titles for and run the fol
 python -m src.main "Table 6.x-Table 1.csv"
 ```
 
+## Quick Build and Deploy
+You can quickly build the `frontend/` Vite + React app with the following command:
+```bash
+souce rebuild.sh
+```
+Then, you can commit the newly created `assets/`, `index.html`, and `jobdemand.svg` created.
+
 ## Credit
 `data/skills.xlsx` file is public data provided by the U.S. Bureau of Labor Statistics which you can download [here](https://www.bls.gov/emp/skills/skills.xlsx).
