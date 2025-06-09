@@ -18,9 +18,10 @@ export const Checkbox = ({
   // }, [userJobs]);
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const existingJob = userJobs.find((job) => job.id === currentJob.id);
-    if (existingJob) {
-      setUserJobs(userJobs.splice(userJobs.indexOf(existingJob), 1));
+    const existingJobIndex = userJobs.findIndex((job) => job.id === currentJob.id);
+    if (existingJobIndex !== -1) {
+      userJobs.splice(existingJobIndex, 1)
+      setUserJobs(userJobs);
     } else {
       setUserJobs([
         ...userJobs,

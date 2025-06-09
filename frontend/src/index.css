@@ -83,6 +83,8 @@ button:focus-visible {
   border: 1px solid #666;
   margin: 0 auto;
   margin-bottom: 10px;
+  flex: 1 1 auto;
+  flex-basis: 300px;
 }
 .table th, .table td {
   padding: 8px;
@@ -153,17 +155,6 @@ button:focus-visible {
   margin-right: 10px;
 }
 
-@media (max-width: 768px) {
-  .pagination-container {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  .page-numbers {
-    padding-bottom: 20px;
-  }
-}
-
 input[type="checkbox"] {
   width: 24px;
   height: 24px;
@@ -177,6 +168,65 @@ input[type="checkbox"]:checked {
   background-color: #1075c0;
 }
 
+.description {
+  font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+  body {
+    width: calc(100vw - 2em);
+    padding: 0.5em;
+  }
+  h1 {
+    font-size: 2.0rem;
+  }
+  .description {
+    font-size: 0.8rem;
+  }
+  .table {
+    font-size: 0.8em;
+  }
+  .table th {
+    padding: 0.25em;
+  }
+  .table td {
+    padding: 0.25em;
+  }
+  input[type="checkbox"] {
+    width: 1.5em;
+    height: 1.5em;
+  }
+  button {
+    font-size: 0.8em;
+    padding: 0.5em;
+  }
+  .page-numbers {
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .page-number {
+    font-size: 0.8em;
+    padding: 0.25em;
+  }
+}
+
 .menu {
   height: 100vh;
+  overflow: auto;
+  width: 100%;
+}
+
+.chart-container {
+  width: 100%;
+  height: 100%;
+}
+
+.chart-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }

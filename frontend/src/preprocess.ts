@@ -14,7 +14,7 @@ const readEmploymentChange = (filePath: string) => {
           id: i,
           enabled: false,
           '2023 National Employment Matrix title':
-            data['2023 National Employment Matrix title'],
+            data['2023 National Employment Matrix title'].split('[')[0],
           'Employment change, percent, 2023–33':
             data['Employment change, percent, 2023–33'],
         });
