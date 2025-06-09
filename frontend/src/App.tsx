@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <section>
+      <section className="section-1">
         <h1 id="menu">📊 Jobdemand</h1>
         <p className="description">
           Pick up to 10 jobs that your interested in or think you'd be good at.
@@ -29,7 +29,7 @@ function App() {
           sortedTable62Table1Data={sortedTable62Table1Data}
         />
       </section>
-      <section>
+      <section className="section-2">
         <h2 id="demand">Demand for Jobs You Picked</h2>
         <BarChart userJobs={userJobs} setUserJobs={setUserJobs} />
       </section>
