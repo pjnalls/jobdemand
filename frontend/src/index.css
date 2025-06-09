@@ -36,6 +36,7 @@ h1 {
   font-size: 3em;
   line-height: 1;
   padding-top: 16px;
+  margin-bottom: 0;
 }
 
 button {
@@ -230,4 +231,14 @@ input[type="checkbox"]:checked {
   justify-content: center;
   align-items: center;
   gap: 10px;
+}
+
+section {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
 }

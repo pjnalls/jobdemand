@@ -18,13 +18,23 @@ function App() {
 
   return (
     <>
-      <h1 id="menu">📊 Jobdemand</h1>
-      <p className="description">Pick up to 10 jobs that your interested in or think you'd be good at.</p>
-      <Menu userJobs={userJobs} setUserJobs={setUserJobs} sortedTable62Table1Data={sortedTable62Table1Data}/>
-      <h2 id="demand">Demand for Jobs You Picked</h2>
-      <BarChart userJobs={userJobs} setUserJobs={setUserJobs}/>
+      <section>
+        <h1 id="menu">📊 Jobdemand</h1>
+        <p className="description">
+          Pick up to 10 jobs that your interested in or think you'd be good at.
+        </p>
+        <Menu
+          userJobs={userJobs}
+          setUserJobs={setUserJobs}
+          sortedTable62Table1Data={sortedTable62Table1Data}
+        />
+      </section>
+      <section>
+        <h2 id="demand">Demand for Jobs You Picked</h2>
+        <BarChart userJobs={userJobs} setUserJobs={setUserJobs} />
+      </section>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
