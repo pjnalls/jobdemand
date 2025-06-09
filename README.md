@@ -22,13 +22,13 @@ If the `python` command isn't recognized, then you can download Python 3 [here](
 ## Quick Setup
 You can quickly create a local `.venv` virtual environment for this project with the dependencies needed with the following command:
 ```bash
-source setup.sh
+source scripts/setup.sh
 ```
 
 ## Quick Run
 You can quickly run the project, pick job titles, and generate your results with the following command:
 ```bash
-source run.sh
+source scripts/run.sh
 ```
 
 ## Specify Dataset to Run App Against
@@ -40,7 +40,7 @@ python -m src.main "Table 6.x-Table 1.csv"
 ## Quick Build and Deploy
 You can quickly build the `frontend/` Vite + React app with the following command:
 ```bash
-souce rebuild.sh
+souce scripts/rebuild.sh
 ```
 Then, you can commit the newly created `assets/`, `index.html`, and `jobdemand.svg` created.
 
