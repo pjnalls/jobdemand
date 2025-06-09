@@ -33,8 +33,9 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  font-size: 3em;
+  line-height: 1;
+  padding-top: 16px;
 }
 
 button {
