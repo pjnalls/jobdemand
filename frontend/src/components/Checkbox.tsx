@@ -25,8 +25,7 @@ export const Checkbox = ({
     );
     if (existingJobIndex !== -1) {
       event.target.checked = false;
-      userJobs.splice(existingJobIndex, 1);
-      setUserJobs(userJobs);
+      setUserJobs(userJobs.filter((job) => job.id !== currentJob.id));
     } else {
       setUserJobs([
         ...userJobs,

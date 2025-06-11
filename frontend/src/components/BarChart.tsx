@@ -116,7 +116,6 @@ export const BarChart = ({
   return (
     <div className="chart-container">
       <div className="chart-controls">
-        <button onClick={handleUpdate}>Update Chart</button>
         <button
           onClick={() => {
             setUserJobs([]);

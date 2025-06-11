@@ -21,7 +21,11 @@ function App() {
       <section className="section-1">
         <h1 id="menu">📊 Jobdemand</h1>
         <p className="description">
-          Pick up to 10 jobs that your interested in or think you'd be good at.
+          {userJobs.length === 10
+            ? 'Deselect a job you picked or click the "Start Over" button below.'
+            : `Pick ${
+                userJobs.length === 0 ? '10' : `${10 - userJobs.length} more`
+              } jobs that you're interested in or think you'd be good at.`}
         </p>
         <Menu
           userJobs={userJobs}
