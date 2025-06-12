@@ -38,7 +38,7 @@ python -m src.main "Table 6.x-Table 1.csv"
 ```
 
 ## Quick Build and Deploy
-You can quickly build the `frontend/` Vite + React app with the following command:
+You can quickly build the `web/` Vite + React app with the following command:
 ```bash
 souce scripts/sbuild.sh
 ```
