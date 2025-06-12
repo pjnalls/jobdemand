@@ -39,7 +39,7 @@
 }
 @media (prefers-color-scheme: light) {
   .table {
-    border: 1px solid #ccc;
+    border: 1px solid #ddd;
   }
   .table tr:nth-child(even) {
     background-color: #eee;
