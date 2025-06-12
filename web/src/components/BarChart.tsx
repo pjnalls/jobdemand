@@ -16,22 +16,28 @@ export const BarChart = ({
   userJobs: Table62Table1Data[];
   setUserJobs: (userJobs: Table62Table1Data[]) => void;
 }) => {
-  const [prefersDark, setPrefersDark] = useState(false);
+  const [isDarkMode, setIsDarkMode] = useState(() => {
+    // Initial check for theme
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  });
+
+  useEffect(() => {
+    const mediaQueryList = window.matchMedia('(prefers-color-scheme: dark)');
+
+    const handleChange = (event: MediaQueryListEvent) => {
+      setIsDarkMode(event.matches);
+    };
+
+    mediaQueryList.addEventListener('change', handleChange);
+
+    return () => {
+      mediaQueryList.removeEventListener('change', handleChange);
+    };
+  }, []);
 
   useEffect(() => {
     Chart.defaults.font.size = 20;
   }, []);
-
-  useEffect(() => {
-    if (window) {
-      setPrefersDark(window.matchMedia('(prefers-color-scheme: dark)').matches);
-    }
-    if (prefersDark) {
-      Chart.defaults.color = '#fff';
-    } else {
-      Chart.defaults.color = '#000';
-    }
-  }, [prefersDark]);
 
   const [chartData, setChartData] = useState<{
     type: 'bar' | 'line' | 'pie' | 'doughnut';
@@ -144,28 +150,28 @@ export const BarChart = ({
                 title: {
                   display: true,
                   text: 'Employment Change % (2023-2033)',
-                  color: (prefersDark && '#fff') || '#000',
+                  color: isDarkMode ? '#fff' : '#000',
                 },
                 ticks: {
-                  color: prefersDark ? '#ccc' : '#777',
+                  color: isDarkMode ? '#ccc' : '#777',
                   // @ts-expect-error - callback is not typed
                   callback: (value: number) => `${value}%`,
                 },
                 grid: {
-                  color: prefersDark ? '#888' : '#ccc',
+                  color: isDarkMode ? '#888' : '#ccc',
                 },
               },
               x: {
                 title: {
                   display: true,
                   text: 'Job Titles',
-                  color: prefersDark ? '#fff' : '#000',
+                  color: isDarkMode ? '#fff' : '#000',
                 },
                 ticks: {
-                  color: prefersDark ? '#ccc' : '#777',
+                  color: isDarkMode ? '#ccc' : '#777',
                 },
                 grid: {
-                  color: prefersDark ? '#888' : '#ccc',
+                  color: isDarkMode ? '#888' : '#ccc',
                 },
               },
             },
