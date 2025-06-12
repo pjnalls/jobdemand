@@ -1,12 +1,10 @@
 .table {
   width: 100%;
-  border-collapse: collapse;
   margin-bottom: 10px;
-  border: 1px solid #333;
   margin: 0 auto;
   margin-bottom: 10px;
-  flex: 1 1 auto;
-  flex-basis: 300px;
+  border-collapse: collapse;
+  border: 1px solid #333;
 }
 .table th,
 .table td {
@@ -62,6 +60,6 @@
   width: 5%;
 }
 .employment-change {
-  width: 20%;
+  width: 7%;
   text-align: right;
 }
