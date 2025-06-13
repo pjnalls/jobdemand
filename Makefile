@@ -1,5 +1,5 @@
 download:
-	python -m src.download.data
+	python -m src.data.download
 
 preprocess:
 	python -m src.preprocess.dataset

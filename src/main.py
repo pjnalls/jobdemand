@@ -1,6 +1,6 @@
 import sys
 
-import src.visualize.results as results
+import src.visualuation.visualize as visualize
 
 
 if __name__ == "__main__":
@@ -8,7 +8,7 @@ if __name__ == "__main__":
     try:
         if len(sys.argv) == 2:
             file_path = sys.argv[1] if 'data' in sys.argv[1] else f"data/{sys.argv[1]}"    
-        results.visualize_results(file_path)
+        visualize.visualize_results(file_path)
     except FileNotFoundError as e:
         print(f"File not found. Please provide a valid file path.")
         sys.exit(1)

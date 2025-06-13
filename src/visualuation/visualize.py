@@ -1,10 +1,10 @@
 import matplotlib.pyplot as plt
 
-import src.elevate.filter as filter
+import src.elevate.evaluate as evaluate
 
 
 def visualize_results(file_path: str):
-    categories, values = filter.calculate_job_demand_for_user(
+    categories, values = evaluate.calculate_job_demand_for_user(
         file_path)
     
     plt.rcParams.update({'font.size': 22})

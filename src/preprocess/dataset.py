@@ -1,6 +1,6 @@
 import csv
 
-import src.utils.utils as utils
+import src.common.utils as utils
 
 
 def read_employment_change(file_path: str):
