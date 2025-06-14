@@ -2,13 +2,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 4px;
+  gap: 8px;
   width: 100%;
   margin-bottom: 8px;
 }
 input[type='text'] {
   width: 100%;
-  padding: 8.5px;
+  padding: 9.25px;
   border: 1px solid #444;
   background-color: #333;
   color: #eee;
@@ -21,7 +21,7 @@ input[type='text']::placeholder {
 
 @media (max-width: 768px) {
   input[type='text'] {
-    padding: 4px;
+    padding: 5px;
     font-size: 14px;
   }
 }
@@ -30,6 +30,7 @@ input[type='text']::placeholder {
   input[type='text'] {
     color: #333;
     border: 1px solid #ddd;
+    background-color: #fff;
   }
   input[type='text']::placeholder {
     color: #999;
