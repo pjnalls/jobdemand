@@ -7,16 +7,16 @@
   width: 200px;
   display: flex;
   justify-content: space-between;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 @media (max-width: 768px) {
   .page-numbers {
-    width: 120px;
+    width: 180px;
     display: flex;
     justify-content: space-between;
-    margin-left: 10px;
-    margin-right: 10px;
   }
   .page-number {
     font-size: 0.8em;

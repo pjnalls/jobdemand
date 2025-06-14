@@ -1,10 +1,11 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Pagination from './Pagination';
 import type { Table62Table1Data } from '../types';
 
 import { Table } from './Table';
 
 import './Menu.css';
+import SearchBar from './SearchBar';
 
 export const Menu = ({
   userJobs,
@@ -27,22 +28,39 @@ export const Menu = ({
     const endIndex = startIndex + itemsPerPage;
     return data.slice(startIndex, endIndex);
   };
-
-  const currentData = sliceData(
-    sortedTable62Table1Data,
-    currentPage,
-    itemsPerPage
+  const [filteredJobs, setFilteredJobs] = useState<Table62Table1Data[]>(sortedTable62Table1Data.filter((job) =>
+    job['2023 National Employment Matrix title']
+      .toLowerCase()
+      .includes("")
+  ));
+  const [currentJobData, setCurrentJobData] = useState<Table62Table1Data[]>(
+    sliceData(sortedTable62Table1Data, currentPage, itemsPerPage)
   );
+  
+  useEffect(() => {
+    setCurrentJobData(sliceData(filteredJobs, currentPage, itemsPerPage));
+  }, [filteredJobs, currentPage, itemsPerPage]);
 
   return (
     <div className="menu">
-      <Table
-        currentData={currentData}
-        userJobs={userJobs}
-        setUserJobs={setUserJobs}
-      />
+      <div className="search-bar-and-table">
+        <SearchBar
+          setCurrentJobData={setCurrentJobData}
+          sortedTable62Table1Data={sortedTable62Table1Data}
+          filteredJobs={filteredJobs}
+          setFilteredJobs={setFilteredJobs}
+          sliceData={sliceData}
+          currentPage={currentPage}
+          itemsPerPage={itemsPerPage}
+        />
+        <Table
+          currentData={currentJobData}
+          userJobs={userJobs}
+          setUserJobs={setUserJobs}
+        />
+      </div>
       <Pagination
-        dataCount={sortedTable62Table1Data.length}
+        dataCount={filteredJobs.length}
         perPageCount={itemsPerPage}
         currentPage={currentPage}
         setCurrentPage={setCurrentPage}

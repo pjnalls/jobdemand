@@ -3,7 +3,17 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  height: 580px;
+  height: 540px;
   overflow: auto;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .menu {
+    height: 480px;
+  }
+}
+
+.search-bar-and-table {
   width: 100%;
 }

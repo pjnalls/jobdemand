@@ -29,6 +29,8 @@ tr:last-child td:last-child {
 .table th,
 .table td {
   padding: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
 .table th {
   background-color: #000;
