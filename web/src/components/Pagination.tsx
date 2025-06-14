@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 import './Pagination.css';
 
@@ -37,6 +37,9 @@ export default function Pagination({
   const renderPageNumbers = () => {
     const pages = [];
     for (let i = currentPage; i <= currentPage + 5; i++) {
+      if (i - 1 > dataCount / 10) {
+        break;
+      }
       pages.push(
         <span
           style={currentPage === i ? { color: '#1075c0', fontWeight: 'bold', cursor: 'default' } : { cursor: 'pointer' }}
@@ -73,7 +76,7 @@ export default function Pagination({
   const renderNextButton = () => {
     return (
       <>
-        {currentPage < pages ? (
+        {currentPage < pages && currentPage <= dataCount / 10 ? (
           <button
             style={{ cursor: 'pointer' }}
             onClick={() => setOffset(currentPage + 1)}
@@ -108,7 +111,7 @@ export default function Pagination({
   const renderLastButton = () => {
     return (
       <>
-        {currentPage < pages ? (
+        {currentPage < pages && currentPage <= dataCount / 10 ? (
           <button
             style={{ cursor: 'pointer' }}
             onClick={() => setOffset(pages)}
@@ -123,6 +126,10 @@ export default function Pagination({
       </>
     );
   };
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [dataCount, setCurrentPage]);
 
   return (
     <div className="pagination-container">
