@@ -42,6 +42,7 @@ h1 {
 
 button {
   border: 1px solid #333;
+  color: #eee;
   border-radius: 6px;
   -moz-border-radius: 4px;
   padding: 0.6em 1.2em;
@@ -78,6 +79,7 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
     border-color: #ddd;
+    color: #222;
   }
 }
 .description {
