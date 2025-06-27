@@ -65,7 +65,7 @@ export default function Pagination({
             Back
           </button>
         ) : (
-          <button style={{ cursor: 'pointer' }} disabled>
+          <button style={{ cursor: 'not-allowed', opacity: 0.5 }} disabled={true}>
             Back
           </button>
         )}
@@ -84,7 +84,7 @@ export default function Pagination({
             Next
           </button>
         ) : (
-          <button style={{ cursor: 'pointer' }} disabled>
+          <button style={{ cursor: 'not-allowed', opacity: 0.5 }} disabled={true}>
             Next
           </button>
         )}
@@ -100,7 +100,7 @@ export default function Pagination({
             First
           </button>
         ) : (
-          <button style={{ cursor: 'pointer' }} disabled>
+          <button style={{ cursor: 'not-allowed', opacity: 0.5 }} disabled={true}>
             First
           </button>
         )}
@@ -119,7 +119,7 @@ export default function Pagination({
             Last
           </button>
         ) : (
-          <button style={{ cursor: 'pointer' }} disabled>
+          <button style={{ cursor: 'not-allowed', opacity: 0.5 }} disabled={true}>
             Last
           </button>
         )}
