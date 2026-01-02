@@ -12,7 +12,7 @@
 A Python console app and React Vite web app that generate charts showing the jobs users pick and their demand from 2023 to 2033.
 
 
-## Prerequiste
+## Prerequisite
 Please ensure Python 3 is installed on your machine. You can verify with the following command:
 ```bash
 python -V # => Python 3.x.x
@@ -32,7 +32,7 @@ source scripts/run.sh
 ```
 
 ## Specify Dataset to Run App Against
-Please decide on a `.csv` file you want pick your job titles for and run the following command replacing `6.x` with `6.1`,`6.2`, or `6.3`:
+Please decide on a `.csv` file you want to pick your job titles from and run the following command, replacing `6.x` with `6.1`,`6.2`, or `6.3`:
 ```bash
 python -m src.main "Table 6.x-Table 1.csv"
 ```
@@ -42,7 +42,7 @@ You can quickly build the `web/` Vite + React app with the following command:
 ```bash
 souce scripts/sbuild.sh
 ```
-Then, you can commit the newly created `assets/`, `index.html`, and `jobdemand.svg` created.
+Then, you can commit the newly created `assets/`, `index.html`, and `jobdemand.svg`.
 
 ## Credit
-`data/skills.xlsx` file is public data provided by the U.S. Bureau of Labor Statistics which you can download [here](https://www.bls.gov/emp/skills/skills.xlsx).
+`data/skills.xlsx` file is public data provided by the U.S. Bureau of Labor Statistics, which you can download [here](https://www.bls.gov/emp/skills/skills.xlsx).
